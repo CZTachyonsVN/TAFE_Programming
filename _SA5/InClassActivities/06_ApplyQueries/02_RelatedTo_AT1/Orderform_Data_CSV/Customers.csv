@@ -1,0 +1,5 @@
+CustomerID,Surname,GivenName,Street,Suburb,State,PostZipCode,Phone
+1,Programmer,A.,52 Code St,Suburb A,ABC,AB01,1111
+2,Productive,B.,21 Report Pl,Suburb A,ABC,AB01,1112
+3,Clarity,C.,37 Data Court,Suburb B,BCD,BC02,1113
+4,Veloper,D.,108 Field Blvd,Suburb B,BCD,BC02,1114

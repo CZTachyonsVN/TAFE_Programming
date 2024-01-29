@@ -1,0 +1,29 @@
+The provided .sql files might cause errors and may need adjusting.
+
+For example, take the following .sql file.
+
+   USE [century_inventions]
+   GO
+   /****** Object:  Database [century_inventions]    Script Date: 6/05/2022 11:56:51 AM ******/
+   CREATE DATABASE [century_inventions]
+    CONTAINMENT = NONE
+    ON  PRIMARY 
+   ( NAME = N'century_inventions', FILENAME = N'C:\Program Files\Microsoft SQL Server\MSSQL15.SQLEXPRESS\MSSQL\DATA   \century_inventions.mdf' , SIZE = 8192KB , MAXSIZE = UNLIMITED, FILEGROWTH = 65536KB )
+    LOG ON 
+   ( NAME = N'century_inventions_log', FILENAME = N'C:\Program Files\Microsoft SQL Server\MSSQL15.SQLEXPRESS\MSSQL   \DATA\century_inventions_log.ldf' , SIZE = 8192KB , MAXSIZE = 2048GB , FILEGROWTH = 65536KB )
+   GO
+
+
+-------------
+
+In SQL Server v17 the following needed to be adjusted:
+
+ - Potentially change the USE [century_inventions] to USE [master].
+
+ - Potentially change the location in FILENAME to where SQL Server was installed on the PC.
+    (IMPORTANT:  Don't copy and paste that line; this will be different
+     for each installation of Microsoft SQL Server)
+   e.g. FILENAME = N'C:\Program Files\Microsoft SQL Server\...
+                                MSSQL14.SQLSERVER2017D\MSSQL\DATA'
+
+

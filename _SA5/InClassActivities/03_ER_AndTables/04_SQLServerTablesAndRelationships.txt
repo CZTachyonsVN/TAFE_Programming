@@ -1,0 +1,41 @@
+
+
+Adding Tables in an SQL Server database via SQL Server Management Studio:
+
+Creating a Database with Tables and Relationships (MS SQL)
+Brian Green
+https://www.youtube.com/watch?v=H7uGGg1BQ2Y
+
+----------------------------
+
+Adding Relationships between Tables within SQL Server Management Studio:
+
+How To Quickly Create Relationships In SQL Server 2014
+Steve Bishop
+https://www.youtube.com/watch?v=PHjwX-cexIA
+
+
+Create table and relationship in Microsoft SQL Server
+Sonya Zhang
+https://www.youtube.com/watch?v=bdYm8J4SIik
+
+----------------------------
+
+Generating a Data Dictionary from your SQL Server Database using a third party tool.
+Complete a quick search for 3rd party tools applicable to this task.  For instance:
+
+SQL Data Dictionary
+https://www.sqldatadictionary.com/
+
+Documenting SQL Server databases with dbForge Documenter for SQL Server
+https://www.youtube.com/watch?v=-M9WPWNvFxM
+
+Introduction to Dataedo 5 - powerful database documentation tool
+https://www.youtube.com/watch?v=r8bUUIJMMu8
+
+Automatic Documentation Generation for SQL Server Database Code
+Visual Expert
+https://www.youtube.com/watch?v=wBzZxPXig8o
+
+
+

@@ -1,0 +1,116 @@
+
+----------------------------------------------------------------------
+VIDEO SERIES ON MICROSOFT SQL SERVER DATABASES
+----------------------------------------------------------------------
+
+Starting with:  Learn SQL in 1 Hour - SQL Basics for Beginners
+Joey Blue
+https://www.youtube.com/watch?v=9Pzj7Aj25lw&list=PLD20298E653A970F8
+
+Starting with:  01. Getting Started with Microsoft SQL Server 2019 | Installation & Configuration | Database Design
+Joed Goh, Education is Life
+https://www.youtube.com/watch?v=H7Vj6lCZ9sk
+
+Starting with:  01-How to check if Microsoft SQL Server exists on your machine
+Jagadish Pulakhandam
+https://www.youtube.com/watch?v=SFJq7V8mrWA&list=PL9E17B82D53F3E6FD&index=1
+
+Starting with:  SQL Server 1 - Intro to SQL Server
+Caleb Curry
+https://www.youtube.com/watch?v=WttoAlS__8k&list=PL_c9BZzLwBRKC2PJwLFxc2y6cyXYYQzj3
+
+
+----------------------------
+TABLES
+----------------------------
+Adding Tables in an SQL Server database via SQL Server Management Studio:
+
+Creating a Database with Tables and Relationships (MS SQL)
+Brian Green
+https://www.youtube.com/watch?v=H7uGGg1BQ2Y
+
+Learn SQL in 1 Hour - SQL Basics for Beginners
+Joey Blue
+https://www.youtube.com/watch?v=9Pzj7Aj25lw
+
+02 Creating Database | Designing Database Solutions with Microsoft SQL Server 2019
+Joed Goh, Education is Life
+https://www.youtube.com/watch?v=qk08NTPDAdY
+
+
+----------------------------
+RELATIONSHIPS
+----------------------------
+Adding Relationships between Tables within SQL Server Management Studio:
+
+Creating a Database with Tables and Relationships (MS SQL)
+Brian Green
+https://www.youtube.com/watch?v=H7uGGg1BQ2Y
+
+How To Quickly Create Relationships In SQL Server 2014
+Steve Bishop
+https://www.youtube.com/watch?v=PHjwX-cexIA
+
+Create table and relationship in Microsoft SQL Server
+Sonya Zhang
+https://www.youtube.com/watch?v=bdYm8J4SIik
+
+
+----------------------------
+INDEXES
+----------------------------
+
+11-How to create an index for a column in a table in a SQL Server database
+Jagadish Pulakhandam
+https://www.youtube.com/watch?v=BDl7VsUxF6o
+
+SQL Server 34 - How to Create and Drop Indexes
+Caleb Curry
+https://www.youtube.com/watch?v=B6R6pkS2MTA
+
+
+---------------------------------------------------
+IMPORTING DATA AND SELECT QUERIES
+---------------------------------------------------
+
+How to Import Data from Microsoft Excel to Windows Azure SQL Database - Quick Tips Ep44
+Joey Blue
+https://www.youtube.com/watch?v=QAd2uAGNHPw&list=PLD20298E653A970F8&index=55
+
+04 Transact-SQL: The SELECT Statement | Designing Database Solutions with Microsoft SQL Server 2019
+Joed Goh, Education is Life
+https://www.youtube.com/watch?v=MYHBEHYq6Hc
+
+Also: 05, 06 and 07 from Joed Goh, Education is Life
+
+
+---------------------------------------------------
+QUERIES - ACTION QUERIES
+---------------------------------------------------
+
+08 Modifying Data: INSERT, UPDATE, DELETE | Designing Database Solutions with Microsoft SQL Server
+Joed Goh, Education is Life
+https://www.youtube.com/watch?v=F95N14qBXDQ
+
+
+
+---------------------------------------------------------------------------
+
+Generating a Data Dictionary from your SQL Server Database using a third party tool.
+Complete a quick search for 3rd party tools applicable to this task.  For instance:
+
+SQL Data Dictionary
+https://www.sqldatadictionary.com/
+
+Documenting SQL Server databases with dbForge Documenter for SQL Server
+https://www.youtube.com/watch?v=-M9WPWNvFxM
+
+Introduction to Dataedo 5 - powerful database documentation tool
+https://www.youtube.com/watch?v=r8bUUIJMMu8
+
+Automatic Documentation Generation for SQL Server Database Code
+Visual Expert
+https://www.youtube.com/watch?v=wBzZxPXig8o
+
+
+

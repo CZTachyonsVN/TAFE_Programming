@@ -1,0 +1,7 @@
+OrderID,CustomerID,OrderDate,ShippingDate
+1,3,8-Feb-24,8-Feb-24
+2,2,15-Feb-24,15-Feb-24
+3,2,20-Feb-24,20-Feb-24
+4,2,24-Feb-24,24-Feb-24
+5,2,29-Jul-24,24-Sep-24
+6,2,30-Aug-24,2-Sep-24

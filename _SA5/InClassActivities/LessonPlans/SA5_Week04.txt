@@ -1,0 +1,52 @@
+
+I: Information
+A: Activity
+R: Resources
+
+E: Mark.O'Reilly@tafeqld.edu.au
+
+---------------------
+Morning Lesson
+----------------------
+
+A: Q&A re ICTICT523 assessment (ICTICT523_AT2_PE_GatherDataReportTemplate.docx)
+ 
+I:  Review of Entity Relationship Diagrams (ERDs) (02_ERAndTables.doc). 
+A: Review of the ERDs from Week 3
+A: Focus on further selected ERD scenarios (03_ERAndTableExercises.doc)
+
+A: Preparation of one of the ERDs in Visual Paradigm
+A: Preparation of a sample screen in Prototyper
+
+---
+
+R: (Mark's USB Material) \VideoMaterial\ThirdPartySoftware\VisualParadigm\CreatingERD1_VisualParadigm.mp4
+R: \VideoMaterial\ThirdPartySoftware\Prototyper\CreatingPrototype1.mp4
+
+---
+
+A: Addnl Group - Mock Interview (if/as required)
+
+
+---------------------
+Afternoon Lesson
+----------------------
+
+I:  Introduction to Normalisation
+     (\SA5_Mark\Student\InClassActivities\03_ER_AndTables\03a_SomeBackgroundOnNormalisation.doc)
+     (\SA5_Mark\Student\InClassActivities\03_ER_AndTables\03b_SecondSampleNormalisation.doc)
+A: Complete Normalisation of first form for ICTICT523 assignment as a class exercise.
+
+A: Individual work on the ICTICT523 sample quiz (ICTICT523_AT1_KQ_SampleQuiz.docx).
+A: Class discussion based on the ICTICT523 sample quiz.
+
+A: Individual work on the ICTICT523 assessment (ICTICT523_AT2_PE_GatherDataReportTemplate.docx)
+
+---
+
+A: Q&A re the preparation of an ERD in Visual Paradigm and sample screens in Prototyper.
+R: (Mark's USB Material) \VideoMaterial\ThirdPartySoftware\VisualParadigm\CreatingERD1_VisualParadigm.mp4
+R: \VideoMaterial\ThirdPartySoftware\Prototyper\CreatingPrototype1.mp4
+
+
+

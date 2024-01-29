@@ -1,0 +1,4 @@
+BusinessLocationID,ClientID,Address1,Address2,SuburbID,ContactPerson,Surname,ContactPhone,ContactEmail
+1,1,Lot 7,Warehouse Blvd,Other,Frank,A,2211,contact1@client1.com
+2,1,Lot 23,Industry Pl,Other,Jess,B,8954,contact2@client1.com
+3,1,Lot 15,Commercial Cres,Another,Steve,C,5478,contact3@client1.com

@@ -1,0 +1,10 @@
+ProductID,ProductName,CurrentRetailPrice,QuantityOnHand
+1,System 1,1800.00,22
+2,System 2,2100.00,19
+3,System 3,2300.00,10
+4,Our Speakers,29.95,48
+5,Our Printer,349.85,40
+6,Our Modem,299.65,18
+7,Our Cables,49.95,89
+8,Another Printer,452.00,25
+9,Another Modem,309.95,4

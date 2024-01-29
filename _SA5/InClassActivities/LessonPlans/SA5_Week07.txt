@@ -1,0 +1,51 @@
+
+I: Information
+A: Activity
+R: Resources
+
+E: Mark.O'Reilly@tafeqld.edu.au
+
+---------------------
+Morning Lesson
+----------------------
+
+A: Ask for and discuss any questions the students may have with ICTDBS506 - Assessment Task 1.
+
+R: \SA5_Mark\Student\Assessment\2_ICTDBS506_DesignDatabases\ICTDBS506_AT1_W_TQM_V1.docx
+
+---
+
+I:  Ask for and discuss any questions the students may have with ICTDBS506 - Assessment Task 2
+
+R: Resource for structuring the ICTDBS506_AT2 assignment:
+(\SA5_Mark\Student\Assessment\2_ICTDBS506_DesignDatabases\ ICTDBS506_AT2_PE_DesignDatabaseReportTemplate.docx)
+
+---
+
+I:  Introduction to and discussion in relation to creative thinking & originating concepts
+
+A: With reference to the current database scenario, step through and discuss the questions from BSBCRT512 AT3.  Students to take notes so that this assessment can be started in class this morning and as a homework activity.
+
+R: (\SA5_Mark\Student\Assessment\3_BSBCRT512 OriginateConcepts BSBCRT512_AT3_W_TQM_v1.docx)
+
+---
+
+I:  Reminder re the various videos on ERDs, Normalisation and the use of the various third-party programs:
+  - Visual Paradigm, MS Access, LibreOffice Base & Prototyper
+
+R: Mark's USB Material
+(\VideoMaterial\ThirdPartySoftware\...)
+
+
+---------------------
+Afternoon Lesson
+----------------------
+
+A: If required - review of / discussion re the ICTDBS506_AT1 assessment and ICTICT523 resits.
+A: Individual work on ICTDBS506 - AT1 & AT2, plus BSBCRT512 - AT3, with teacher support.
+
+
+
+
+
+

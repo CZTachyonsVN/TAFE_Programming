@@ -1,0 +1,45 @@
+------------------------------
+For Java:
+------------------------------
+
+IntelliJ (Community):
+https://www.jetbrains.com/idea/download/#section=windows
+
+Notepad++:
+https://notepad-plus-plus.org/downloads/
+
+EssModel_binary_22:  
+TBA
+
+
+------------------------------
+For SA5:
+------------------------------
+
+Libre Office:  
+https://www.libreoffice.org/download/download/
+
+Visual Paradigm (Community):
+https://www.visual-paradigm.com/download/community.jsp
+
+Prototyper:
+https://www.justinmind.com/
+
+Project Libre:
+https://www.projectlibre.com/
+
+Microsoft SQL Server (Express Edition):
+https://www.microsoft.com/en-au/sql-server/sql-server-downloads
+
+
+------------------------------
+For OOP1:
+------------------------------
+
+Microsoft Visual Studio
+https://visualstudio.microsoft.com/vs/older-downloads/
+
+Associated video links will be provided by your OOP1 teacher.
+
+
+

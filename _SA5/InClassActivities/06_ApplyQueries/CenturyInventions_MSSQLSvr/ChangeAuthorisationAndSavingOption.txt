@@ -1,0 +1,19 @@
+------------------------------
+Re: MS SQL Server
+------------------------------
+
+With restoring the Century_Inventions database:
+
+ALTER AUTHORIZATION ON DATABASE:: century_inventions TO sa
+
+
+
+------------------------------
+Allowing the updating of MS SQL Server tables after they have been created:
+
+(Set this option to false - with due consideration and care.)
+
+Tools (Menu) - Options - Designers:
+    [] Prevent saving changes that require table re-creation = false.
+
+

@@ -1,0 +1,4 @@
+ClientID,OrganisationName,Address1,Address2,SuburbID,HeadOfficePhone,HeadOfficeEmail,State
+1,Warehouse Group One,PO Box 132,101 Sample St,Sample,1234,manager@warehousegroupone,QLD
+2,Warehouse Group Two,PO Box 349,57 Alternate Pl,Sample,3344,contact@WHGrp2,QLD
+3,Warehouse Group Three,PO Box 987,25 Another Av,Sample,9876,spokesperson@WHG3,NSW

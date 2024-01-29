@@ -1,0 +1,40 @@
+
+I: Information
+A: Activity
+
+E: Mark.O'Reilly@tafeqld.edu.au
+
+---------------------
+Morning Lesson
+----------------------
+
+A: Q&A re ICTICT523 assessment (ICTICT523_AT2_PE_GatherDataReportTemplate.docx)
+
+A: Review of the ERDs from Week 4
+A: Focus on further selected ERD scenarios (03_ERAndTableExercises.doc)
+
+A: Preparation of one of the ERDs in Visual Paradigm
+A: Preparation of a sample screen in Prototyper
+
+I:  Review of Normalisation
+     (\SA5_Mark\Student\InClassActivities\03_ER_AndTables\03a_SomeBackgroundOnNormalisation.doc)
+     (\SA5_Mark\Student\InClassActivities\03_ER_AndTables\03b_SecondSampleNormalisation.doc)
+A: Complete Normalisation of first form for ICTICT523 assignment as a class exercise.
+
+
+---------------------
+Afternoon Lesson
+----------------------
+
+A: Review of / discussion re the ICTICT523 sample quiz (ICTICT523_AT1_KQ_SampleQuiz.docx).
+A: Completion of the ICTICT523 sample quiz via Connect.
+
+A: Individual work on the ICTICT523 assessment (ICTICT523_AT2_PE_GatherDataReportTemplate.docx)
+A: Review of the ERDs and sample screens being considered by individual class members.
+
+A: Preparation of the ICTICT523 assessment ERD in Visual Paradigm
+A: Preparation of the ICTICT523 assessment sample screens in Prototyper
+
+
+
+

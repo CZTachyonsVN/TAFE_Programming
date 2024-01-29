@@ -1,0 +1,16 @@
+
+Activity 1:
+-----------
+
+Using one of the following Relational Database Management Systems and the files provided in this folder, review the tables and relationships for the Century Inventions database.
+
+Prepare a rough draft interface design for the Century Inventions database.
+
+
+-------------------------------------------------------------------
+Suggested Relational Database Management Systems:
+
+Microsoft Access
+LibreOffice Base
+Microsoft SQL Server
+mySQL

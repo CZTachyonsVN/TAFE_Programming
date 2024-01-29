@@ -1,0 +1,48 @@
+
+---------------------
+https://ask.libreoffice.org/en/question/32355/inside-a-database-sql-query-to-get-a-list-of-tables/
+---------------------
+
+SELECT * FROM INFORMATION_SCHEMA.SYSTEM_COLUMNS WHERE TABLE_NAME NOT LIKE 'SYSTEM_%';
+
+SELECT * FROM INFORMATION_SCHEMA.SYSTEM_TABLES WHERE TABLE_TYPE='TABLE';
+
+
+
+---------------------
+https://forum.openoffice.org/en/forum/viewtopic.php?f=13&t=64473
+---------------------
+
+
+
+
+---------------------
+https://ask.libreoffice.org/en/question/82469/need-an-sql-command-to-view-the-table-structure-in-base/
+---------------------
+
+
+
+
+
+---------------------
+https://forum.openoffice.org/en/forum/viewtopic.php?f=13&t=37387
+---------------------
+
+SELECT
+   A.table_type,  -- TABLE or VIEW
+   A.hsqldb_type,   -- CACHED or TEXT
+   A.table_name,
+
+   B.column_name,
+
+   B.type_name,
+   B.column_size,
+   A.remarks
+
+FROM information_schema.system_tables as A, information_schema.system_columns as B
+--  information_schema.system_indexinfo  is index information
+
+WHERE A.table_schem = 'PUBLIC'
+   AND A.table_name = B.table_name
+
+ORDER by A.TABLE_TYPE, A.table_name, B.ordinal_position

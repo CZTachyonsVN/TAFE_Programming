@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"c242d5bd6bb1e6f2","x":-580,"y":-320,"width":340,"height":416,"type":"text","text":"Task 2 - Due Week 4 (16/02/24)"},
+		{"id":"b198372a84d536d3","type":"text","text":"**Resources**\n___\n- [Assessment report template](Assessment/1_ICTICT523_GatherBusnData/ICTICT523_AT2_PE_GatherData_ReportTemplate.docx)\n- [Assessment sheet](ICTICT523_AT2_PE_TQM_V1.docx)\n- [Assessment criteria](Assessment/1_ICTICT523_GatherBusnData/ICTICT523_AT2_PE_MC_TQM_V1.docx)\n- [Assessment scenario](Assessment/1_ICTICT523_GatherBusnData/ICTICT523_AT2_Scenario_MMR.docx)","x":-540,"y":-220,"width":260,"height":280}
+	],
+	"edges":[]
+}

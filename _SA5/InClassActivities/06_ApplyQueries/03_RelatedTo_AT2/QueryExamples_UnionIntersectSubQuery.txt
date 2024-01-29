@@ -1,0 +1,71 @@
+
+----------------------------
+UNION ALL
+----------------------------
+
+SELECT DISTINCT dbo.Customers.Surname
+FROM dbo.Customers INNER JOIN
+     dbo.Orders ON dbo.Customers.CustomerID = dbo.Orders.CustomerID
+WHERE (dbo.Orders.OrderDate > GETDATE() - 100)
+UNION ALL
+SELECT DISTINCT dbo.Customers.Surname
+FROM dbo.Customers INNER JOIN
+     dbo.Orders ON dbo.Customers.CustomerID = dbo.Orders.CustomerID INNER JOIN
+     dbo.OrderLines ON dbo.Orders.OrderID = dbo.OrderLines.OrderID INNER JOIN
+     dbo.Products ON dbo.OrderLines.ProductID = dbo.Products.ProductID
+WHERE (dbo.Products.ProductName LIKE '%system%')
+ORDER BY dbo.Customers.Surname
+
+
+
+----------------------------
+UNION
+----------------------------
+
+SELECT DISTINCT dbo.Customers.Surname
+FROM dbo.Customers INNER JOIN
+     dbo.Orders ON dbo.Customers.CustomerID = dbo.Orders.CustomerID
+WHERE (dbo.Orders.OrderDate > GETDATE() - 100)
+UNION
+SELECT DISTINCT dbo.Customers.Surname
+FROM dbo.Customers INNER JOIN
+     dbo.Orders ON dbo.Customers.CustomerID = dbo.Orders.CustomerID INNER JOIN
+     dbo.OrderLines ON dbo.Orders.OrderID = dbo.OrderLines.OrderID INNER JOIN
+     dbo.Products ON dbo.OrderLines.ProductID = dbo.Products.ProductID
+WHERE (dbo.Products.ProductName LIKE '%system%')
+ORDER BY dbo.Customers.Surname
+
+
+----------------------------
+INTERSECT
+----------------------------
+
+SELECT DISTINCT dbo.Customers.Surname
+FROM dbo.Customers INNER JOIN
+     dbo.Orders ON dbo.Customers.CustomerID = dbo.Orders.CustomerID
+WHERE (dbo.Orders.OrderDate > GETDATE() - 100)
+INTERSECT
+SELECT DISTINCT dbo.Customers.Surname
+FROM dbo.Customers INNER JOIN
+     dbo.Orders ON dbo.Customers.CustomerID = dbo.Orders.CustomerID INNER JOIN
+     dbo.OrderLines ON dbo.Orders.OrderID = dbo.OrderLines.OrderID INNER JOIN
+     dbo.Products ON dbo.OrderLines.ProductID = dbo.Products.ProductID
+WHERE (dbo.Products.ProductName LIKE '%system%')
+ORDER BY dbo.Customers.Surname
+
+
+----------------------------
+SUB-QUERY
+----------------------------
+
+SELECT DISTINCT dbo.Customers.Surname
+FROM dbo.Customers INNER JOIN
+     dbo.Orders ON dbo.Customers.CustomerID = dbo.Orders.CustomerID INNER JOIN
+     dbo.OrderLines ON dbo.Orders.OrderID = dbo.OrderLines.OrderID INNER JOIN
+     dbo.Products ON dbo.OrderLines.ProductID = dbo.Products.ProductID
+WHERE (dbo.Products.ProductName LIKE '%system%')
+AND dbo.Customers.Surname IN (SELECT DISTINCT dbo.Customers.Surname
+FROM dbo.Customers INNER JOIN
+     dbo.Orders ON dbo.Customers.CustomerID = dbo.Orders.CustomerID
+WHERE (dbo.Orders.OrderDate > GETDATE() - 100))
+ORDER BY dbo.Customers.Surname

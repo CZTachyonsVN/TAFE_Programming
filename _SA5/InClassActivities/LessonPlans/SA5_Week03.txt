@@ -1,0 +1,32 @@
+
+I: Information
+A: Activity
+
+E: Mark.O'Reilly@tafeqld.edu.au
+
+
+---------------------
+Morning Lesson
+----------------------
+
+I:  Review of Entity Relationship Diagrams (ERDs) (02_ERAndTables.doc).
+A: Selected ERD scenarios (03_ERAndTableExercises.doc).
+
+A: Group 1 - Mock Interview
+
+---------------------
+Afternoon Lesson
+----------------------
+
+A: Complete exercises re Client Needs (04_ClientNeeds_Activities.doc, Qns 1, 3 & 4)
+
+A: Groups 2 & 3 - Mock Interviews
+
+I:  Review of ICTICT523 Assessment Task 2 (AT2) (ICTICT523_AT2_PE_TQM_V1.docx)
+I:  Review ICTICT523 AT2 report template (ICTICT523_AT2_PE_GatherDataReportTemplate.docx)
+A: Start filling out Pages 2-5 of template (ICTICT523_AT2_PE_GatherDataReportTemplate.docx)
+
+A: Prepare draft ERD and sample screens for the ICTICT523 assessment
+
+
+

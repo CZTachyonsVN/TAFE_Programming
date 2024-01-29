@@ -1,0 +1,49 @@
+
+I: Information
+A: Activity
+R: Resources
+
+E: Mark.O'Reilly@tafeqld.edu.au
+
+---------------------
+Morning Lesson
+----------------------
+
+I:  Discussion and quick review regarding the ICTDBS506 - Assessment Task 1.  This task is set as a homework activity.  Any questions that are unclear or where the answer is unclear, please bring to class next week or the week after.
+
+R: \SA5_Mark\Student\Assessment\2_ICTDBS506_DesignDatabases\ICTDBS506_AT1_W_TQM_V1.docx
+
+---
+
+I:  Discussion and quick review regarding the ICTDBS506 - Assessment Task 2 (an extension of the ICTICT523 assignment).  This task will be worked on in class in the coming 2-3 weeks.
+
+R: Resource for structuring your assignment:
+(\SA5_Mark\Student\Assessment\2_ICTDBS506_DesignDatabases\ ICTDBS506_AT2_PE_DesignDatabaseReportTemplate.docx)
+
+R: Official assessment document:
+(\SA5_Mark\Student\Assessment\2_ICTDBS506_DesignDatabases\ ICTDBS506_AT2_PE_TQM_V1.docx)
+
+---
+
+I:  Discussion and demonstration of the use of Microsoft Access and/or LibreOffice Base for the development of the table structure for the ICTDBS506 database assignment.
+
+R: Mark's USB Material
+(\VideoMaterial\ThirdPartySoftware\LibreOfficeBase\ CreatingAnOrdersDatabase_LibreOfficeBase.mp4)
+
+R: (\VideoMaterial\ThirdPartySoftware\MicrosoftAccess\ CreatingAnOrdersDatabase_MSAcces.mp4)
+
+A: Each student is to select which database application they wish to use for their ICTDBS506 assessment.
+
+
+---------------------
+Afternoon Lesson
+----------------------
+
+A: If required - review of / discussion re the ICTICT523 assessments / resits.
+A: Individual work on ICTDBS506 - Assessment Task 2 with teacher support.
+
+
+
+
+
+

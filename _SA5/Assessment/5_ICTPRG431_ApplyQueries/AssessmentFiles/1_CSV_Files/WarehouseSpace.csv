@@ -1,0 +1,3 @@
+WarehouseSpaceID,BusinessLocationID,Space_Reference,Description,GridX_Size,GridY_Size,Notes
+1,1,FctryFlr002,Factory floor 2 - manufacturing,30,20,High risk area
+2,1,FctryFlr005,Factory floor 5 - manufacturing,25,35,Finishing area

@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"861a22fe4a1beb8c","x":-380,"y":100,"width":250,"height":340,"type":"text","text":"**Orders**\n___\nPrimary Key: \nOrderID\n___\nForeign Key:\nClientID"},
+		{"id":"0cc1faeba771f9f1","x":-380,"y":-180,"width":250,"height":180,"type":"text","text":"**Clients**\n___\nPrimary Key:\nClientID\n___\n"},
+		{"id":"454ba16edb18c0d8","x":40,"y":100,"width":250,"height":340,"type":"text","text":"**OrderLines**\n___\nPrimary Key:\nOrderLinesID\n____\nForeign Key:\nOrderID\nProductsCode"},
+		{"id":"dbbbac3e6114307f","x":40,"y":-180,"width":250,"height":180,"type":"text","text":"**Products**\n___\nPrimary Key:\nProductsCode\n___\n\n"}
+	],
+	"edges":[
+		{"id":"21decf2e5681aeb4","fromNode":"0cc1faeba771f9f1","fromSide":"bottom","toNode":"861a22fe4a1beb8c","toSide":"top","label":"1 to many"},
+		{"id":"978d086b95d229fa","fromNode":"861a22fe4a1beb8c","fromSide":"right","toNode":"454ba16edb18c0d8","toSide":"left","label":"1 to many"},
+		{"id":"7254f9886fb0729c","fromNode":"dbbbac3e6114307f","fromSide":"bottom","toNode":"454ba16edb18c0d8","toSide":"top","label":"1 to many"}
+	]
+}
