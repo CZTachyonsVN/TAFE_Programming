@@ -11,8 +11,13 @@
             "id": "18b14035c6b8e046",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_Java/Notes/Week1_exercisesPseudocode.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -75,6 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_Java/Notes/Week1_exercisesPseudocode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f8cb35b841268550",
@@ -104,7 +111,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_Java/Notes/Week1_exercisesPseudocode.md"
+              }
             }
           },
           {
@@ -142,6 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_Java/Notes/Week1_exercisesPseudocode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,6 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_Java/Notes/Week1_exercisesPseudocode.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,8 +189,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "excel:Create Excel File": false,
-      "markdown-table-editor:Open Markdown Table Editor": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -189,13 +198,14 @@
   },
   "active": "18b14035c6b8e046",
   "lastOpenFiles": [
+    "_SA5/AssessmentWorksheet.canvas",
+    "_SA5/Notes/Week2.md",
     "Untitled.md",
     "conflict-files-obsidian-git.md",
     "_Java/New folder",
     "_Java/Backup",
     "Media/AssessmentOutline.pdf",
     "Media/Assessemnt Outline.pdf",
-    "_SA5/AssessmentWorksheet.canvas",
     "Assessment/1_ICTICT523_GatherBusnData/ICTICT523_AT2_PE_MC_TQM_V1.md",
     "Assessment/1_ICTICT523_GatherBusnData",
     "Assessment",
@@ -203,7 +213,6 @@
     "_Java/Exercises/Week1JavaExercise.java",
     "_Java/Exercises",
     "04_BackupFileMngmntResusabilityAndTemplates.doc",
-    "_SA5/Notes/Week2.md",
     "_SA5/Notes/DatabaseExample.canvas",
     "_SA5/Notes/DatabaseExcercise.canvas",
     "Media/Pasted image 20240129102327.png",
