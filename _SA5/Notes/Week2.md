@@ -9,7 +9,7 @@ Morning
 - Foreign keys connect a table to a different one where the key is unique
 - Table can contain multiple unique and foreign keys
 - One item in one table can be listed many times in a different table = One to many relationship
-- [Database example worksheet](/DatabaseExample.canvas)
+- [Database example worksheet](DatabaseExample.canvas)
   ![Relationship between tables in a database](../../Media/Pasted%20image%2020240129102327.png)
 ## Exercises
 
