@@ -14,7 +14,7 @@ Morning
 
 ## Exercises
 
-- [Sample scenario](_SA5/InClassActivities/02_SampleDatabases/01_SampleAssignments.pdf)
+- [Sample scenario](../InClassActivities/02_SampleDatabases/01_SampleAssignments.pdf)
 - (DatabaseExcercise.canvas)
 
 - think about what the receptionist and vet do at the clinic and how they work together
