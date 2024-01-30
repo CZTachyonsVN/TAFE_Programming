@@ -18,19 +18,19 @@ ____
 - A set of instructions
 - Anyone can write code. Programming aka solving problems well is a harder task.
 ## History of computing
-1843 - [Ada Lovelace](https://en.wikipedia.org/wiki/Ada_Lovelace)<br>
-1936 - [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing)<br>
-1943 - [Colossus Computer](https://en.wikipedia.org/wiki/Colossus_computer)<br>
+- 1843 - [Ada Lovelace](https://en.wikipedia.org/wiki/Ada_Lovelace)<br>
+- 1936 - [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing)<br>
+- 1943 - [Colossus Computer](https://en.wikipedia.org/wiki/Colossus_computer)<br>
 	- The first programmable computer<br>
-1946 - [ENIAC](https://en.wikipedia.org/wiki/ENIAC)<br>
+- 1946 - [ENIAC](https://en.wikipedia.org/wiki/ENIAC)<br>
 	- The first general-purpose computer<br>
-1947 - [Harvard Mark I & II](https://en.wikipedia.org/wiki/Harvard_Mark_I)<br>
-1949 - Assembly<br>
-1983 - C++, O-C<br>
-1991 - Python, VB<br>
-2000 - C#<br>
-2009 - Go<br>
-2014 - Swift<br>
+- 1947 - [Harvard Mark I & II](https://en.wikipedia.org/wiki/Harvard_Mark_I)<br>
+- 1949 - Assembly<br>
+- 1983 - C++, O-C<br>
+- 1991 - Python, VB<br>
+- 2000 - C#<br>
+- 2009 - Go<br>
+- 2014 - Swift<br>
 ## Software Dev
 [(Video) Software Development Lifecycle in 9 minutes!](https://www.youtube.com/watch?v=i-QyW8D3ei0)
 ![[Pasted image 20240125093843.png]]
