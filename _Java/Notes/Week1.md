@@ -92,13 +92,13 @@ public class Main {
 ```
 # Evening - Tutorial
 ## Java practice
-[[JavaWeek1_Exercises.pdf|Exercises document]]
+[Coding exercises](../Exercises/JavaWeek1_Exercises.pdf)
 - Area & perimeter (square, circle, triangle)
 - Simple arithmetic
 - Volume converter (litres, millilitres)
 - Hours to seconds to seconds
-- Custom
-[[Week1_exercisesPseudocode|Exercises pseudocode]]
+- Custom<br>
+[Excercise pseudocode](/Week1_exercisesPseudocode.md)
 # Questions
 - IntelliJ version? newest.
 - Class notes availability? On Connect
