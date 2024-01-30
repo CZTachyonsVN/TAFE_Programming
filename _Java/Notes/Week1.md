@@ -1,6 +1,6 @@
 #### Troy - Java
 # Moring
-- [Assemssment Outline](../../MediaObsidian/AssessmentOutline.pdf)
+- [Assessment Outline](../../Media/AssessmentOutline.pdf)
 - Run-through of Connect content
 - Introduction to programming
 ## "Pseudo-code exercise
