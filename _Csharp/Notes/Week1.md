@@ -21,9 +21,9 @@ ____
 1843 - [Ada Lovelace](https://en.wikipedia.org/wiki/Ada_Lovelace)<br>
 1936 - [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing)<br>
 1943 - [Colossus Computer](https://en.wikipedia.org/wiki/Colossus_computer)<br>
-	- The first programmable computer
+	- The first programmable computer<br>
 1946 - [ENIAC](https://en.wikipedia.org/wiki/ENIAC)<br>
-	- The first general-purpose computer
+	- The first general-purpose computer<br>
 1947 - [Harvard Mark I & II](https://en.wikipedia.org/wiki/Harvard_Mark_I)<br>
 1949 - Assembly<br>
 1983 - C++, O-C<br>
