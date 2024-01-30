@@ -14,8 +14,8 @@ Morning
 
 ## Exercises
 
-[[01_SampleAssignments.pdf|Sample]]
-[[DatabaseExcercise.canvas|Class excercise canvas]]
+- [Sample scenario](_SA5/InClassActivities/02_SampleDatabases/01_SampleAssignments.pdf)
+- (DatabaseExcercise.canvas)
 
 - think about what the receptionist and vet do at the clinic and how they work together
 - if there is a many-to-many relationship between two tables, another intermediary table can be inserted in between with many-to-1 relationship with the original two tables
