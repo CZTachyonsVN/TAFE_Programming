@@ -29,8 +29,8 @@ Store Value number2 = Read Input
 Store Value total = number1 + number2
 Print ("Your total is " + total)
 ```
-## Introduction to Java
-[Getting Started With Java.pptx](file:///B:\TAFEProgramming\_Java\Java1_Troy\Week1\GettingstartedwithJava.pptx)
+## Getting started with Java
+[Presentation](../TeachingContent/Getting%20started%20with%20Java.pptx)
 **Packages** - Organising classes and functionality.
 **Import** - install and include a package in this code file
 ```java
