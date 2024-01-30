@@ -1,8 +1,8 @@
 #java #linkedlist
 # Sketches
 ![Check for adjacent operators](../../Media/operatorCheckSketch.png)
-![Store input into a linked list](//Media/storeToListSketch.png)
-![Calculating from list](//Media/FlowchartArithmetic.png)
+![Store input into a linked list](../../Media/storeToListSketch.png)
+![Calculating from list](../../Media/FlowchartArithmetic.png)
 # Learning Java LinkedList
 [Java server with imported LinkedList](https://www.w3schools.com/java/tryjava.asp?filename=demo_linkedlist_add)
 ```java
