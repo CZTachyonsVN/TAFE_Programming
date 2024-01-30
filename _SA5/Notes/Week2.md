@@ -3,8 +3,8 @@ Morning
 ---
 
 - Not asking enough questions and not understanding client's needs clearly will leads to bad development
-  [Manual database example](..InClassActivities/03_ER_AndTables/01a_ClientsOrdersAndProducts_Starter.xlsx)
-  [Proper database example](../..InClassActivities/03_ER_AndTables/01a_ClientsOrdersAndProducts.xlsx)
+- [Manual database example](..\InClassActivities\03_ER_AndTables\01a_ClientsOrdersAndProducts_Starter.xlsx)
+- [Proper database example](..\InClassActivities\03_ER_AndTables\01b_ClientsOrdersAndProducts.xlsx)
 - Unique keys are the fundamental part of databases
 - Foreign keys connect a table to a different one where the key is unique
 - Table can contain multiple unique and foreign keys
