@@ -1,4 +1,4 @@
-## [Object-Oriente Programming in C#](../TAFE_Programming/_OOP/)
+## [Object-Oriente Programming in C#](https://github.com/CZTachyonsVN/TAFE_Programming/tree/main/_OOP)
 ### [Class Notes](../TAFE_Programming/_OOP/Notes/)
 ### [Teaching Materials](../TAFE_Programming/_OOP/TeachingContent)
 ## [Java](../TAFE_Programming/_Java)
