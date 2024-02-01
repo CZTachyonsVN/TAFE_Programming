@@ -77,3 +77,17 @@ Hello Wbob Bwobbinsky! You are 50      years old.
 ```
 ## If Else and Boolean
 **Presentation link**
+
+```
+Ask for length
+store the length
+Ask to calculate area (S), perimeter(P), or both(B)
+
+IF user input == S
+	Calculate area for circle and square
+Else If user input ==P
+	Calculate perimeter
+Else
+	Calcualte Both
+
+```
