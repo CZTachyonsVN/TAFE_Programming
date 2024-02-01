@@ -1,5 +1,5 @@
 ## [Object-Oriente Programming in C#](../TAFE_Programming/_OOP/)
-### [Class Notes](../TAFE_Programming/_OOP/Notes)
+### [Class Notes](../TAFE_Programming/_OOP/Notes/)
 ### [Teaching Materials](../TAFE_Programming/_OOP/TeachingContent)
 ## [Java](../TAFE_Programming/_Java)
 ### [Notes](../TAFE_Programming/_Java/Notes)
