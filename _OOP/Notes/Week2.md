@@ -1,6 +1,4 @@
-# Variables
-**Presentation link**
-**Constant** variable is immutable
+# Variables [(Presentation)](../TeachingContent/VariablesAndDataTypes.pptx)
 ## Typecasting
 - the process of changing a datatype of a value
 	- e.g. converting `string`="123" to `int`=123
@@ -75,9 +73,8 @@ Output:
 ```
 Hello Wbob Bwobbinsky! You are 50      years old.
 ```
-## If Else and Boolean
-**Presentation link**
-
+## If Else and Boolean [(Presentation)](../TeachingContent/IfElseStatementsAndBooleans.pptx)
+## Exercises
 ```
 Ask for length
 store the length
