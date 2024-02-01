@@ -11,14 +11,12 @@
             "id": "18b14035c6b8e046",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "_SA5/AssessmentWorksheet.canvas",
-                "viewState": {
-                  "x": -914.4514248851755,
-                  "y": -50.61295819247108,
-                  "zoom": -0.4962963104248048
-                }
+                "file": "_OOP/Notes/Week2.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -82,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_SA5/AssessmentWorksheet.canvas",
+                "file": "_OOP/Notes/Week2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f8cb35b841268550",
@@ -114,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_SA5/AssessmentWorksheet.canvas"
+                "file": "_OOP/Notes/Week2.md"
               }
             }
           },
@@ -153,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_SA5/AssessmentWorksheet.canvas",
+                "file": "_OOP/Notes/Week2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_SA5/AssessmentWorksheet.canvas",
+                "file": "_OOP/Notes/Week2.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,8 +197,12 @@
   },
   "active": "18b14035c6b8e046",
   "lastOpenFiles": [
-    "_Java/Notes/Week1_exercisesPseudocode.md",
+    "_OOP/TeachingContent/IfElseStatementsAndBooleans.pptx",
+    "_OOP/TeachingContent/VariablesAndDataTypes.pptx",
+    "_OOP/Notes/Week1.md",
+    "_OOP/Notes/Week2.md",
     "_SA5/AssessmentWorksheet.canvas",
+    "_Java/Notes/Week1_exercisesPseudocode.md",
     "_SA5/Notes/Week2.md",
     "Untitled.md",
     "conflict-files-obsidian-git.md",
@@ -215,7 +216,6 @@
     "_SA5/InClassActivities/03_CarParkLinesActivity.pdf",
     "_Java/Exercises/Week1JavaExercise.java",
     "_Java/Exercises",
-    "04_BackupFileMngmntResusabilityAndTemplates.doc",
     "_SA5/Notes/DatabaseExample.canvas",
     "_SA5/Notes/DatabaseExcercise.canvas",
     "Media/Pasted image 20240129102327.png",
