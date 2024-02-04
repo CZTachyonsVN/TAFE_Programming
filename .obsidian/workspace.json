@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_OOP/Notes/Week2.md",
+                "file": "_SA5/Notes/Week3.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_OOP/Notes/Week2.md",
+                "file": "_SA5/Notes/Week3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f8cb35b841268550",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_OOP/Notes/Week2.md"
+                "file": "_SA5/Notes/Week3.md"
               }
             }
           },
@@ -151,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_OOP/Notes/Week2.md",
+                "file": "_SA5/Notes/Week3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_OOP/Notes/Week2.md",
+                "file": "_SA5/Notes/Week3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,10 +197,12 @@
   },
   "active": "18b14035c6b8e046",
   "lastOpenFiles": [
+    "_SA5/Notes/DatabaseExample.canvas",
+    "_SA5/Notes/Week3.md",
+    "_OOP/Notes/Week2.md",
     "_OOP/TeachingContent/IfElseStatementsAndBooleans.pptx",
     "_OOP/TeachingContent/VariablesAndDataTypes.pptx",
     "_OOP/Notes/Week1.md",
-    "_OOP/Notes/Week2.md",
     "_SA5/AssessmentWorksheet.canvas",
     "_Java/Notes/Week1_exercisesPseudocode.md",
     "_SA5/Notes/Week2.md",
@@ -216,8 +217,6 @@
     "Assessment",
     "_SA5/InClassActivities/03_CarParkLinesActivity.pdf",
     "_Java/Exercises/Week1JavaExercise.java",
-    "_Java/Exercises",
-    "_SA5/Notes/DatabaseExample.canvas",
     "_SA5/Notes/DatabaseExcercise.canvas",
     "Media/Pasted image 20240129102327.png",
     "_SA5/Notes/Week1.md",
