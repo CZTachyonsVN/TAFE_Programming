@@ -11,12 +11,9 @@
             "id": "18b14035c6b8e046",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "_SA5/Notes/Week3.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "_SA5/InClassActivities/03_ER_AndTables/02b_ERAndTableExercises.pdf"
               }
             }
           }
@@ -80,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_SA5/Notes/Week3.md",
+                "file": "_SA5/InClassActivities/03_ER_AndTables/02b_ERAndTableExercises.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 244.5
   },
   "right": {
     "id": "f8cb35b841268550",
@@ -111,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_SA5/Notes/Week3.md"
+                "file": "_SA5/InClassActivities/03_ER_AndTables/02b_ERAndTableExercises.pdf"
               }
             }
           },
@@ -150,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_SA5/Notes/Week3.md",
+                "file": "_SA5/InClassActivities/03_ER_AndTables/02b_ERAndTableExercises.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_SA5/Notes/Week3.md",
+                "file": "_SA5/InClassActivities/03_ER_AndTables/02b_ERAndTableExercises.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,17 +192,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "18b14035c6b8e046",
+  "active": "b3b522bee5bcd5b3",
   "lastOpenFiles": [
-    "_SA5/Notes/DatabaseExample.canvas",
+    "_SA5/InClassActivities/03_ER_AndTables/02c_ERAndTableExerciseSampleSolns.pdf",
     "_SA5/Notes/Week3.md",
+    "_SA5/Notes/Week2.md",
+    "_SA5/AssessmentWorksheet.canvas",
+    "_SA5/Notes/Week1.md",
+    "_SA5/Notes/DatabaseExample.canvas",
     "_OOP/Notes/Week2.md",
     "_OOP/TeachingContent/IfElseStatementsAndBooleans.pptx",
     "_OOP/TeachingContent/VariablesAndDataTypes.pptx",
     "_OOP/Notes/Week1.md",
-    "_SA5/AssessmentWorksheet.canvas",
     "_Java/Notes/Week1_exercisesPseudocode.md",
-    "_SA5/Notes/Week2.md",
     "Untitled.md",
     "conflict-files-obsidian-git.md",
     "_Java/New folder",
@@ -219,7 +218,6 @@
     "_Java/Exercises/Week1JavaExercise.java",
     "_SA5/Notes/DatabaseExcercise.canvas",
     "Media/Pasted image 20240129102327.png",
-    "_SA5/Notes/Week1.md",
     "_SA5/InClassActivities/06_ApplyQueries/CenturyInventions_MSSQLSvr/MSSQLServerFiles/Century_Inventions_Relationships.png",
     "_SA5/InClassActivities/06_ApplyQueries/03_RelatedTo_AT2/01_Activity1/Century_Inventions_Relationships.png",
     "_Csharp/Snippets/Test.md",

@@ -1,8 +1,8 @@
 {
 	"nodes":[
 		{"id":"37686dad36f55410","type":"text","text":"Reading\n___\nReadingID\n___\nSpacesID\nRobotID\n___\nType\nValue\nTime of recording\n","x":-700,"y":294,"width":250,"height":286},
-		{"id":"b198372a84d536d3","type":"text","text":"**Resources**\n___\n- [Assessment report template](Assessment/1_ICTICT523_GatherBusnData/ICTICT523_AT2_PE_GatherData_ReportTemplate.docx)\n- [Assessment sheet](ICTICT523_AT2_PE_TQM_V1.docx)\n- [Assessment criteria](Assessment/1_ICTICT523_GatherBusnData/ICTICT523_AT2_PE_MC_TQM_V1.docx)\n- [Assessment scenario](Assessment/1_ICTICT523_GatherBusnData/ICTICT523_AT2_Scenario_MMR.docx)","x":-1500,"y":-880,"width":260,"height":280},
-		{"id":"247c65925d2ec50e","x":-340,"y":-405,"width":620,"height":854,"type":"text","text":""},
+		{"id":"b198372a84d536d3","type":"text","text":"**Resources**\n___\n- [Assessment report template](Assessment/1_ICTICT523_GatherBusnData/ICTICT523_AT2_PE_GatherData_ReportTemplate.docx)\n- [Assessment sheet](ICTICT523_AT2_PE_TQM_V1.docx)\n- [Assessment criteria](Assessment/1_ICTICT523_GatherBusnData/ICTICT523_AT2_PE_MC_TQM_V1.docx)\n- [Assessment scenario](Assessment/1_ICTICT523_GatherBusnData/ICTICT523_AT2_Scenario_MMR.docx)","x":-1500,"y":-880,"width":260,"height":320},
+		{"id":"247c65925d2ec50e","type":"text","text":"","x":-340,"y":-405,"width":620,"height":854},
 		{"id":"3b19baca52ddcd96","type":"text","text":"Robot\n____\nRobotID\n___\nClientID\nBLocationID\nReadingID","x":-700,"y":-318,"width":250,"height":340},
 		{"id":"b601a2532d9d71bf","type":"text","text":"Client / organisation\n___\nClientID\n___\nBLocation\nRobotID","x":-1240,"y":-468,"width":250,"height":320},
 		{"id":"0f31774b732e4a78","type":"text","text":"Business Location\n___\nBLocationID\n___\nClientID\nRobotID","x":-1540,"y":-16,"width":250,"height":310},
