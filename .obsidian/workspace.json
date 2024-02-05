@@ -11,9 +11,14 @@
             "id": "18b14035c6b8e046",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "canvas",
               "state": {
-                "file": "_SA5/InClassActivities/03_ER_AndTables/02b_ERAndTableExercises.pdf"
+                "file": "_SA5/AssessmentWorksheet.canvas",
+                "viewState": {
+                  "x": -953.5366889263854,
+                  "y": 225.97065037241524,
+                  "zoom": -0.8835142575191481
+                }
               }
             }
           }
@@ -77,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_SA5/InClassActivities/03_ER_AndTables/02b_ERAndTableExercises.pdf",
+                "file": "_SA5/AssessmentWorksheet.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5
+    "width": 244.5,
+    "collapsed": true
   },
   "right": {
     "id": "f8cb35b841268550",
@@ -108,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_SA5/InClassActivities/03_ER_AndTables/02b_ERAndTableExercises.pdf"
+                "file": "_SA5/AssessmentWorksheet.canvas"
               }
             }
           },
@@ -147,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_SA5/InClassActivities/03_ER_AndTables/02b_ERAndTableExercises.pdf",
+                "file": "_SA5/AssessmentWorksheet.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_SA5/InClassActivities/03_ER_AndTables/02b_ERAndTableExercises.pdf",
+                "file": "_SA5/AssessmentWorksheet.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,13 +198,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b3b522bee5bcd5b3",
+  "active": "18b14035c6b8e046",
   "lastOpenFiles": [
-    "_SA5/InClassActivities/03_ER_AndTables/02c_ERAndTableExerciseSampleSolns.pdf",
-    "_SA5/Notes/Week3.md",
-    "_SA5/Notes/Week2.md",
+    "_SA5/AssessmentInterviewOutcome.md",
     "_SA5/AssessmentWorksheet.canvas",
+    "AssessemntsInterviewOutcome.md",
+    "_SA5/Notes/Week3.md",
     "_SA5/Notes/Week1.md",
+    "_SA5/InClassActivities/03_ER_AndTables/02b_ERAndTableExercises.pdf",
+    "_SA5/InClassActivities/03_ER_AndTables/02c_ERAndTableExerciseSampleSolns.pdf",
+    "_SA5/Notes/Week2.md",
     "_SA5/Notes/DatabaseExample.canvas",
     "_OOP/Notes/Week2.md",
     "_OOP/TeachingContent/IfElseStatementsAndBooleans.pptx",
@@ -214,8 +223,6 @@
     "Assessment/1_ICTICT523_GatherBusnData/ICTICT523_AT2_PE_MC_TQM_V1.md",
     "Assessment/1_ICTICT523_GatherBusnData",
     "Assessment",
-    "_SA5/InClassActivities/03_CarParkLinesActivity.pdf",
-    "_Java/Exercises/Week1JavaExercise.java",
     "_SA5/Notes/DatabaseExcercise.canvas",
     "Media/Pasted image 20240129102327.png",
     "_SA5/InClassActivities/06_ApplyQueries/CenturyInventions_MSSQLSvr/MSSQLServerFiles/Century_Inventions_Relationships.png",

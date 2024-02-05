@@ -1,20 +1,16 @@
 {
 	"nodes":[
-		{"id":"37686dad36f55410","type":"text","text":"Reading\n___\nReadingID\n___\nSpacesID\nRobotID\n___\nType\nValue\nTime of recording\n","x":-700,"y":294,"width":250,"height":286},
-		{"id":"b198372a84d536d3","type":"text","text":"**Resources**\n___\n- [Assessment report template](Assessment/1_ICTICT523_GatherBusnData/ICTICT523_AT2_PE_GatherData_ReportTemplate.docx)\n- [Assessment sheet](ICTICT523_AT2_PE_TQM_V1.docx)\n- [Assessment criteria](Assessment/1_ICTICT523_GatherBusnData/ICTICT523_AT2_PE_MC_TQM_V1.docx)\n- [Assessment scenario](Assessment/1_ICTICT523_GatherBusnData/ICTICT523_AT2_Scenario_MMR.docx)","x":-1500,"y":-880,"width":260,"height":320},
-		{"id":"247c65925d2ec50e","type":"text","text":"","x":-340,"y":-405,"width":620,"height":854},
-		{"id":"3b19baca52ddcd96","type":"text","text":"Robot\n____\nRobotID\n___\nClientID\nBLocationID\nReadingID","x":-700,"y":-318,"width":250,"height":340},
-		{"id":"b601a2532d9d71bf","type":"text","text":"Client / organisation\n___\nClientID\n___\nBLocation\nRobotID","x":-1240,"y":-468,"width":250,"height":320},
-		{"id":"0f31774b732e4a78","type":"text","text":"Business Location\n___\nBLocationID\n___\nClientID\nRobotID","x":-1540,"y":-16,"width":250,"height":310},
-		{"id":"14c6e7c6565e0317","type":"text","text":"On-site space\n___\nSpacesID","x":-1115,"y":263,"width":250,"height":186}
+		{"id":"b198372a84d536d3","type":"text","text":"**Resources**\n___\n- [Assessment report template](Assessment/1_ICTICT523_GatherBusnData/ICTICT523_AT2_PE_GatherData_ReportTemplate.docx)\n- [Assessment sheet](ICTICT523_AT2_PE_TQM_V1.docx)\n- [Assessment criteria](Assessment/1_ICTICT523_GatherBusnData/ICTICT523_AT2_PE_MC_TQM_V1.docx)\n- [Assessment scenario](Assessment/1_ICTICT523_GatherBusnData/ICTICT523_AT2_Scenario_MMR.docx)\n- [Interview notes](AssessmentInterviewOutcome.md)","x":-1500,"y":-880,"width":340,"height":300},
+		{"id":"14c6e7c6565e0317","type":"text","text":"On-site space\n___\nSpacesID","x":-1115,"y":414,"width":250,"height":186},
+		{"id":"0f31774b732e4a78","type":"text","text":"Business Location\n___\nBLocationID\n___\nClientID\nRobotID","x":-1500,"y":352,"width":250,"height":310},
+		{"id":"b601a2532d9d71bf","type":"text","text":"Client / organisation\n___\nClientID\n___\nBLocation\nRobotID\nContact1\nContact2","x":-1500,"y":-200,"width":250,"height":346},
+		{"id":"3b19baca52ddcd96","type":"text","text":"Robot\n____\nRobotID\n___\nClientID\nBLocationID\nReadingID","x":-700,"y":-220,"width":250,"height":340},
+		{"id":"37686dad36f55410","type":"text","text":"Reading\n___\nReadingID\n___\nSpacesID\nRobotID\n___\nType\nValue\nTime of recording\n","x":-700,"y":274,"width":250,"height":466}
 	],
 	"edges":[
 		{"id":"d65f6e034d1efcb0","fromNode":"b601a2532d9d71bf","fromSide":"bottom","toNode":"0f31774b732e4a78","toSide":"top","label":"1:m"},
 		{"id":"1b62c7b04928246b","fromNode":"0f31774b732e4a78","fromSide":"right","toNode":"14c6e7c6565e0317","toSide":"left","label":"1:m"},
 		{"id":"6fbb4b821b9a0b46","fromNode":"14c6e7c6565e0317","fromSide":"right","toNode":"37686dad36f55410","toSide":"left","label":"1:m"},
-		{"id":"6da6e78b62bc7942","fromNode":"3b19baca52ddcd96","fromSide":"bottom","toNode":"37686dad36f55410","toSide":"top","label":"1:m"},
-		{"id":"5aed84459279ea4c","fromNode":"b601a2532d9d71bf","fromSide":"right","toNode":"3b19baca52ddcd96","toSide":"left","label":"1:m"},
-		{"id":"c46ca8c38abeb858","fromNode":"0f31774b732e4a78","fromSide":"right","toNode":"3b19baca52ddcd96","toSide":"left","label":"1:m"},
-		{"id":"0efb4e220214f309","fromNode":"14c6e7c6565e0317","fromSide":"top","toNode":"3b19baca52ddcd96","toSide":"left","label":"1:m"}
+		{"id":"6da6e78b62bc7942","fromNode":"3b19baca52ddcd96","fromSide":"bottom","toNode":"37686dad36f55410","toSide":"top","label":"1:m"}
 	]
 }
