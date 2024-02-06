@@ -1,10 +1,10 @@
+#java #programming 
 # Morning
 Mark
 - Databases and queries
 - Understanding organisations'/clients' needs
 - C# - ASP, windows apps
 - Java - desktop apps
-
 ## exercise 1
 - Budget summary screen
 - select categories when using pay wave transaction

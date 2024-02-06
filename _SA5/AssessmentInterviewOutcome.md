@@ -1,5 +1,4 @@
 # Manny’s Mobile Monitoring Robots
-
 - They work with robot vendors to sell monitoring robots to various companies.
 	- The robots are owned by the companies and serviced by the vendors
 	- Robots frequently move around various environments and record various data
@@ -9,7 +8,6 @@
 		- Date and time of each record
 	- Robots can be kitted with different sensors and locomotion depending on the company's needs and the environment the robot will be operating in.
 	- Data from the robots are streamed to respective servers of a respective company
-	- 
 - They provide health and safety monitoring service
 	- Monitoring of real time data coming from the robots
 	- In an occurrence of dangerous concentration of certain chemicals, monitoring employees will notify designated personnel from the affected site of the event and also main points of contact of the company. If they are inaccessible, work up the chain of command.
