@@ -43,10 +43,9 @@
 	- 24/7 runtime
 	- Network is separated from the rest of the company
 	- Optic fibre to the ISP
-	- Manny is responsible for
-		- Upkeep and updates of the database
-		- Work with the IT department on any troubleshooting of related hardware
-		- Scaling of the operation
+	- We are responsible for
+		- Upkeep, updates, and scaling of the database
+		- Work with the IT department on any troubleshooting of related hardware (monitoring room)
 	- We assist the IT department with database and monitor room cybersecurity.
 	- Records of database activities for suspicious activity/thread detection
 - Dedicated front-end
