@@ -1,18 +1,22 @@
 {
 	"nodes":[
-		{"id":"0f31774b732e4a78","type":"text","text":"**BusinessLocation**\n___\nBLocationID\n___\nClientID\nRobotID\n___\nBLAddress1\nBLAddress2\nSuburb\nState\nPostcode\nCountry\nContactPerson\nContactPhone\nContactEmail","x":-1500,"y":352,"width":250,"height":608},
-		{"id":"b601a2532d9d71bf","type":"text","text":"**ClientHeadOffice**\n___\nClientID\n___\nOrganistionName\nAddress1\nAddress2\nSuburb\nState\nPostcode\nCountry\nHeadOfficePhone\nHeadOfficeEmail","x":-1500,"y":-360,"width":250,"height":506},
-		{"id":"3b19baca52ddcd96","type":"text","text":"**Robot**\n____\nRobotID\n___\nClientID\nBLocationID\nReadingID","x":-700,"y":-220,"width":250,"height":340},
-		{"id":"b198372a84d536d3","type":"text","text":"**Resources**\n___\n- [Assessment report template](Assessment/1_ICTICT523_GatherBusnData/ICTICT523_AT2_PE_GatherData_ReportTemplate.docx)\n- [Assessment sheet](ICTICT523_AT2_PE_TQM_V1.docx)\n- [Assessment criteria](Assessment/1_ICTICT523_GatherBusnData/ICTICT523_AT2_PE_MC_TQM_V1.docx)\n- [Assessment scenario](Assessment/1_ICTICT523_GatherBusnData/ICTICT523_AT2_Scenario_MMR.docx)\n- [Interview notes](AssessmentInterviewOutcome.md)","x":-1160,"y":-200,"width":340,"height":300},
-		{"id":"14c6e7c6565e0317","type":"text","text":"**OnSiteSpace**\n___\nSpaceID\n___\nDescription\nGridX_size\nGridY_size\nNotes","x":-1115,"y":420,"width":250,"height":360},
-		{"id":"1a37632843c6c2b7","type":"text","text":"**IssueType**\n___\nIssueTypeID\n____\nTypes","x":-260,"y":456,"width":200,"height":289},
-		{"id":"37686dad36f55410","type":"text","text":"**Reading**\n___\nReadingID\n___\nSpacesID\nRobotID\nIssueTypeID\n___\nGridX_value\nGridY_value\nReading_Value\nReportDate\nReportTime\n","x":-700,"y":352,"width":250,"height":507}
+		{"id":"0f31774b732e4a78","type":"text","text":"**BusinessLocations**\n___\nBLocationID\n___\nClientID\nRobotID\n___\nBLAddress1\nBLAddress2\nSuburb\nState\nPostcode\nCountry\nContactPerson\nContactPhone\nContactEmail","x":-1500,"y":352,"width":250,"height":608},
+		{"id":"37686dad36f55410","type":"text","text":"**Readings**\n___\nReadingID\n___\nSpacesID\nRobotID\nIssueTypeID\n___\nReading_Value\nGridX_value\nGridY_value\nReportDate\nReportTime\n","x":-700,"y":360,"width":250,"height":528},
+		{"id":"b601a2532d9d71bf","type":"text","text":"**ClientHeadOffice**\n___\nClientID\n___\nVendorID\n___\nOrganistionName\nAddress1\nAddress2\nSuburb\nState\nPostcode\nCountry\nHeadOfficePhone\nHeadOfficeEmail","x":-1500,"y":-340,"width":250,"height":566},
+		{"id":"3b19baca52ddcd96","type":"text","text":"**Robots**\n____\nRobotID\n___\nVendorID\nSpaceID","x":-700,"y":-100,"width":250,"height":300},
+		{"id":"14c6e7c6565e0317","type":"text","text":"**OnSiteSpaces**\n___\nSpaceID\n___\nDescription\nGridX_size\nGridY_size\nNotes","x":-1115,"y":456,"width":250,"height":360},
+		{"id":"1a37632843c6c2b7","type":"text","text":"**IssueTypes**\n___\nIssueTypeID\n____\nTypes","x":-280,"y":472,"width":200,"height":289},
+		{"id":"5b1428719c946f73","x":-1060,"y":-297,"width":250,"height":165,"type":"text","text":"**Vendors**\n___\nVendorID"},
+		{"id":"b198372a84d536d3","type":"text","text":"**Resources**\n___\n- [Assessment report template](Assessment/1_ICTICT523_GatherBusnData/ICTICT523_AT2_PE_GatherData_ReportTemplate.docx)\n- [Assessment sheet](ICTICT523_AT2_PE_TQM_V1.docx)\n- [Assessment criteria](Assessment/1_ICTICT523_GatherBusnData/ICTICT523_AT2_PE_MC_TQM_V1.docx)\n- [Assessment scenario](Assessment/1_ICTICT523_GatherBusnData/ICTICT523_AT2_Scenario_MMR.docx)\n- [Interview notes](AssessmentInterviewOutcome.md)","x":-420,"y":-282,"width":340,"height":300}
 	],
 	"edges":[
 		{"id":"d65f6e034d1efcb0","fromNode":"b601a2532d9d71bf","fromSide":"bottom","toNode":"0f31774b732e4a78","toSide":"top","label":"1:m"},
 		{"id":"1b62c7b04928246b","fromNode":"0f31774b732e4a78","fromSide":"right","toNode":"14c6e7c6565e0317","toSide":"left","label":"1:m"},
 		{"id":"6fbb4b821b9a0b46","fromNode":"14c6e7c6565e0317","fromSide":"right","toNode":"37686dad36f55410","toSide":"left","label":"1:m"},
 		{"id":"6da6e78b62bc7942","fromNode":"3b19baca52ddcd96","fromSide":"bottom","toNode":"37686dad36f55410","toSide":"top","label":"1:m"},
-		{"id":"44f5824c1a3cb957","fromNode":"1a37632843c6c2b7","fromSide":"left","toNode":"37686dad36f55410","toSide":"right","label":"1:m"}
+		{"id":"44f5824c1a3cb957","fromNode":"1a37632843c6c2b7","fromSide":"left","toNode":"37686dad36f55410","toSide":"right","label":"1:m"},
+		{"id":"1e96f671782cd617","fromNode":"14c6e7c6565e0317","fromSide":"top","toNode":"3b19baca52ddcd96","toSide":"left","label":"1:m"},
+		{"id":"ceabda3e9192da23","fromNode":"5b1428719c946f73","fromSide":"left","toNode":"b601a2532d9d71bf","toSide":"right","label":"1:m"},
+		{"id":"06993912d7cc4e67","fromNode":"5b1428719c946f73","fromSide":"right","toNode":"3b19baca52ddcd96","toSide":"top","label":"1:m"}
 	]
 }
