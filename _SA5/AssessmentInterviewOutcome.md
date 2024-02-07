@@ -18,6 +18,7 @@
 	- Handle large amount of data writes per second (32k)
 	- No manipulation of the data
 	- Complex Queries (?)
+		- Effects the software and UI
 	- Importance on scalability of storage the database itself for other possible data
 	- Read and write need to be as fast as possible
 - The database contains information about:
