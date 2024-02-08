@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_SA5/AssessmentInterviewOutcome.md",
+                "file": "_OOP/Snippets/Null-coalescing.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_SA5/AssessmentInterviewOutcome.md",
+                "file": "_OOP/Snippets/Null-coalescing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_SA5/AssessmentInterviewOutcome.md"
+                "file": "_OOP/Snippets/Null-coalescing.md"
               }
             }
           },
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_SA5/AssessmentInterviewOutcome.md",
+                "file": "_OOP/Snippets/Null-coalescing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_SA5/AssessmentInterviewOutcome.md",
+                "file": "_OOP/Snippets/Null-coalescing.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,14 +197,19 @@
   },
   "active": "89e028c9a8b5c29d",
   "lastOpenFiles": [
+    "_OOP/Snippets/Pattern Matching.md",
+    "_OOP/Snippets/Switch expressions.md",
+    "_OOP/Snippets/Null-coalescing.md",
+    "_OOP/Notes/Week1.md",
+    "_OOP/Snippets/Lambda.md",
+    "_OOP/Notes/Week2.md",
+    "_OOP/Snippets/Discard.md",
     "_SA5/AssessmentWorksheet.canvas",
+    "_SA5/AssessmentInterviewOutcome.md",
     "_SA5/MMM_SampleForm_1_ClientBusinessLocation.pdf",
     "_SA5/MMM_SampleForm_2_BusinessLocAndWarehouseSpace.pdf",
     "_SA5/MMM_SampleForm_3_ReportReadings.pdf",
-    "_OOP/Notes/Week1.md",
-    "_OOP/Notes/Week2.md",
     "_SA5/Notes/Week2.md",
-    "_SA5/AssessmentInterviewOutcome.md",
     "_SA5/Notes/Week1.md",
     "_SA5/Notes/DatabaseExample.canvas",
     "_Java/Notes/Week3.md",
