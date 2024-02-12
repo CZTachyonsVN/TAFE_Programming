@@ -21,6 +21,20 @@
             }
           }
         ]
+      },
+      {
+        "id": "1850e5b8f2324d59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4f98d45d5e7acc3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_OOP/Snippets/Null-coalescing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,9 +123,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_OOP/Snippets/Null-coalescing.md"
-              }
+              "state": {}
             }
           },
           {
@@ -150,7 +161,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_OOP/Snippets/Null-coalescing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +178,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_OOP/Snippets/Null-coalescing.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,11 +204,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "89e028c9a8b5c29d",
+  "active": "e4f98d45d5e7acc3",
   "lastOpenFiles": [
+    "_OOP/Snippets/Null-coalescing.md",
     "_OOP/Snippets/Pattern Matching.md",
     "_OOP/Snippets/Switch expressions.md",
-    "_OOP/Snippets/Null-coalescing.md",
     "_OOP/Notes/Week1.md",
     "_OOP/Snippets/Lambda.md",
     "_OOP/Notes/Week2.md",

@@ -11,7 +11,7 @@ double SumNumbers(List<double[]> setsOfNumbers, int indexOfSetToSum)
 
 var sum = SumNumbers(null, 0);
 Console.WriteLine(sum);  // output: NaN
-```
+/```
 Example
 ```cs
 private static void Display<T>(T a, T backup)
