@@ -2,7 +2,7 @@
 - They work with robot vendors to sell monitoring robots to various companies.
 	- The robots are owned by the companies and serviced by the vendors
 	- Robots frequently move around various environments and record various data
-		- Carbon Monoxide, Nitrogen Dioxide, Sulfur Dioxide
+		- Carbon Monoxide, Nitrogen Dioxide, Sulphur Dioxide
 		- Physical obstructions
 		- Possible other types of detection in the future
 		- Date and time of each record
