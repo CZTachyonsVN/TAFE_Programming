@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_SA5/AssessmentInterviewOutcome.md",
+                "file": "_OOP/Notes/Week4.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "50afc1cd0a94f71f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_OOP/Snippets/Discard.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -80,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_SA5/AssessmentInterviewOutcome.md",
+                "file": "_OOP/Notes/Week4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +108,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5
+    "width": 244.5,
+    "collapsed": true
   },
   "right": {
     "id": "f8cb35b841268550",
@@ -111,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_SA5/AssessmentInterviewOutcome.md"
+                "file": "_OOP/Notes/Week4.md"
               }
             }
           },
@@ -150,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_SA5/AssessmentInterviewOutcome.md",
+                "file": "_OOP/Notes/Week4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_SA5/AssessmentInterviewOutcome.md",
+                "file": "_OOP/Notes/Week4.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,6 +211,10 @@
   },
   "active": "e4f98d45d5e7acc3",
   "lastOpenFiles": [
+    "_OOP/ClassExercises/ConsoleExercises/Program.cs~",
+    "_OOP/Snippets/Discard.md",
+    "_OOP/Notes/Week4.md",
+    "_SA5/AssessmentInterviewOutcome.md",
     "_Java/Notes/Week4 - GUI.md",
     "_OOP/Snippets/Null-coalescing.md",
     "_OOP/Snippets/Pattern Matching.md",
@@ -204,9 +222,7 @@
     "_OOP/Notes/Week1.md",
     "_OOP/Snippets/Lambda.md",
     "_OOP/Notes/Week2.md",
-    "_OOP/Snippets/Discard.md",
     "_SA5/AssessmentWorksheet.canvas",
-    "_SA5/AssessmentInterviewOutcome.md",
     "_SA5/MMM_SampleForm_1_ClientBusinessLocation.pdf",
     "_SA5/MMM_SampleForm_2_BusinessLocAndWarehouseSpace.pdf",
     "_SA5/MMM_SampleForm_3_ReportReadings.pdf",

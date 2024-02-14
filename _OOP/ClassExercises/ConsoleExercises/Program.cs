@@ -1,4 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
+
+
+
 #region calculator
 //Console.WriteLine("Enter value for 'a'");
 //int a = int.Parse(Console.ReadLine());
@@ -261,9 +264,6 @@
 //}
 
 #endregion
-
-
-
 
 #region methods
 
