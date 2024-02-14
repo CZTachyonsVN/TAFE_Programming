@@ -22,25 +22,25 @@
 #endregion
 
 #region temp conversion
-//Console.WriteLine("Enter temperature");
-//string tempInput = Console.ReadLine();
-//char unit = tempInput.Last<char>();
-//tempInput = tempInput.Remove(tempInput.Length - 1,1);
-//Console.WriteLine(tempInput);
-//Console.ReadLine();
-//double temperature = double.Parse(tempInput);
+Console.WriteLine("Enter temperature");
+string tempInput = Console.ReadLine();
+char unit = tempInput.Last<char>();
+tempInput = tempInput.Remove(tempInput.Length - 1,1);
+Console.WriteLine(tempInput);
+Console.ReadLine();
+double temperature = double.Parse(tempInput);
 
-//switch (unit)
-//{
-//    case 'f':
-//        Console.WriteLine("Temp in C:" + FtoC(temperature) + "c");
-//        break;
-//    case 'c':
-//        Console.WriteLine("Temp in F: " + CtoF(temperature) + "f");
-//        break;
-//    default:
-//        break;
-//}
+switch (unit)
+{
+   case 'f':
+       Console.WriteLine("Temp in C:" + FtoC(temperature) + "c");
+       break;
+   case 'c':
+       Console.WriteLine("Temp in F: " + CtoF(temperature) + "f");
+       break;
+   default:
+       break;
+}
 #endregion
 
 #region time conversion

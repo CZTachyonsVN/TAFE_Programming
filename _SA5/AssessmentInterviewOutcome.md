@@ -4,7 +4,7 @@
 	- Robots frequently move around various environments and record various data
 		- Carbon Monoxide, Nitrogen Dioxide, Sulfur Dioxide
 		- Physical obstructions
-		- Possible other detections in the future
+		- Possible other types of detection in the future
 		- Date and time of each record
 	- Robots can be kitted with different sensors and locomotion depending on the company's needs and the environment the robot will be operating in.
 	- Data from the robots are streamed to respective servers of a respective company
