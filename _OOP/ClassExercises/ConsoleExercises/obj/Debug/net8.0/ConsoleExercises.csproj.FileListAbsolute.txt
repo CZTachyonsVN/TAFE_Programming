@@ -1,0 +1,15 @@
+/home/hai/BigBoiii/TAFEProgramming/GitRepo/TAFE_Programming/_OOP/ClassExercises/ConsoleExercises/bin/Debug/net8.0/ConsoleExercises
+/home/hai/BigBoiii/TAFEProgramming/GitRepo/TAFE_Programming/_OOP/ClassExercises/ConsoleExercises/bin/Debug/net8.0/ConsoleExercises.deps.json
+/home/hai/BigBoiii/TAFEProgramming/GitRepo/TAFE_Programming/_OOP/ClassExercises/ConsoleExercises/bin/Debug/net8.0/ConsoleExercises.runtimeconfig.json
+/home/hai/BigBoiii/TAFEProgramming/GitRepo/TAFE_Programming/_OOP/ClassExercises/ConsoleExercises/bin/Debug/net8.0/ConsoleExercises.dll
+/home/hai/BigBoiii/TAFEProgramming/GitRepo/TAFE_Programming/_OOP/ClassExercises/ConsoleExercises/bin/Debug/net8.0/ConsoleExercises.pdb
+/home/hai/BigBoiii/TAFEProgramming/GitRepo/TAFE_Programming/_OOP/ClassExercises/ConsoleExercises/obj/Debug/net8.0/ConsoleExercises.GeneratedMSBuildEditorConfig.editorconfig
+/home/hai/BigBoiii/TAFEProgramming/GitRepo/TAFE_Programming/_OOP/ClassExercises/ConsoleExercises/obj/Debug/net8.0/ConsoleExercises.AssemblyInfoInputs.cache
+/home/hai/BigBoiii/TAFEProgramming/GitRepo/TAFE_Programming/_OOP/ClassExercises/ConsoleExercises/obj/Debug/net8.0/ConsoleExercises.AssemblyInfo.cs
+/home/hai/BigBoiii/TAFEProgramming/GitRepo/TAFE_Programming/_OOP/ClassExercises/ConsoleExercises/obj/Debug/net8.0/ConsoleExercises.csproj.CoreCompileInputs.cache
+/home/hai/BigBoiii/TAFEProgramming/GitRepo/TAFE_Programming/_OOP/ClassExercises/ConsoleExercises/obj/Debug/net8.0/ConsoleExercises.sourcelink.json
+/home/hai/BigBoiii/TAFEProgramming/GitRepo/TAFE_Programming/_OOP/ClassExercises/ConsoleExercises/obj/Debug/net8.0/ConsoleExercises.dll
+/home/hai/BigBoiii/TAFEProgramming/GitRepo/TAFE_Programming/_OOP/ClassExercises/ConsoleExercises/obj/Debug/net8.0/refint/ConsoleExercises.dll
+/home/hai/BigBoiii/TAFEProgramming/GitRepo/TAFE_Programming/_OOP/ClassExercises/ConsoleExercises/obj/Debug/net8.0/ConsoleExercises.pdb
+/home/hai/BigBoiii/TAFEProgramming/GitRepo/TAFE_Programming/_OOP/ClassExercises/ConsoleExercises/obj/Debug/net8.0/ConsoleExercises.genruntimeconfig.cache
+/home/hai/BigBoiii/TAFEProgramming/GitRepo/TAFE_Programming/_OOP/ClassExercises/ConsoleExercises/obj/Debug/net8.0/ref/ConsoleExercises.dll

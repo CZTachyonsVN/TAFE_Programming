@@ -1,6 +1,88 @@
 ﻿// See https://aka.ms/new-console-template for more information
+using System.Linq;
+using System.Linq.Expressions;
+using System.Reflection;
+using System.Threading.Channels;
+
+#region Quick sort
+
+Random random = new Random();  
+List<int> list = new List<int>();
+
+for (int i = 0; i < 10; i++)
+{
+    list.Add(random.Next(0, 10));
+}
+
+void Quicksort(int start, int end)
+{
+    if (start>pivot)
+    {
+        
+    }
+}
 
 
+Console.ReadLine();
+#endregion
+
+
+#region Fibonacci
+// Console.WriteLine("Lengths of Fibonacci sequence");
+// int.TryParse(Console.ReadLine(), out int length);
+//
+// int start = 1;
+//
+// List<int> fib = new List<int>();
+// fib.Add(0);
+// fib.Add(1);
+//
+// for (int i = 0; i < length; i++)
+// {
+//     fib.Add(fib[fib.Count-1] + fib[fib.Count-2]);
+// }
+// fib.ForEach(n => Console.Write(n + " "));
+#endregion
+
+#region Check Input Type
+// Console.WriteLine("Your input:");
+// string? input = Console.ReadLine();
+// _ = CheckInputType(input, typeof(int));
+//
+// static bool CheckInputType(string? input, Type dataType)
+// {
+//     bool isCurrentType = false;
+//     if (input is not null)
+//     {
+//         switch (Type.GetTypeCode(dataType))
+//         {
+//             case TypeCode.Int32:
+//             case TypeCode.Int16:
+//             case TypeCode.Int64:
+//                 isCurrentType = int.TryParse(input, out int number);
+//                 Console.WriteLine(isCurrentType ? typeof(int) : "not int");
+//                 break;
+//             case TypeCode.String:
+//                 isCurrentType = true;
+//                 Console.WriteLine(isCurrentType ? typeof(string): "not string");
+//                 break;
+//             case TypeCode.Boolean:
+//                 isCurrentType = bool.TryParse(input, out bool boolean);
+//                 Console.WriteLine(isCurrentType ? typeof(bool) : "not bool");
+//                 break;
+//             case TypeCode.Double:
+//                 isCurrentType = double.TryParse(input, out double dbl);
+//                 Console.WriteLine(isCurrentType ? typeof(double) : "not double");
+//                 break;
+//             default:
+//                 isCurrentType = false;
+//                 Console.WriteLine("type not available");
+//                 break;
+//         }
+//     }
+//     return isCurrentType;
+// }
+#endregion
 
 #region calculator
 //Console.WriteLine("Enter value for 'a'");
@@ -67,13 +149,6 @@
 //}
 
 #endregion
-
-//string isAdult(int age) => age < 18 ? "Teen" : "Adult";
-
-//Console.WriteLine(isAdult(15));
-//Console.WriteLine(isAdult(27));
-
-//Console.ReadLine();
 
 #region avarage
 //double[] twoNums = new double[4];

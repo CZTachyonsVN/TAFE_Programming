@@ -21,19 +21,20 @@
             }
           },
           {
-            "id": "50afc1cd0a94f71f",
+            "id": "a202a9bf7bc271d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_OOP/Snippets/Discard.md",
+                "file": "_OOP/Snippets/LINQ.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#C",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_OOP/Notes/Week4.md",
+                "file": "_OOP/Snippets/LINQ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_OOP/Notes/Week4.md"
+                "file": "_OOP/Snippets/LINQ.md"
               }
             }
           },
@@ -164,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_OOP/Notes/Week4.md",
+                "file": "_OOP/Snippets/LINQ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_OOP/Notes/Week4.md",
+                "file": "_OOP/Snippets/LINQ.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,11 +210,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e4f98d45d5e7acc3",
+  "active": "a202a9bf7bc271d1",
   "lastOpenFiles": [
     "_OOP/ClassExercises/ConsoleExercises/Program.cs~",
-    "_OOP/Snippets/Discard.md",
+    "_OOP/ClassExercises/ConsoleExercises/ConsoleExercises.sln.DotSettings.user",
     "_OOP/Notes/Week4.md",
+    "_OOP/Snippets/LINQ.md",
+    "_OOP/Snippets/Check Input Type.md",
+    "_OOP/Snippets/Discard.md",
+    "_OOP/ClassExercises/ConsoleExercises/obj/Debug/net8.0/ConsoleExercises.csproj.FileListAbsolute.txt",
+    "_OOP/ClassExercises/ConsoleExercises/bin/Debug/net8.0/ConsoleExercises.pdb",
+    "_OOP/ClassExercises/ConsoleExercises/obj/Debug/net8.0/ref/ConsoleExercises.dll",
+    "_OOP/ClassExercises/ConsoleExercises/bin/Debug/net8.0/ConsoleExercises.dll",
+    "_OOP/ClassExercises/ConsoleExercises/bin/Debug/net8.0/ConsoleExercises.runtimeconfig.json",
+    "_OOP/ClassExercises/ConsoleExercises/obj/Debug/net8.0/ConsoleExercises.genruntimeconfig.cache",
+    "_OOP/ClassExercises/ConsoleExercises/bin/Debug/net8.0/ConsoleExercises.deps.json",
+    "_OOP/ClassExercises/ConsoleExercises/bin/Debug/net8.0/ConsoleExercises",
+    "_OOP/ClassExercises/ConsoleExercises/obj/Debug/net8.0/apphost",
     "_SA5/AssessmentInterviewOutcome.md",
     "_Java/Notes/Week4 - GUI.md",
     "_OOP/Snippets/Null-coalescing.md",
@@ -223,26 +236,15 @@
     "_OOP/Snippets/Lambda.md",
     "_OOP/Notes/Week2.md",
     "_SA5/AssessmentWorksheet.canvas",
-    "_SA5/MMM_SampleForm_1_ClientBusinessLocation.pdf",
-    "_SA5/MMM_SampleForm_2_BusinessLocAndWarehouseSpace.pdf",
-    "_SA5/MMM_SampleForm_3_ReportReadings.pdf",
     "_SA5/Notes/Week2.md",
     "_SA5/Notes/Week1.md",
     "_SA5/Notes/DatabaseExample.canvas",
     "_Java/Notes/Week3.md",
     "_Java/Notes/Week1.md",
-    "_SA5/InClassActivities/05_SampleForms/OurCo_ServiceManagementForms.pdf",
     "AssessemntsInterviewOutcome.md",
     "_SA5/Notes/Week3.md",
-    "_SA5/InClassActivities/03_ER_AndTables/02b_ERAndTableExercises.pdf",
-    "_SA5/InClassActivities/03_ER_AndTables/02c_ERAndTableExerciseSampleSolns.pdf",
-    "_OOP/TeachingContent/IfElseStatementsAndBooleans.pptx",
-    "_OOP/TeachingContent/VariablesAndDataTypes.pptx",
     "_Java/Notes/Week1_exercisesPseudocode.md",
-    "Untitled.md",
     "conflict-files-obsidian-git.md",
-    "_Java/New folder",
-    "_Java/Backup",
     "Assessment/1_ICTICT523_GatherBusnData/ICTICT523_AT2_PE_MC_TQM_V1.md",
     "_SA5/Notes/DatabaseExcercise.canvas",
     "Media/Pasted image 20240129102327.png",
@@ -251,7 +253,6 @@
     "_Csharp/Snippets/Test.md",
     "_Java/Snippets/Regex.md",
     "Week1_Monday.md",
-    "_Csharp/Notes/Week1.md",
-    "_Csharp/Untitled.md"
+    "_Csharp/Notes/Week1.md"
   ]
 }
