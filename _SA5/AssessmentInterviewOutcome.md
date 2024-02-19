@@ -12,7 +12,7 @@
 	- Monitoring of real time data coming from the robots
 	- In an occurrence of dangerous concentration of certain chemicals, monitoring employees will notify designated personnel from the affected site of the event and also main points of contact of the company. If they are inaccessible, work up the chain of command.
 - They act as a backup database and adverse event detection for their clients
-## Needs:
+## Requirements:
 - Cloud-based database solution that receives real-time data from their client's servers
 	- As close to 100% up-time as possible
 	- Handle large amount of data writes per second (32k)
@@ -88,7 +88,7 @@
 	- The database and monitoring system will on a separate network and does not interact with other operations
 - Other software that interacts with the data
 	- Every customer will have their solutions for what they need. Manny only needs to monitor the data, nothing else.
-## Maybe and/or down the line
+## Optional
 - Monitoring
 	- More PCs
 	- Remote connection

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "TSWu/9NtdXaPl1T/fu7ufQ51pU7aq3Ho/RMvZt3j2a+qG/CVdLx1aicTQ3leCHY4QFpKOSYV43fIuiWZe4yLjA==",
+  "dgSpecHash": "zLfIVTzfulx9IykMh1IA+6U2G1lF6Hb5IKQnlWSTnPs2WlJw3kg4kko1fgNCVo3inevaK/vY7P4nueyOHyx6rg==",
   "success": true,
-  "projectFilePath": "/home/hai/BigBoiii/TAFEProgramming/GitRepo/TAFE_Programming/_OOP/ClassExercises/ConsoleExercises/ConsoleExercises.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/hai/HDD/TAFEProgramming/GitRepo/TAFE_Programming/_OOP/ClassExercises/ConsoleExercises/ConsoleExercises.csproj",
+  "expectedPackageFiles": [
+    "/home/hai/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.1/microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

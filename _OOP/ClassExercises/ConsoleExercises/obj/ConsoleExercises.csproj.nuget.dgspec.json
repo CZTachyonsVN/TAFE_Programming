@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/hai/BigBoiii/TAFEProgramming/GitRepo/TAFE_Programming/_OOP/ClassExercises/ConsoleExercises/ConsoleExercises.csproj": {}
+    "/home/hai/HDD/TAFEProgramming/GitRepo/TAFE_Programming/_OOP/ClassExercises/ConsoleExercises/ConsoleExercises.csproj": {}
   },
   "projects": {
-    "/home/hai/BigBoiii/TAFEProgramming/GitRepo/TAFE_Programming/_OOP/ClassExercises/ConsoleExercises/ConsoleExercises.csproj": {
+    "/home/hai/HDD/TAFEProgramming/GitRepo/TAFE_Programming/_OOP/ClassExercises/ConsoleExercises/ConsoleExercises.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/hai/BigBoiii/TAFEProgramming/GitRepo/TAFE_Programming/_OOP/ClassExercises/ConsoleExercises/ConsoleExercises.csproj",
+        "projectUniqueName": "/home/hai/HDD/TAFEProgramming/GitRepo/TAFE_Programming/_OOP/ClassExercises/ConsoleExercises/ConsoleExercises.csproj",
         "projectName": "ConsoleExercises",
-        "projectPath": "/home/hai/BigBoiii/TAFEProgramming/GitRepo/TAFE_Programming/_OOP/ClassExercises/ConsoleExercises/ConsoleExercises.csproj",
+        "projectPath": "/home/hai/HDD/TAFEProgramming/GitRepo/TAFE_Programming/_OOP/ClassExercises/ConsoleExercises/ConsoleExercises.csproj",
         "packagesPath": "/home/hai/.nuget/packages/",
-        "outputPath": "/home/hai/BigBoiii/TAFEProgramming/GitRepo/TAFE_Programming/_OOP/ClassExercises/ConsoleExercises/obj/",
+        "outputPath": "/home/hai/HDD/TAFEProgramming/GitRepo/TAFE_Programming/_OOP/ClassExercises/ConsoleExercises/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/hai/.nuget/NuGet/NuGet.Config"
@@ -48,12 +48,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.1, 8.0.1]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

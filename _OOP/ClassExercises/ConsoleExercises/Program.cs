@@ -6,28 +6,33 @@ using System.Threading.Channels;
 
 #region Quick sort
 
-Random random = new Random();  
-List<int> list = new List<int>();
+var random = new Random();
+var list = new List<int>();
+//generating random numbers and displaying them
+Console.WriteLine("Unsorted list:");
+for (int i = 0; i < 10; i++) {
+	list.Add(random.Next(0, 10));
+	Console.Write(list.Last() + " ");
+}
+Console.WriteLine("Sorted list:");
 
-for (int i = 0; i < 10; i++)
-{
-    list.Add(random.Next(0, 10));
+
+
+int[] Quicksort(int[]arr, int start, int end) {
+	int pivot = end / start;
+	//compare pivot to each element of an array
+	//create an array for elements that are smaller or same as pivot
+	//create an array for elements that are larger than pivot
+	//call Quicksort for each array
+
+	return arr;
 }
 
-void Quicksort(int start, int end)
-{
-    if (start>pivot)
-    {
-        
-    }
-}
-
-
-Console.ReadLine();
 #endregion
 
 
 #region Fibonacci
+
 // Console.WriteLine("Lengths of Fibonacci sequence");
 // int.TryParse(Console.ReadLine(), out int length);
 //
@@ -42,9 +47,11 @@ Console.ReadLine();
 //     fib.Add(fib[fib.Count-1] + fib[fib.Count-2]);
 // }
 // fib.ForEach(n => Console.Write(n + " "));
+
 #endregion
 
 #region Check Input Type
+
 // Console.WriteLine("Your input:");
 // string? input = Console.ReadLine();
 // _ = CheckInputType(input, typeof(int));
@@ -82,9 +89,11 @@ Console.ReadLine();
 //     }
 //     return isCurrentType;
 // }
+
 #endregion
 
 #region calculator
+
 //Console.WriteLine("Enter value for 'a'");
 //int a = int.Parse(Console.ReadLine());
 
@@ -105,9 +114,11 @@ Console.ReadLine();
 //    }
 //}
 //else Console.WriteLine("Cannot divide by 0");
+
 #endregion
 
 #region temp conversion
+
 //Console.WriteLine("Enter temperature");
 //string tempInput = Console.ReadLine();
 //char unit = tempInput.Last<char>();
@@ -127,9 +138,11 @@ Console.ReadLine();
 //    default:
 //        break;
 //}
+
 #endregion
 
 #region time conversion
+
 //Console.WriteLine("Please enter time. End with 's' for seconds, 'H' for hours:");
 //string input = Console.ReadLine();
 //char unit = input.Last<char>();
@@ -151,6 +164,7 @@ Console.ReadLine();
 #endregion
 
 #region avarage
+
 //double[] twoNums = new double[4];
 //Console.WriteLine("Give me a number");
 //Double.TryParse(Console.ReadLine(), out twoNums[0]);
@@ -170,9 +184,11 @@ Console.ReadLine();
 //    avarage += twoNums[i];
 //}
 //Console.WriteLine($"Your average is {avarage / twoNums.Length}");
+
 #endregion
 
 #region Get age from year of birth
+
 //Console.WriteLine("What year were you born in?");
 
 //int yearOfBirth;
@@ -186,9 +202,11 @@ Console.ReadLine();
 //Console.WriteLine($"You are {Age} years old");
 
 //Console.ReadLine();
+
 #endregion
 
 #region Biggest number
+
 //Random random = new Random();
 
 //int[] numbers = new int[10];
@@ -217,9 +235,11 @@ Console.ReadLine();
 //Console.WriteLine("The biggest number is: " + numbers[indexCurrent]);
 
 //Console.ReadLine();
+
 #endregion
 
 #region decimal to binary
+
 //Console.WriteLine("Put in a decimal number");
 //uint.TryParse(Console.ReadLine(),out var decimalNum);
 //var input = decimalNum;
@@ -228,9 +248,11 @@ Console.ReadLine();
 //    result = result.Insert(0, (decimalNum % 2).ToString());
 //    decimalNum /= 2;}
 //Console.WriteLine($"Binary value of {input} is : {result}");
+
 #endregion
 
 #region ordinals
+
 //while (true)
 //{
 //    string suffix = "";
@@ -262,9 +284,11 @@ Console.ReadLine();
 //    }
 //    Console.WriteLine(num + suffix);
 //}
+
 #endregion
 
 #region Divisible by 5 || 3
+
 //int hun = 1;
 
 //while (hun <= 100)
@@ -275,9 +299,11 @@ Console.ReadLine();
 //    Console.WriteLine(value);
 //    hun++;
 //}
+
 #endregion
 
 #region Switch expression
+
 //using OOP_Oleg_Week1;
 
 //Console.WriteLine("(J)ulie or (T)omas?");
@@ -321,6 +347,7 @@ Console.ReadLine();
 #endregion
 
 #region is palindrome
+
 //Console.WriteLine("Enter your string");
 //string? input = Console.ReadLine();
 //Console.WriteLine("Your string " + IsPalindrome(input, out _));
