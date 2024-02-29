@@ -43,7 +43,7 @@
 - Primary Contact
 - Contact Phone
 - Contact Email
-- Competition Points
+- Competition Points <br>
 **Example:**
 
 | Team Name     | Primary Contact  | Contact Phone | Contact Email        | Competition Points |
