@@ -8,24 +8,32 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/home/hai/.nuget/packages/": {}
+    "C:\\Users\\hai\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/hai/HDD/TAFEProgramming/GitRepo/TAFE_Programming/_OOP/ClassExercises/ConsoleExercises/ConsoleExercises.csproj",
+      "projectUniqueName": "D:\\TAFEProgramming\\GitRepo\\TAFE_Programming\\_OOP\\ClassExercises\\ConsoleExercises\\ConsoleExercises.csproj",
       "projectName": "ConsoleExercises",
-      "projectPath": "/home/hai/HDD/TAFEProgramming/GitRepo/TAFE_Programming/_OOP/ClassExercises/ConsoleExercises/ConsoleExercises.csproj",
-      "packagesPath": "/home/hai/.nuget/packages/",
-      "outputPath": "/home/hai/HDD/TAFEProgramming/GitRepo/TAFE_Programming/_OOP/ClassExercises/ConsoleExercises/obj/",
+      "projectPath": "D:\\TAFEProgramming\\GitRepo\\TAFE_Programming\\_OOP\\ClassExercises\\ConsoleExercises\\ConsoleExercises.csproj",
+      "packagesPath": "C:\\Users\\hai\\.nuget\\packages\\",
+      "outputPath": "D:\\TAFEProgramming\\GitRepo\\TAFE_Programming\\_OOP\\ClassExercises\\ConsoleExercises\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/home/hai/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\hai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -38,6 +46,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -54,18 +67,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[8.0.1, 8.0.1]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
