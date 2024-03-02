@@ -27,13 +27,14 @@
               "type": "markdown",
               "state": {
                 "file": "_OOP/Notes/AssessmentTask2.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_OOP/Notes/Week6_Files.md",
+                "file": "_OOP/Notes/AssessmentTask2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,8 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5,
-    "collapsed": true
+    "width": 244.5
   },
   "right": {
     "id": "f8cb35b841268550",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_OOP/Notes/Week6_Files.md"
+                "file": "_OOP/Notes/AssessmentTask2.md"
               }
             }
           },
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_OOP/Notes/Week6_Files.md",
+                "file": "_OOP/Notes/AssessmentTask2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_OOP/Notes/Week6_Files.md",
+                "file": "_OOP/Notes/AssessmentTask2.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,10 +209,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e4f98d45d5e7acc3",
+  "active": "f782ed2ca0afec63",
   "lastOpenFiles": [
-    "_OOP/Notes/AssessmentTask2.md",
+    "_Java/Notes/Week1_exercisesPseudocode.md",
     "_OOP/Notes/Week6_Files.md",
+    "_Java/Notes/Week3.md",
+    "_Java/Notes/Week1.md",
+    "_OOP/Notes/Week4.md",
+    "_OOP/Notes/Week2.md",
+    "_OOP/Notes/Week1.md",
+    "_OOP/Notes/AssessmentTask2.md",
     "_OOP/Notes/Week6_OOP.md",
     "_Java/Assessment Task 2 notes.md",
     "_SA5/AssessmentWorksheet.canvas",
@@ -220,7 +226,6 @@
     "_SA5/MMM_SampleForm_1_ClientBusinessLocation.pdf",
     "_Java/Notes/Week5.md",
     "_SA5/AssessmentInterviewOutcome.md",
-    "_OOP/Notes/Week4.md",
     "_OOP/ClassExercises/ConsoleExercises/Program.cs~",
     "_OOP/ClassExercises/ConsoleExercises/obj/274548c1-9f41-44ab-8b3b-14e274e0d81f.tmp",
     "_OOP/Snippets/LINQ.md",
@@ -237,17 +242,12 @@
     "_OOP/Snippets/Null-coalescing.md",
     "_OOP/Snippets/Pattern Matching.md",
     "_OOP/Snippets/Switch expressions.md",
-    "_OOP/Notes/Week1.md",
     "_OOP/Snippets/Lambda.md",
-    "_OOP/Notes/Week2.md",
     "_SA5/Notes/Week2.md",
     "_SA5/Notes/Week1.md",
     "_SA5/Notes/DatabaseExample.canvas",
-    "_Java/Notes/Week3.md",
-    "_Java/Notes/Week1.md",
     "AssessemntsInterviewOutcome.md",
     "_SA5/Notes/Week3.md",
-    "_Java/Notes/Week1_exercisesPseudocode.md",
     "conflict-files-obsidian-git.md",
     "Assessment/1_ICTICT523_GatherBusnData/ICTICT523_AT2_PE_MC_TQM_V1.md",
     "_SA5/Notes/DatabaseExcercise.canvas",

@@ -2,18 +2,18 @@
 - [ ] Write an email documenting the summary of requirements for the application development.
 - [ ] Present this email the the project manager (teacher)
 #### Part 2 - Development
-- [ ] At least 1 `if/else`
-- [ ] At least 2 iteration structures
-- [ ] Create methods to make the code modular and avoid repetition
+- [x] At least 1 `if/else`
+- [x] At least 2 iteration structures
+- [x] Create methods to make the code modular and avoid repetition
 - [ ] Access, read, and write CSV or txt file
 	- [ ] At least 2 arrays
-- [ ] Use classes as a data structure
-	- [ ] at least 4 properties
-- [ ] Use a class that includes a collection of objects from another custom class
-- [ ] Use method overloading
-- [ ] At least 3 different data types
-- [ ] At least 3 operators (assignment, mathematical, boolean)
-- [ ] Use expressions at least 3 times
+- [x] Use classes as a data structure
+	- [x] at least 4 properties
+- [x] Use a class that includes a collection of objects from another custom class
+- [x] Use method overloading
+- [x] At least 3 different data types
+- [x] At least 3 operators (assignment, mathematical, boolean)
+- [x] Use expressions at least 3 times
 #### Part 3 - Testing
 - [ ] Screenshots of code that shows:
 	- [ ] Naming
