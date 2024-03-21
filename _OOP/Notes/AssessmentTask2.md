@@ -1,12 +1,12 @@
 #### Part 1 - Requirement review
 - [ ] Write an email documenting the summary of requirements for the application development.
-- [ ] Present this email the the project manager (teacher)
+- [ ] Present this email the the project manager (teacher).
 #### Part 2 - Development
 - [x] At least 1 `if/else`
 - [x] At least 2 iteration structures
 - [x] Create methods to make the code modular and avoid repetition
-- [ ] Access, read, and write CSV or txt file
-	- [ ] At least 2 arrays
+- [x] Access, read, and write CSV or txt file
+	- [x] At least 2 arrays
 - [x] Use classes as a data structure
 	- [x] at least 4 properties
 - [x] Use a class that includes a collection of objects from another custom class

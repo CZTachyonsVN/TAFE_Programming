@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_OOP/Notes/Week6_Files.md",
+                "file": "_OOP/Notes/Week8_SQL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,13 +21,13 @@
             }
           },
           {
-            "id": "f782ed2ca0afec63",
+            "id": "e2bbb9e053d6a8fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_OOP/Notes/AssessmentTask2.md",
-                "mode": "preview",
+                "file": "_OOP/Notes/Dapper in WPF Guide.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_OOP/Notes/AssessmentTask2.md",
+                "file": "_OOP/Notes/Dapper in WPF Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5
+    "width": 244.5,
+    "collapsed": true
   },
   "right": {
     "id": "f8cb35b841268550",
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_OOP/Notes/AssessmentTask2.md"
+                "file": "_OOP/Notes/Dapper in WPF Guide.md"
               }
             }
           },
@@ -164,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_OOP/Notes/AssessmentTask2.md",
+                "file": "_OOP/Notes/Dapper in WPF Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_OOP/Notes/AssessmentTask2.md",
+                "file": "_OOP/Notes/Dapper in WPF Guide.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,20 +210,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f782ed2ca0afec63",
+  "active": "e2bbb9e053d6a8fe",
   "lastOpenFiles": [
-    "_Java/Notes/Week1_exercisesPseudocode.md",
-    "_OOP/Notes/Week6_Files.md",
-    "_Java/Notes/Week3.md",
-    "_Java/Notes/Week1.md",
-    "_OOP/Notes/Week4.md",
+    "Pasted image 20240322071432.png",
+    "Pasted image 20240322071410.png",
+    "Pasted image 20240322071101.png",
+    "Pasted image 20240322070511.png",
+    "Pasted image 20240322064108.png",
+    "Pasted image 20240322063335.png",
+    "Pasted image 20240322035149.png",
+    "Pasted image 20240322035041.png",
+    "Pasted image 20240322034305.png",
+    "Pasted image 20240322034236.png",
+    "Pasted image 20240322032931.png",
+    "SQL/SQL_Cheatsheet.md",
+    "_OOP/Notes/Dapper in WPF Guide.md",
+    "SQL/Intro.md",
+    "_OOP/Notes/Week8_SQL.md",
+    "SQL",
+    "_OOP/Notes/AssessmentTask2.md",
+    "_OOP/Notes/Week7_DevelopmentLifeCycle.md",
+    "_OOP/Notes/Week4_Collections.md",
     "_OOP/Notes/Week2.md",
     "_OOP/Notes/Week1.md",
-    "_OOP/Notes/AssessmentTask2.md",
-    "_OOP/Notes/Week6_OOP.md",
+    "_Java/Notes/Week8.md",
     "_Java/Assessment Task 2 notes.md",
+    "Java_Planning_Example.md",
+    "_SA5/Notes/Learner guide.md",
     "_SA5/AssessmentWorksheet.canvas",
-    "Pasted image 20240227121843.png",
+    "_OOP/Notes/Week6_Files.md",
+    "_Java/Notes/Week1_exercisesPseudocode.md",
+    "_Java/Notes/Week3.md",
+    "_Java/Notes/Week1.md",
+    "_OOP/Notes/Week6_OOP.md",
     "_SA5/MMM_SampleForm_1_ClientBusinessLocation.pdf",
     "_Java/Notes/Week5.md",
     "_SA5/AssessmentInterviewOutcome.md",
@@ -237,22 +257,9 @@
     "_OOP/ClassExercises/ConsoleExercises/obj/Debug/net8.0/ref/ConsoleExercises.dll",
     "_OOP/ClassExercises/ConsoleExercises/bin/Debug/net8.0/ConsoleExercises.dll",
     "_OOP/ClassExercises/ConsoleExercises/bin/Debug/net8.0/ConsoleExercises.runtimeconfig.json",
-    "_OOP/ClassExercises/ConsoleExercises/obj/Debug/net8.0/ConsoleExercises.genruntimeconfig.cache",
     "_Java/Notes/Week4 - GUI.md",
     "_OOP/Snippets/Null-coalescing.md",
-    "_OOP/Snippets/Pattern Matching.md",
-    "_OOP/Snippets/Switch expressions.md",
-    "_OOP/Snippets/Lambda.md",
-    "_SA5/Notes/Week2.md",
-    "_SA5/Notes/Week1.md",
     "_SA5/Notes/DatabaseExample.canvas",
-    "AssessemntsInterviewOutcome.md",
-    "_SA5/Notes/Week3.md",
-    "conflict-files-obsidian-git.md",
-    "Assessment/1_ICTICT523_GatherBusnData/ICTICT523_AT2_PE_MC_TQM_V1.md",
-    "_SA5/Notes/DatabaseExcercise.canvas",
-    "Media/Pasted image 20240129102327.png",
-    "_SA5/InClassActivities/06_ApplyQueries/CenturyInventions_MSSQLSvr/MSSQLServerFiles/Century_Inventions_Relationships.png",
-    "_SA5/InClassActivities/06_ApplyQueries/03_RelatedTo_AT2/01_Activity1/Century_Inventions_Relationships.png"
+    "_SA5/Notes/DatabaseExcercise.canvas"
   ]
 }

@@ -17,15 +17,15 @@ Review the project requirements and documentation. In an email to the manager, c
 - [ ] The code follows algorithms in [[Assessment Task 2 notes#1.2|1.2]]
 - [ ] Code adheres to Uptown IT code standards
 - [ ] Code software solution from specifications
-- [ ] Establish appropriate data structures for developing the solution.
-	- [ ] At least two
-- [ ] Provide navigation buttons and search facility to navigate through the various records
-- [ ] Allow the user to save all records back to the hard drive (or equivalent). Save all the records once the program is closed.
-- [ ] Work with access and manipulate data files
-- [ ] Develop programs that allow users to add, save, view, and edit records
-- [ ] Allowed the program to display a sorted list, as requested, and to locate a given record using a binary search on the sorted list.
-- [ ] Allow the user to enter a search string and then display an associated filtered list.
-- [ ] Design and develop appropriate modularisation (low/lose coupling and high cohesion)
+- [x] Establish appropriate data structures for developing the solution.
+	- [x] At least two
+- [x] Provide navigation buttons and search facility to navigate through the various records
+- [x] Allow the user to save all records back to the hard drive (or equivalent). Save all the records once the program is closed.
+- [x] Work with access and manipulate data files
+- [x] Develop programs that allow users to add, save, view, and edit records
+- [x] Allowed the program to display a sorted list, as requested, and to locate a given record using a binary search on the sorted list.
+- [x] Allow the user to enter a search string and then display an associated filtered list.
+- [x] Design and develop appropriate modularisation (low/lose coupling and high cohesion)
 ### 3. Documentation
 #### 3.1 
 - [ ] Prepare appropriate internal documentation in the form of in-line comments in the code. Your code should follow your development team’s programming standards.
