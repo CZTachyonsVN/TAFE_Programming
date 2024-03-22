@@ -1,3 +1,6 @@
+---
+noteID: b589caf3-607f-45d0-9053-6fb32869a567
+---
 - Global language for relational database systems
 - Different DBMS expand on standard SQL
 # SQL
