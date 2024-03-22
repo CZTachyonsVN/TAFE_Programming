@@ -4,9 +4,9 @@ noteID: 60a1926d-78c4-4a88-969a-d5f10380b5bb
 #dapper #sql #wpf #dotnet #csharp 
 ## Create a configuration file
 1. In `Solution Explorer`, right click on the namespace that will be receiving the data 
-2. Add > New Item...
+2. Add > New Item...<br>
 ![Pasted image 20240322031157.png](../../Media/Pasted%20image%2020240322031157.png)
-3. In the pop-up window, select `Application Configuration File` and name it. Make sure it is for C#. This will create a configuration file for the WPF application.
+3. In the pop-up window, select `Application Configuration File` and name it. Make sure it is for C#. This will create a configuration file for the WPF application.<br>
 ![Pasted image 20240322031307.png](../../Media/Pasted%20image%2020240322031307.png)
 ## Set up configuration file
 1. Open your configuration file from `Solution Explorer`<br>
@@ -29,7 +29,7 @@ noteID: 60a1926d-78c4-4a88-969a-d5f10380b5bb
 
     ![Pasted image 20240322031542.png](../../Media/Pasted%20image%2020240322031542.png)
 ## Open NuGet Package Manager
-Tools > NuGet Package Manager > Manage NuGet Packages for Solution<br> ![Pasted image 20240322031348.png](../../Media/Pasted%20image%2020240322031348.png)
+Tools > NuGet Package Manager > Manage NuGet Packages for Solution<br>![Pasted image 20240322031348.png](../../Media/Pasted%20image%2020240322031348.png)
 ## Install ConfigurationManager Package
 Browse NuGet Package Manager > Find `System.Configuration.ConfigurationManager` > Install it to your WPF project.<br>
 ![Pasted image 20240322032649.png](../../Media/Pasted%20image%2020240322032649.png)
