@@ -35,7 +35,7 @@ Browse NuGet Package Manager > Find `System.Configuration.ConfigurationManager` 
 3. Select `WPF Class Library` and name it accordingly (e.g., DataManager) <br>![Pasted image 20240322032931.png](../../Media/Pasted%20image%2020240322032931.png)
 ## Create a Reference to the Library in the WPF App
 ![Pasted image 20240322034236.png](../../Media/Pasted%20image%2020240322034236.png)
-![Pasted image 20240322034305.png](../../Media/Pasted%20image%2020240322034305.png)
+![Pasted image 20240322034305.png](../../Media/Pasted%20image%2020240322034305.png)<br>
 Your `Solution Explorer` should look something like this:<br>
 ![Pasted image 20240322035041.png](../../Media/Pasted%20image%2020240322035041.png)
 ## Install SqlClient
