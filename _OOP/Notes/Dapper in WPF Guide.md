@@ -2,12 +2,12 @@
 ## Create a configuration file
 1. In `Solution Explorer`, right click on the namespace that will be receiving the data 
 2. Add > New Item...
-![Pasted image 20240322031157.png](Pasted%20image%2020240322031157.png)
+![Pasted image 20240322031157.png](../../Media/Pasted%20image%2020240322031157.png)
 3. In the pop-up window, select `Application Configuration File` and name it. Make sure it is for C#. This will create a configuration file for the WPF application.
-![Pasted image 20240322031307.png](Pasted%20image%2020240322031307.png)
+![Pasted image 20240322031307.png](../../Media/Pasted%20image%2020240322031307.png)
 ## Set up configuration file
 1. Open your configuration file from `Solution Explorer`<br>
-   ![Pasted image 20240322031439.png](Pasted%20image%2020240322031439.png)
+   ![Pasted image 20240322031439.png](../../Media/Pasted%20image%2020240322031439.png)
 2. Inside \<configuration> tags add following lines:<br>
 ```xml
 <connectionStrings>
@@ -23,22 +23,23 @@
 	- `Integrated Security=True` allows WPF to access the database without needing username and password. It will use windows authentication instead. Only if the SQL server is also hosted on the same machine as the application.
 	- `TrustServerCertificate=True` By default WPF will not access an untrusted SQL server. The server needs a certificate WPF trusts. `True` argument will override that behaviour.
 	- `Initial Catalog` is the name of the database you want to access
-![Pasted image 20240322031542.png](Pasted%20image%2020240322031542.png)
+
+    ![Pasted image 20240322031542.png](../../Media/Pasted%20image%2020240322031542.png)
 ## Open NuGet Package Manager
-Tools > NuGet Package Manager > Manage NuGet Packages for Solution<br> ![Pasted image 20240322031348.png](Pasted%20image%2020240322031348.png)
+Tools > NuGet Package Manager > Manage NuGet Packages for Solution<br> ![Pasted image 20240322031348.png](../../Media/Pasted%20image%2020240322031348.png)
 ## Install ConfigurationManager Package
 Browse NuGet Package Manager > Find `System.Configuration.ConfigurationManager` > Install it to your WPF project.<br>
-![Pasted image 20240322032649.png](Pasted%20image%2020240322032649.png)
+![Pasted image 20240322032649.png](../../Media/Pasted%20image%2020240322032649.png)
 ## Create a Library to Handle SQL Connection and Data Transfer
-1. In the `Solution Manager` right-click on your solution and add a new project.<br>![Pasted image 20240322032834.png](Pasted%20image%2020240322032834.png)
-3. Select `WPF Class Library` and name it accordingly (e.g., DataManager) <br>![Pasted image 20240322032931.png](Pasted%20image%2020240322032931.png)
+1. In the `Solution Manager` right-click on your solution and add a new project.<br>![Pasted image 20240322032834.png](../../Media/Pasted%20image%2020240322032834.png)
+3. Select `WPF Class Library` and name it accordingly (e.g., DataManager) <br>![Pasted image 20240322032931.png](../../Media/Pasted%20image%2020240322032931.png)
 ## Create a Reference to the Library in the WPF App
-![Pasted image 20240322034236.png](Pasted%20image%2020240322034236.png)
-![Pasted image 20240322034305.png](Pasted%20image%2020240322034305.png)
-Your `Solution Explorer` should look something like this:<br>![Pasted image 20240322035041.png](Pasted%20image%2020240322035041.png)
+![Pasted image 20240322034236.png](../../Media/Pasted%20image%2020240322034236.png)
+![Pasted image 20240322034305.png](../../Media/Pasted%20image%2020240322034305.png)
+Your `Solution Explorer` should look something like this:<br>![Pasted image 20240322035041.png](../../Media/Pasted%20image%2020240322035041.png)
 ## Install SqlClient
 Install it to both the WPF project and library<br>
-![Pasted image 20240322035149.png](Pasted%20image%2020240322035149.png)
+![Pasted image 20240322035149.png](../../Media/Pasted%20image%2020240322035149.png)
 ## Create SQL Connection Class
 Create a new C# class in the `DataManagement` library:
 ```c#
@@ -78,7 +79,7 @@ namespace DataManagement
 ```
 ## Create Data Model Class to transfer database data to C\#
 Similarly to a class that was used to store data from a CSV file, we need one that stores data of each column from the database. Make sure the name and datatype of `Properties` also match (case insensitive) the columns in the table that it is derived from otherwise the data will not transfer properly and `Properties` with incorrect name and/or datatype will remain null.<br>
-![Pasted image 20240322064108.png](Pasted%20image%2020240322064108.png)<br>
+![Pasted image 20240322064108.png](../../Media/Pasted%20image%2020240322064108.png)<br>
 ```C#
 namespace DataManagement
 {
@@ -96,7 +97,7 @@ namespace DataManagement
 
 ## Install Dapper
 Install Dapper package to the library.<br>
-![Pasted image 20240322063335.png](Pasted%20image%2020240322063335.png)
+![Pasted image 20240322063335.png](../../Media/Pasted%20image%2020240322063335.png)
 
 ## Create Data Adapter Class for handling SQL Queries
 In this class, you can add more methods to send specific queries to the SQL server
@@ -152,7 +153,7 @@ public YourMainWindow()
 }
 ```
 2. Set a debug break point on the closing bracket of the method that populates the new list.<br>
-![Pasted image 20240322070511.png](Pasted%20image%2020240322070511.png)<br>
+![Pasted image 20240322070511.png](../../Media/Pasted%20image%2020240322070511.png)<br>
 3. Start debugging. The program will stop at the break point.
-4. If you do not have a Locals window in your Visual Studio, open it: <br> ![Pasted image 20240322071101.png](Pasted%20image%2020240322071101.png)
-5. Find your new list of teams in the Locals window and expand it to look at the individual variables. The data stored in the list should match the data in your database table.<br>![Pasted image 20240322071410.png](Pasted%20image%2020240322071410.png)<br>![Pasted image 20240322071432.png](Pasted%20image%2020240322071432.png)
+4. If you do not have a Locals window in your Visual Studio, open it: <br> ![Pasted image 20240322071101.png](../../Media/Pasted%20image%2020240322071101.png)
+5. Find your new list of teams in the Locals window and expand it to look at the individual variables. The data stored in the list should match the data in your database table.<br>![Pasted image 20240322071410.png](../../Media/Pasted%20image%2020240322071410.png)<br>![Pasted image 20240322071432.png](../../Media/Pasted%20image%2020240322071432.png)
