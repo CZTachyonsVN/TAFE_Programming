@@ -15,14 +15,14 @@
        connectionString="Data Source=SQLServerName; Integrated Security=True; TrustServerCertificate=True; Initial Catalog=NameOfDatabase" />
 </connectionStrings>
 ```
-- `name="NameOfDatabase"` is the name of the database you want to access.
+- `name="NameOfDatabase"` is the alias for the connection string. This identifies which database the code should be accessing.
 	- Replace `NameOfDatabase` this with the name of your database.
 - `providerName="System.Data.SQLClient"` is the name of the package that creates an SQL client for the app. It has not been installed yet.
 - `connectionString` contains a set of arguments for the SQL client itself.
 	-  `Data Source` put the name of the server you want to access here
 	- `Integrated Security=True` allows WPF to access the database without needing username and password. It will use windows authentication instead. Only if the SQL server is also hosted on the same machine as the application.
 	- `TrustServerCertificate=True` By default WPF will not access an untrusted SQL server. The server needs a certificate WPF trusts. `True` argument will override that behaviour.
-	- `Initial Catalog` is the name of the database you want to access
+	- `Initial Catalog` is the name of the database you want to access.
 
     ![Pasted image 20240322031542.png](../../Media/Pasted%20image%2020240322031542.png)
 ## Open NuGet Package Manager
@@ -74,6 +74,7 @@ namespace DataManagement
         public static SqlConnection SqlConnection()
         {
             return new SqlConnection(GetConnectionString("myNewdb"));
+            // Replace "myNewdb" with your desired connection string name that is defined in the application configuration file.
         }
     }
 }
