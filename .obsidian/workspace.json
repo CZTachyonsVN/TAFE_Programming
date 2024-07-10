@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Semester2/_WebDataCluster/_RESTAPI/Notes/Week1.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_Semester2/_WebDataCluster/_RESTAPI/Notes/Week1.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_Semester2/_WebDataCluster/_RESTAPI/Notes/Week1.md"
+                "file": "README.md"
               }
             }
           },
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_Semester2/_WebDataCluster/_RESTAPI/Notes/Week1.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_Semester2/_WebDataCluster/_RESTAPI/Notes/Week1.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,10 +199,12 @@
   },
   "active": "1cc1c2faa39281a5",
   "lastOpenFiles": [
-    "02_Semester2/_WebDataCluster/_NoSQL/Notes/MonogoDB.md",
-    "02_Semester2/_WebDataCluster/_RESTAPI/Notes/Week1.md",
-    "02_Semester2/_WebDataCluster/_NoSQL/Notes/MongoSH.md",
+    "CourseInfo.md",
+    "README.md",
     "02_Semester2/_WebDataCluster/TeachingContent/SQLvsNoSQL_Exercise.pdf",
+    "02_Semester2/_WebDataCluster/_RESTAPI/Notes/Week1.md",
+    "02_Semester2/_WebDataCluster/_NoSQL/Notes/MonogoDB.md",
+    "02_Semester2/_WebDataCluster/_NoSQL/Notes/MongoSH.md",
     "02_Semester2/_WebDataCluster/_NoSQL/Notes/SQLvsNoSQL.md",
     "02_Semester2/_WebDataCluster/TeachingContent/NoSQLDataStoresHandout.pdf",
     "02_Semester2/Kanban.md",
@@ -243,9 +245,6 @@
     "01_Semester1/_OOP/Snippets/Discard.md",
     "01_Semester1/_OOP/Notes/Week2.md",
     "01_Semester1/_OOP/Notes/Week8_SQL.md",
-    "01_Semester1/SQL/Intro.md",
-    "01_Semester1/_OOP/Snippets/Check Input Type.md",
-    "01_Semester1/_SA5/Notes/Week1.md",
     "01_Semester1/_SA5/Notes/DatabaseExample.canvas",
     "Semester1/_SA5/MMMR_ERD.canvas",
     "Semester2/AdvancedProgrammingl_Sem2/Semester1/_SA5/MMMR_ERD.canvas",
