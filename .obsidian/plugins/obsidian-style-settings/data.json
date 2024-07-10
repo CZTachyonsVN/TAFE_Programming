@@ -1,0 +1,13 @@
+{
+  "catppuccin-theme-settings@@catppuccin-theme-dark": "ctp-mocha",
+  "catppuccin-theme-settings@@catppuccin-theme-accents": "ctp-accent-blue",
+  "mado-miniflow@@theme-color": "theme-deep-blue",
+  "mado-miniflow@@h1-color@@dark": "#EE9B9B",
+  "mado-miniflow@@h2-color@@dark": "#8FFF90",
+  "mado-miniflow@@h3-color@@dark": "#76BCFF",
+  "mado-miniflow@@h4-color@@dark": "#C8C8C8",
+  "mado-miniflow@@text-muted@@dark": "#B5B5B5",
+  "mado-miniflow@@text-faint@@dark": "#656565",
+  "mado-miniflow@@toggle-sidebar-fixed-left": true,
+  "mado-miniflow@@toggle-sidebar-fixed-right": true
+}

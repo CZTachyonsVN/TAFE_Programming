@@ -1,0 +1,120 @@
+---
+noteID: b6109469-a5cc-47ae-a21c-9ae911297252
+---
+# Manny’s Mobile Monitoring Robots
+- They work with robot vendors to sell monitoring robots to various companies.
+	- The robots are owned by the companies and serviced by the vendors
+	- Robots frequently move around various environments and record various data
+		- Carbon Monoxide, Nitrogen Dioxide, Sulphur Dioxide
+		- Physical obstructions
+		- Possible other types of detection in the future
+		- Date and time of each record
+	- Robots can be kitted with different sensors and locomotion depending on the - They work with robot vendors to sell monitoring robots to various companies.
+	- The robots are owned by the companies and serviced by the vendors
+	- Robots frequently move around various environments and record various data
+		- Carbon Monoxide, Nitrogen Dioxide, Sulphur Dioxide
+		- Physical obstructions
+		- Possible other types of detection in the future
+		- Date and time of each record
+	- Robots can be kitted with different sensors and locomotion depending on the company's needs and the environment the robot will be operating in.
+	- Data from the robots are streamed to respective servers of a respective company
+- They provide health and safety monitoring service
+	- Monitoring of real time data coming from the robots
+	- In an occurrence of dangerous concentration of certain chemicals, monitoring employees will notify designated personnel from the affected site of the event and also main points of contact of the company. If they are inaccessible, work up the chain of command.
+- They act as a backup database and adverse event detection for their clientscompany's needs and the environment the robot will be operating in.
+	- Data from the robots are streamed to respective servers of a respective company
+- They provide health and safety monitoring service
+	- Monitoring of real time data coming from the robots
+	- In an occurrence of dangerous concentration of certain chemicals, monitoring employees will notify designated personnel from the affected site of the event and also main points of contact of the company. If they are inaccessible, work up the chain of command.
+- They act as a backup database and adverse event detection for their clients
+## Requirements:
+- Cloud-based database solution that receives real-time data from their client's servers
+	- As close to 100% up-time as possible
+	- Handle large amount of data writes per second (32k)
+	- No manipulation of the data
+	- Complex Queries (?)
+		- Effects the software and UI
+	- Importance on scalability of storage the database itself for other possible data
+	- Read and write need to be as fast as possible
+- The database contains information about:
+	- Their client
+		- Site locations
+		- Specific areas within each site
+		- Multiple contact numbers (in case of emergency)
+		- (Main HQ) address
+	- The deployed robots
+		- Vendors **(?)**
+	- Recorded data from the robots
+		- Date and time
+		- Area of the site
+		- Site location
+	- Various types of risk elements
+- We mediate between Manny and cloud solution providers
+- Another cloud solution for backup of the entire database
+- Hardware solution to monitor real-time data in the company's office
+	- Three computers to monitor the database
+	- One large screen that displays most crucial data
+	- Sound alert for urgent notification of an adverse event
+	- Windows machines with functionality limited to database monitoring
+	- 24/7 runtime
+	- Network is separated from the rest of the company
+	- Optic fibre to the ISP
+	- We are responsible for
+		- Upkeep, updates, and scaling of the database
+		- Work with the IT department on any troubleshooting of related hardware (monitoring room)
+	- We assist the IT department with database and monitor room cybersecurity.
+	- Records of database activities for suspicious activity/thread detection
+- Dedicated front-end
+	- For monitoring purposes on the 3 computers and large screen
+	- Single login
+	- No encryption on data
+	- Function to generate reports periodically or on demand
+		- Need manager authorisation
+		- PDF format
+		- Send to email
+	- Effective but not overly disruptive alert system for adverse events
+		- Various levels based on the severity of danger
+		- Possible warning for irregular trends (?) e.g. rapid rising of SO2 concentrations.
+	- Avoid showing unimportant, hard to read, dull information
+	- Graphs, and other convenient/useful visualisation of data
+	- Standardise data types and legibility of data across all clients
+	- API for the clients to upload their collected data to the database
+- Migrate all existing clients to the new database when production ready
+- Training of Manny's employees that will be hired specifically for this operation
+	- Documentation
+	- Training videos
+	- Built-in software tooltips
+- Using tech stack that is commonly used in the local industry
+- Database and software will be under trade secret license.
+- Business relationship is commercial in confidence
+	- Option to delete data if client's stop using Manny's service
+	- Or retain data but keep archived lock access to unauthorised actors
+## Adverse events
+- Levels of dangerous gas and particulates
+- Occurrence of unexpected obstructions
+- Irregularity with the robots operation (e.g. unscheduled suspension, robot damage)
+## Irrelevants or Nots
+- Physical server
+- Active day-to-day maintenance
+	- Manny has in-house IT/Network department
+- Robots 
+	- Managed by the customers and vendors
+- Any other IT solutions and software in the company
+	- The database and monitoring system will on a separate network and does not interact with other operations
+- Other software that interacts with the data
+	- Every customer will have their solutions for what they need. Manny only needs to monitor the data, nothing else.
+## Optional
+- Monitoring
+	- More PCs
+	- Remote connection
+	- Handheld devices
+	- Accessibility (e.g. colour blindness)
+## Our decision/advice
+- What tech stack to use for software and database solutions
+	- Needs to be relevant/standard to the local industry (Brisbane)
+- Cloud database implementation
+- Front-end platform and its UI
+## Internal tools
+- We can arrange to come to Manny's office/monitoring room to discuss further information about development and do testing
+- Manny/Mark can give us a collection data that we can use to develop and test our solution
+- Manny/Mark can give us contact with their client's so we can discuss their integration into the new database solution and learn more about their own database solution.
