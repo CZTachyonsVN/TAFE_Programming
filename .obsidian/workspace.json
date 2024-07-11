@@ -4,52 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c42110e280b8f64b",
+        "id": "4b59bda5b7f24fc4",
         "type": "tabs",
-        "dimension": 45.362473347547976,
         "children": [
           {
-            "id": "1cc1c2faa39281a5",
+            "id": "88a3aae7991dd429",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Semester2/_WebDataCluster/_RESTAPI/Notes/NuGetPackagesForRESTAPI.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "f6d60e86a652b7c1",
-        "type": "tabs",
-        "dimension": 54.63752665245203,
-        "children": [
-          {
-            "id": "e72de7197ba176f0",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "02_Semester2/Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "list",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -112,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_Semester2/Kanban.md",
+                "file": "02_Semester2/_WebDataCluster/_RESTAPI/Notes/NuGetPackagesForRESTAPI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_Semester2/Kanban.md"
+                "file": "02_Semester2/_WebDataCluster/_RESTAPI/Notes/NuGetPackagesForRESTAPI.md"
               }
             }
           },
@@ -182,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_Semester2/Kanban.md",
+                "file": "02_Semester2/_WebDataCluster/_RESTAPI/Notes/NuGetPackagesForRESTAPI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_Semester2/Kanban.md",
+                "file": "02_Semester2/_WebDataCluster/_RESTAPI/Notes/NuGetPackagesForRESTAPI.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,8 +192,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "e72de7197ba176f0",
+  "active": "b3b522bee5bcd5b3",
   "lastOpenFiles": [
+    "02_Semester2/_WebDataCluster/_NoSQL/Notes/MongoSH.md",
+    "02_Semester2/Kanban.md",
     "CourseInfo.md",
     "02_Semester2/_WebDataCluster/TeachingContent/DependencyInjection.pdf",
     "02_Semester2/_WebDataCluster/AT2/Assessment Task 2 - Portfolio of Evidence/~$townIT__REST_API_NoSQL_Template_V1.docx",
@@ -248,7 +213,6 @@
     "02_Semester2/_WebDataCluster/Notes/JSON.md",
     "02_Semester2/_WebDataCluster/_NoSQL/Notes/SQLvsNoSQL.md",
     "02_Semester2/_WebDataCluster/_NoSQL/Notes/MonogoDB.md",
-    "02_Semester2/_WebDataCluster/_NoSQL/Notes/MongoSH.md",
     "01_Semester1/_Java/Notes/Week4 - GUI.md",
     "01_Semester1/_Java/Notes/Week8.md",
     "01_Semester1/_Java/Notes/Week5.md",
@@ -257,7 +221,6 @@
     "01_Semester1/_Java/Notes/Week1.md",
     "01_Semester1/_Java/Notes/Multidimensional_Arrays.md",
     "README.md",
-    "02_Semester2/Kanban.md",
     "02_Semester2/_NoSQL/Untitled.md",
     "04_Media/FlowchartArithmetic.png",
     "04_Media/storeToListSketch.png",
