@@ -1,5 +1,5 @@
 Mark O’Reilly
-- mark.o’reilly@tafeqld.edu.au
+- mark.o'reilly@tafeqld.edu.au
 - moreilly@powerup.com.au (alternate)
 Troy Vaughn
 - troy.VAUGHN@tafeqld.edu.au
