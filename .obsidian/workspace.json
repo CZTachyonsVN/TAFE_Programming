@@ -4,19 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1e106e626885fdff",
+        "id": "3ea5d12e493dd4bd",
         "type": "tabs",
         "children": [
           {
-            "id": "467f1c7e9c28ecec",
+            "id": "d2c0366ff6e4dd9f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "TableOfConents.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
+                "file": "03_Misc/AssessmentDates_Sem2_2024.pdf"
               }
             }
           }
@@ -80,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TableOfConents.md",
+                "file": "03_Misc/AssessmentDates_Sem2_2024.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 374
+    "width": 303
   },
   "right": {
     "id": "f8cb35b841268550",
@@ -111,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TableOfConents.md"
+                "file": "03_Misc/AssessmentDates_Sem2_2024.pdf"
               }
             }
           },
@@ -144,7 +141,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "TableOfConents.md"
+                "file": "03_Misc/AssessmentDates_Sem2_2024.pdf"
               }
             }
           }
@@ -161,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TableOfConents.md",
+                "file": "03_Misc/AssessmentDates_Sem2_2024.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TableOfConents.md",
+                "file": "03_Misc/AssessmentDates_Sem2_2024.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +191,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,44 +205,43 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "467f1c7e9c28ecec",
+  "active": "b3b522bee5bcd5b3",
   "lastOpenFiles": [
-    "05_Templates/Note.md",
-    "02_Semester2/_IntegrateDatabases/Notes/MVCOverview.md",
     "TableOfConents.md",
+    "02_Semester2/01_IntegrateDatabases/AT2/_AssessmentOverview.md",
+    "02_Semester2/04_Cyber",
+    "02_Semester2/03_IPEthicsPrivacy",
+    "02_Semester2/02_LeadTeam",
+    "02_Semester2/02_WebInterface",
+    "02_Semester2/02_ImplementSecurity",
+    "03_Misc/AssessmentDates_Sem2_2024.pdf",
+    "02_Semester2/01_Java/AT2/_AssessmentOverview.md",
+    "02_Semester2/01_ManageClientProblems/AT2_2/_AssessmentOverview.md",
+    "02_Semester2/01_ManageClientProblems/AT2_1/_AssessmentOverview.md",
+    "02_Semester2/01_ManageClientProblems/AT1/_AssessmentOverview.md",
+    "CourseInfo.md",
+    "02_Semester2/01_ManageClientProblems/AT2_2",
+    "02_Semester2/01_ManageClientProblems/AT2_1",
+    "03_Misc/mso66F8.tmp",
+    "03_Misc/mso65ED.tmp",
+    "05_Templates/Note.md",
+    "02_Semester2/01_IntegrateDatabases/Notes/MVCOverview.md",
     "05_Templates/Guide.md",
     "05_Templates/_AssessmentOverview.md",
-    "02_Semester2/_IntegrateDatabases/AT2/_AssessmentOverview.md",
-    "02_Semester2/_WebDataCluster/AT2/_AssessmentOverview.md",
-    "02_Semester2/_ManageClientProblems/AT1/_AssessmentOverview.md",
-    "02_Semester2/_Java/AT2/_AssessmentOverview.md",
-    "05_Templates",
-    "CourseInfo.md",
-    "02_Semester2/_WebDataCluster/Notes/JSON.md",
-    "02_Semester2/_WebDataCluster/_RESTAPI/Notes/NuGetPackagesForRESTAPI.md",
-    "02_Semester2/_WebDataCluster/_RESTAPI/Notes/IntroToRestApi.md",
-    "02_Semester2/_WebDataCluster/_NoSQL/Notes/SQLvsNoSQL.md",
-    "02_Semester2/_WebDataCluster/_NoSQL/Notes/MonogoDB.md",
-    "02_Semester2/_WebDataCluster/_NoSQL/Notes/MongoSH.md",
+    "02_Semester2/01_WebDataCluster/AT2/_AssessmentOverview.md",
+    "02_Semester2/01_WebDataCluster/Notes/JSON.md",
+    "02_Semester2/01_WebDataCluster/_RESTAPI/Notes/NuGetPackagesForRESTAPI.md",
+    "02_Semester2/01_WebDataCluster/_RESTAPI/Notes/IntroToRestApi.md",
+    "02_Semester2/01_WebDataCluster/_NoSQL/Notes/SQLvsNoSQL.md",
+    "02_Semester2/01_WebDataCluster/_NoSQL/Notes/MonogoDB.md",
+    "02_Semester2/01_WebDataCluster/_NoSQL/Notes/MongoSH.md",
     "02_Semester2/_Java/Notes/AssessmentOverview.md",
-    "02_Semester2/_Java/AT2/UptownIT_Test_Cases_Report_Template.xlsx",
-    "02_Semester2/_Java/AT2/UptownIT_Java_Coding_Standards.docx",
-    "02_Semester2/_Java/AT2/UptownIT_External_Documention_Template.docx",
-    "02_Semester2/_Java/AT2/ICTPRG547_AT2_PE_TQM_V1.docx",
-    "02_Semester2/_Java/AT2/ICTPRG547_AT2_PE_MC_TQM_V1.docx",
-    "02_Semester2/_Java/AT2/ICTPRG547_AT1_KQ_SampleQuiz.docx",
-    "02_Semester2/_Java/AT2/ICTPRG547_ActivityAndSelectedWebLinks.pdf",
-    "02_Semester2/_Java/AT2/ICTPRG547_ActivityAndSelectedWebLinks.doc",
-    "02_Semester2/_Java/AT2/CD_ArchivePrototype_SampleData.txt",
     "02_Semester2/Kanban.md",
     "03_Misc/ContactDetails.md",
     "01_Semester1/_Java/Notes/ExercisesPseudocode.md",
     "01_Semester1/_Java/Notes/JavaGUI_Intro.md",
     "02_Semester2/_WebDataCluster/AT2.md",
     "01_Semester1/_Java/Notes/Week8.md",
-    "01_Semester1/_Java/Notes/Week5.md",
-    "01_Semester1/_Java/Notes/Week3.md",
-    "01_Semester1/_Java/Notes/Week1.md",
     "04_Media/FlowchartArithmetic.png",
     "04_Media/storeToListSketch.png",
     "04_Media/FlowchartsHamCheeseSndwch.png",
