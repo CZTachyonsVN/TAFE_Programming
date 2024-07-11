@@ -11,9 +11,31 @@
             "id": "d2c0366ff6e4dd9f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "03_Misc/AssessmentDates_Sem2_2024.pdf"
+                "file": "TableOfConents.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "03038d469b53c62f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a653f11d5116ba0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Semester2/01_ManageClientProblems/AT3/_AssessmentOverview.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -77,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_Misc/AssessmentDates_Sem2_2024.pdf",
+                "file": "02_Semester2/01_ManageClientProblems/AT3/_AssessmentOverview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_Misc/AssessmentDates_Sem2_2024.pdf"
+                "file": "02_Semester2/01_ManageClientProblems/AT3/_AssessmentOverview.md"
               }
             }
           },
@@ -141,7 +163,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03_Misc/AssessmentDates_Sem2_2024.pdf"
+                "file": "02_Semester2/01_ManageClientProblems/AT3/_AssessmentOverview.md"
               }
             }
           }
@@ -158,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03_Misc/AssessmentDates_Sem2_2024.pdf",
+                "file": "02_Semester2/01_ManageClientProblems/AT3/_AssessmentOverview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_Misc/AssessmentDates_Sem2_2024.pdf",
+                "file": "02_Semester2/01_ManageClientProblems/AT3/_AssessmentOverview.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,30 +227,32 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "b3b522bee5bcd5b3",
+  "active": "1a653f11d5116ba0",
   "lastOpenFiles": [
+    "02_Semester2/01_ManageClientProblems/AT2_1/~WRL0002.tmp",
+    "02_Semester2/01_ManageClientProblems/AT2_1/~WRD0001.tmp",
+    "02_Semester2/01_ManageClientProblems/AT2_1/~WRD0000.tmp",
+    "02_Semester2/01_ManageClientProblems/AT2_1/ICTSAS527_AT2_MC_TQM_v1.pdf",
+    "02_Semester2/01_ManageClientProblems/AT2_1/msoAD14.tmp",
+    "02_Semester2/01_ManageClientProblems/AT2_1/msoAB1F.tmp",
+    "02_Semester2/01_ManageClientProblems/AT2_1/~$TSAS527_AT2_MC_TQM_v1.docx",
+    "02_Semester2/01_ManageClientProblems/AT2_1/ICTSAS527_AT2a_Part3_Feedback/4_UpTown_IT_Staff_Feedback_Scripts.rtf",
+    "02_Semester2/01_ManageClientProblems/AT2_1/ICTSAS527_AT2a_Part3_Feedback/3_UpTown_IT_Staff_Feedback_Eddie_Smith.mp3",
+    "02_Semester2/01_ManageClientProblems/AT2_1/ICTSAS527_AT2a_Part3_Feedback/2_UpTown_IT_Staff_Feedback_John_Smith.mp3",
+    "02_Semester2/01_ManageClientProblems/AT2_1/ICTSAS527_AT2a_Part3_Feedback/1_TQMasters_Client_Staff_Feedback.pdf",
+    "02_Semester2/01_ManageClientProblems/AT3/_AssessmentOverview.md",
     "TableOfConents.md",
-    "02_Semester2/01_IntegrateDatabases/AT2/_AssessmentOverview.md",
-    "02_Semester2/04_Cyber",
-    "02_Semester2/03_IPEthicsPrivacy",
-    "02_Semester2/02_LeadTeam",
-    "02_Semester2/02_WebInterface",
-    "02_Semester2/02_ImplementSecurity",
-    "03_Misc/AssessmentDates_Sem2_2024.pdf",
-    "02_Semester2/01_Java/AT2/_AssessmentOverview.md",
     "02_Semester2/01_ManageClientProblems/AT2_2/_AssessmentOverview.md",
     "02_Semester2/01_ManageClientProblems/AT2_1/_AssessmentOverview.md",
     "02_Semester2/01_ManageClientProblems/AT1/_AssessmentOverview.md",
+    "02_Semester2/01_WebDataCluster/AT2/_AssessmentOverview.md",
+    "02_Semester2/01_IntegrateDatabases/AT2/_AssessmentOverview.md",
+    "02_Semester2/01_Java/AT2/_AssessmentOverview.md",
     "CourseInfo.md",
-    "02_Semester2/01_ManageClientProblems/AT2_2",
-    "02_Semester2/01_ManageClientProblems/AT2_1",
-    "03_Misc/mso66F8.tmp",
-    "03_Misc/mso65ED.tmp",
     "05_Templates/Note.md",
     "02_Semester2/01_IntegrateDatabases/Notes/MVCOverview.md",
     "05_Templates/Guide.md",
     "05_Templates/_AssessmentOverview.md",
-    "02_Semester2/01_WebDataCluster/AT2/_AssessmentOverview.md",
     "02_Semester2/01_WebDataCluster/Notes/JSON.md",
     "02_Semester2/01_WebDataCluster/_RESTAPI/Notes/NuGetPackagesForRESTAPI.md",
     "02_Semester2/01_WebDataCluster/_RESTAPI/Notes/IntroToRestApi.md",
@@ -241,7 +265,6 @@
     "01_Semester1/_Java/Notes/ExercisesPseudocode.md",
     "01_Semester1/_Java/Notes/JavaGUI_Intro.md",
     "02_Semester2/_WebDataCluster/AT2.md",
-    "01_Semester1/_Java/Notes/Week8.md",
     "04_Media/FlowchartArithmetic.png",
     "04_Media/storeToListSketch.png",
     "04_Media/FlowchartsHamCheeseSndwch.png",
