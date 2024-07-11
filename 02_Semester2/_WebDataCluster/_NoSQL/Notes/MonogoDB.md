@@ -3,8 +3,8 @@ tags:
   - notes
 cluster: WebData
 unit: NoSQL
-semester: "2"
-week: "1"
+semester: 2
+week: 1
 ---
 [MonogDB Documentation](https://www.mongodb.com/docs/manual/)
 [BSON Types](https://www.mongodb.com/docs/manual/reference/operator/query/type/#available-types)

@@ -8,26 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "240762ae49454820",
+            "id": "467f1c7e9c28ecec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Misc/ContactDetails.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7a66d1ac56d349ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Semester2/_Java/Notes/AssessmentOverview.md",
-                "mode": "source",
+                "file": "TableOfConents.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -93,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_Misc/ContactDetails.md",
+                "file": "TableOfConents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_Misc/ContactDetails.md"
+                "file": "TableOfConents.md"
               }
             }
           },
@@ -150,8 +137,19 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "c054be706c4adea3",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "TableOfConents.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "a11e90b20fce7fe8",
@@ -163,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03_Misc/ContactDetails.md",
+                "file": "TableOfConents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_Misc/ContactDetails.md",
+                "file": "TableOfConents.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,8 +194,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,41 +207,44 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "b3b522bee5bcd5b3",
+  "active": "467f1c7e9c28ecec",
   "lastOpenFiles": [
-    "NotesAggregate.md",
-    "03_Misc/ContactDetails.md",
-    "03_Misc/AssessmentDates_Sem2_2024.pdf",
-    "03_Misc/mso78C0.tmp",
-    "03_Misc/mso76AC.tmp",
-    "02_Semester2/_Java/AT2/AssessmentOverview.md",
-    "02_Semester2/_Java/Notes/AssessmentOverview.md",
+    "05_Templates/Note.md",
+    "02_Semester2/_IntegrateDatabases/Notes/MVCOverview.md",
+    "TableOfConents.md",
+    "05_Templates/Guide.md",
+    "05_Templates/_AssessmentOverview.md",
+    "02_Semester2/_IntegrateDatabases/AT2/_AssessmentOverview.md",
+    "02_Semester2/_WebDataCluster/AT2/_AssessmentOverview.md",
+    "02_Semester2/_ManageClientProblems/AT1/_AssessmentOverview.md",
+    "02_Semester2/_Java/AT2/_AssessmentOverview.md",
+    "05_Templates",
+    "CourseInfo.md",
+    "02_Semester2/_WebDataCluster/Notes/JSON.md",
+    "02_Semester2/_WebDataCluster/_RESTAPI/Notes/NuGetPackagesForRESTAPI.md",
+    "02_Semester2/_WebDataCluster/_RESTAPI/Notes/IntroToRestApi.md",
     "02_Semester2/_WebDataCluster/_NoSQL/Notes/SQLvsNoSQL.md",
     "02_Semester2/_WebDataCluster/_NoSQL/Notes/MonogoDB.md",
     "02_Semester2/_WebDataCluster/_NoSQL/Notes/MongoSH.md",
-    "02_Semester2/_WebDataCluster/_RESTAPI/Notes/NuGetPackagesForRESTAPI.md",
-    "02_Semester2/_WebDataCluster/_RESTAPI/Notes/IntroToRestApi.md",
-    "02_Semester2/_WebDataCluster/Notes/JSON.md",
-    "02_Semester2/_IntegrateDatabases/Notes/MVCOverview.md",
+    "02_Semester2/_Java/Notes/AssessmentOverview.md",
+    "02_Semester2/_Java/AT2/UptownIT_Test_Cases_Report_Template.xlsx",
+    "02_Semester2/_Java/AT2/UptownIT_Java_Coding_Standards.docx",
+    "02_Semester2/_Java/AT2/UptownIT_External_Documention_Template.docx",
+    "02_Semester2/_Java/AT2/ICTPRG547_AT2_PE_TQM_V1.docx",
+    "02_Semester2/_Java/AT2/ICTPRG547_AT2_PE_MC_TQM_V1.docx",
+    "02_Semester2/_Java/AT2/ICTPRG547_AT1_KQ_SampleQuiz.docx",
+    "02_Semester2/_Java/AT2/ICTPRG547_ActivityAndSelectedWebLinks.pdf",
+    "02_Semester2/_Java/AT2/ICTPRG547_ActivityAndSelectedWebLinks.doc",
+    "02_Semester2/_Java/AT2/CD_ArchivePrototype_SampleData.txt",
+    "02_Semester2/Kanban.md",
+    "03_Misc/ContactDetails.md",
     "01_Semester1/_Java/Notes/ExercisesPseudocode.md",
     "01_Semester1/_Java/Notes/JavaGUI_Intro.md",
-    "02_Semester2/Kanban.md",
-    "CourseInfo.md",
-    "02_Semester2/_WebDataCluster/TeachingContent/DependencyInjection.pdf",
-    "02_Semester2/_WebDataCluster/AT2/Assessment Task 2 - Portfolio of Evidence/~$townIT__REST_API_NoSQL_Template_V1.docx",
-    "02_Semester2/_WebDataCluster/AT2/Assessment Task 2 - Portfolio of Evidence/~$TPRG553_554_AT2_PE_TQM_v3.docx",
-    "02_Semester2/_WebDataCluster/AT2/Assessment Task 2 - Portfolio of Evidence/ICTPRG553_554_WeatherData_Readings_2022/SensorData_Final_NoWind.json",
-    "02_Semester2/_WebDataCluster/AT2/Assessment Task 2 - Portfolio of Evidence/ICTPRG553_554_WeatherData_Readings_2022",
-    "02_Semester2/_WebDataCluster/AT2/Assessment Task 2 - Portfolio of Evidence/UptownIT__REST_API_NoSQL_Template_V1.docx",
-    "02_Semester2/_WebDataCluster/AT2/Assessment Task 2 - Portfolio of Evidence/ICTPRG553_554_WeatherData_Readings_2022.zip",
     "02_Semester2/_WebDataCluster/AT2.md",
     "01_Semester1/_Java/Notes/Week8.md",
     "01_Semester1/_Java/Notes/Week5.md",
     "01_Semester1/_Java/Notes/Week3.md",
     "01_Semester1/_Java/Notes/Week1.md",
-    "01_Semester1/_Java/Notes/Multidimensional_Arrays.md",
-    "README.md",
-    "02_Semester2/_NoSQL/Untitled.md",
     "04_Media/FlowchartArithmetic.png",
     "04_Media/storeToListSketch.png",
     "04_Media/FlowchartsHamCheeseSndwch.png",
@@ -255,9 +255,6 @@
     "04_Media/Pasted image 20240125100157.png",
     "04_Media/Pasted image 20240322063335.png",
     "04_Media/Pasted image 20240322032649.png",
-    "01_Semester1/_OOP/Notes/Dapper in WPF Guide.md",
-    "01_Semester1/_Java/Assessment Task 2 notes.md",
-    "01_Semester1/_OOP/Notes/Week1.md",
     "01_Semester1/_SA5/MMMR_ERD.canvas",
     "01_Semester1/_SA5/Notes/DatabaseExample.canvas",
     "Semester1/_SA5/MMMR_ERD.canvas",

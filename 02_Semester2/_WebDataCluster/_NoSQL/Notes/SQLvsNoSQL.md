@@ -3,8 +3,8 @@ tags:
   - notes
 cluster: WebData
 unit: NoSQL
-semester: "2"
-week: "1"
+semester: 2
+week: 1
 ---
 # Comparison between Relational and Non-Relational Databases
 ![Source](../../TeachingContent/RelationalVsNonRelationalDatabase.pdf)

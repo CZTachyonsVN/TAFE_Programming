@@ -3,8 +3,8 @@ tags:
   - notes
 cluster: WebData
 unit: NoSQL
-semester: "2"
-week: "1"
+semester: 2
+week: 1
 ---
 [Documentation](https://www.mongodb.com/docs/manual/reference/method/)
 ## Helper

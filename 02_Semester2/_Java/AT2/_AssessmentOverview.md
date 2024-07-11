@@ -1,11 +1,11 @@
 ---
 tags:
-  - notes
+  - assessment
 unit: Java
-semester: "2"
-week: "1"
+semester: 2
+task: 2
+duedate: 
 ---
-## Java 2 Assessment
 - UI Frameworks
 - JTable
 - SQL Lite

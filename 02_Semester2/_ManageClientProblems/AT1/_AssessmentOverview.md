@@ -1,8 +1,16 @@
+---
+tags:
+  - assessment
+unit: ManageClientProblems
+semester: 2
+task: 1
+duedate: 
+---
 # Assessment Files
 - [Client Introduction](1_BobBrownsBusiness.mp3)
 - [Client Issue](2_TQMastersProblems.mp3)
-- [Assessment Marking Criteria](ICTSAS527_AT1_MC_TQM_v1.docx)
-- [Assessment Portfolio of Evidence](ICTSAS527_AT1_PE_TQM_v1.docx)
+- [Assessment Marking Criteria](ICTSAS527_AT1_MC_TQM_v1.pdf)
+- [Assessment Portfolio of Evidence](ICTSAS527_AT1_PE_TQM_v1.pdf)
 # Submission Files
 - ICTSAS527_AT1_Part1_HaiHorky.docx
 	- Client Requirements
