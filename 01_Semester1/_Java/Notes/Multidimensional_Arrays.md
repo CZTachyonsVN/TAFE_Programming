@@ -1,4 +1,4 @@
-#arrays
+#arrays #notes
 # Jagged arrays
 Arrays with inconsistent size of each element. <br>
 ```java

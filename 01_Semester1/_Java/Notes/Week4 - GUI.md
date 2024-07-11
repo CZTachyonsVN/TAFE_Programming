@@ -1,3 +1,4 @@
+#notes 
 - import JFrame
 - Constructor
 ## Spring layout

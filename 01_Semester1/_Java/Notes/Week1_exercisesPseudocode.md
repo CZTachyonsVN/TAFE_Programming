@@ -1,4 +1,4 @@
-#java #linkedlist
+#notes #java #linkedlist
 # Sketches
 ![Check for adjacent operators](../../../04_Media/operatorCheckSketch.png)
 ![Store input into a linked list](../../../04_Media/storeToListSketch.png)

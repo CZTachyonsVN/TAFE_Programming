@@ -11,7 +11,7 @@ kanban-plugin: list
 - [ ] Java2 Learn JTable
 - [ ] Java2 SQL Lite
 - [ ] Java2 Create UI
-- [ ] Setup new GitHub repo for notes
+- [ ] Web AT2 Tech Report Part1
 
 
 ## DOING
@@ -20,6 +20,7 @@ kanban-plugin: list
 
 ## FINISHED
 
+- [ ] Setup new GitHub repo for notes
 - [ ] Setup Java2 folder in Obsidian
 
 

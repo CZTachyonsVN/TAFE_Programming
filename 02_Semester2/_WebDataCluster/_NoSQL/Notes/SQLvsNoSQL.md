@@ -1,3 +1,4 @@
+#notes
 # Comparison between Relational and Non-Relational Databases
 ![Source](../../TeachingContent/RelationalVsNonRelationalDatabase.pdf)
 ## Overview

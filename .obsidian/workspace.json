@@ -6,6 +6,7 @@
       {
         "id": "c42110e280b8f64b",
         "type": "tabs",
+        "dimension": 45.362473347547976,
         "children": [
           {
             "id": "1cc1c2faa39281a5",
@@ -13,10 +14,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "02_Semester2/_WebDataCluster/_RESTAPI/Notes/NuGetPackagesForRESTAPI.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "f6d60e86a652b7c1",
+        "type": "tabs",
+        "dimension": 54.63752665245203,
+        "children": [
+          {
+            "id": "e72de7197ba176f0",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "02_Semester2/Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "list",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               }
             }
           }
@@ -80,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "02_Semester2/Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "02_Semester2/Kanban.md"
               }
             }
           },
@@ -150,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "02_Semester2/Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "02_Semester2/Kanban.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,25 +229,35 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "1cc1c2faa39281a5",
+  "active": "e72de7197ba176f0",
   "lastOpenFiles": [
     "CourseInfo.md",
-    "README.md",
-    "02_Semester2/_WebDataCluster/TeachingContent/SQLvsNoSQL_Exercise.pdf",
-    "02_Semester2/_WebDataCluster/_RESTAPI/Notes/Week1.md",
+    "02_Semester2/_WebDataCluster/TeachingContent/DependencyInjection.pdf",
+    "02_Semester2/_WebDataCluster/AT2/Assessment Task 2 - Portfolio of Evidence/~$townIT__REST_API_NoSQL_Template_V1.docx",
+    "02_Semester2/_WebDataCluster/AT2/Assessment Task 2 - Portfolio of Evidence/~$TPRG553_554_AT2_PE_TQM_v3.docx",
+    "02_Semester2/_WebDataCluster/AT2/Assessment Task 2 - Portfolio of Evidence/ICTPRG553_554_WeatherData_Readings_2022/SensorData_Final_NoWind.json",
+    "02_Semester2/_WebDataCluster/AT2/Assessment Task 2 - Portfolio of Evidence/ICTPRG553_554_WeatherData_Readings_2022",
+    "02_Semester2/_WebDataCluster/AT2/Assessment Task 2 - Portfolio of Evidence/UptownIT__REST_API_NoSQL_Template_V1.docx",
+    "02_Semester2/_WebDataCluster/AT2/Assessment Task 2 - Portfolio of Evidence/ICTPRG553_554_WeatherData_Readings_2022.zip",
+    "02_Semester2/_WebDataCluster/AT2/Assessment Task 2 - Portfolio of Evidence/ICTPRG553_554_AT2_MC_TQM_v3.docx",
+    "02_Semester2/_WebDataCluster/AT2/Assessment Task 2 - Portfolio of Evidence/ICTPRG553_554_AT2_PE_TQM_v3.docx",
+    "02_Semester2/_WebDataCluster/AT2/Assessment Task 2 - Portfolio of Evidence",
+    "02_Semester2/_WebDataCluster/AT2.md",
+    "02_Semester2/_WebDataCluster/_RESTAPI/Notes/NuGetPackagesForRESTAPI.md",
+    "02_Semester2/_WebDataCluster/_RESTAPI/Notes/IntroToRestApi.md",
+    "02_Semester2/_WebDataCluster/Notes/JSON.md",
+    "02_Semester2/_WebDataCluster/_NoSQL/Notes/SQLvsNoSQL.md",
     "02_Semester2/_WebDataCluster/_NoSQL/Notes/MonogoDB.md",
     "02_Semester2/_WebDataCluster/_NoSQL/Notes/MongoSH.md",
-    "02_Semester2/_WebDataCluster/_NoSQL/Notes/SQLvsNoSQL.md",
-    "02_Semester2/_WebDataCluster/TeachingContent/NoSQLDataStoresHandout.pdf",
+    "01_Semester1/_Java/Notes/Week4 - GUI.md",
+    "01_Semester1/_Java/Notes/Week8.md",
+    "01_Semester1/_Java/Notes/Week5.md",
+    "01_Semester1/_Java/Notes/Week3.md",
+    "01_Semester1/_Java/Notes/Week1_exercisesPseudocode.md",
+    "01_Semester1/_Java/Notes/Week1.md",
+    "01_Semester1/_Java/Notes/Multidimensional_Arrays.md",
+    "README.md",
     "02_Semester2/Kanban.md",
-    "02_Semester2/_WebDataCluster/TeachingContent/mso4BF2.tmp",
-    "02_Semester2/_WebDataCluster/TeachingContent/mso49FD.tmp",
-    "02_Semester2/_WebDataCluster/TeachingContent/~$SQL Data Stores Handout.docx",
-    "02_Semester2/_WebDataCluster/TeachingContent/NoSQL Data Stores Handout.docx",
-    "02_Semester2/_WebDataCluster/TeachingContent/NoSQLDataStore.pdf",
-    "02_Semester2/_WebDataCluster/TeachingContent/RelationalVsNonRelationalDatabase.pdf",
-    "02_Semester2/_WebDataCluster/TeachingContent",
-    "02_Semester2/_WebDataCluster",
     "02_Semester2/_NoSQL/Untitled.md",
     "04_Media/FlowchartArithmetic.png",
     "04_Media/storeToListSketch.png",
@@ -229,22 +271,12 @@
     "04_Media/Pasted image 20240322032649.png",
     "01_Semester1/_OOP/Notes/Dapper in WPF Guide.md",
     "01_Semester1/_Java/Assessment Task 2 notes.md",
-    "01_Semester1/_Java/Notes/Week1.md",
     "01_Semester1/_OOP/Notes/Week1.md",
     "01_Semester1/_SA5/Notes/Week2.md",
-    "01_Semester1/_Java/Notes/Week1_exercisesPseudocode.md",
     "01_Semester1/_OOP/Notes/Week13_Normalisation_SQLJoin_MultiWindowWPF.md",
     "01_Semester1/SQL/JOIN.md",
     "Semester2/_ManageClientProblems/AT1/AssessmentOverview.md",
-    "01_Semester1/_SA5/AssessmentInterviewOutcome.md",
-    "01_Semester1/_OOP/Notes/Week7_DevelopmentLifeCycle.md",
-    "01_Semester1/_SA5/Notes/Learner guide.md",
     "01_Semester1/_SA5/MMMR_ERD.canvas",
-    "01_Semester1/_OOP/Snippets/Switch expressions.md",
-    "01_Semester1/_OOP/Notes/AssessmentTask2.md",
-    "01_Semester1/_OOP/Snippets/Discard.md",
-    "01_Semester1/_OOP/Notes/Week2.md",
-    "01_Semester1/_OOP/Notes/Week8_SQL.md",
     "01_Semester1/_SA5/Notes/DatabaseExample.canvas",
     "Semester1/_SA5/MMMR_ERD.canvas",
     "Semester2/AdvancedProgrammingl_Sem2/Semester1/_SA5/MMMR_ERD.canvas",
