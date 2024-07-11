@@ -13,27 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TableOfConents.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "03038d469b53c62f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1a653f11d5116ba0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Semester2/01_ManageClientProblems/AT3/_AssessmentOverview.md",
-                "mode": "source",
+                "file": "01_Semester1/_OOP/Snippets/Check Input Type.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -51,7 +32,6 @@
       {
         "id": "50ef649fcf5bf553",
         "type": "tabs",
-        "dimension": 75.87209302325581,
         "children": [
           {
             "id": "b3b522bee5bcd5b3",
@@ -69,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#C",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,30 +64,6 @@
             "state": {
               "type": "bookmarks",
               "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "4fa0207deacc34cc",
-        "type": "tabs",
-        "dimension": 24.12790697674419,
-        "children": [
-          {
-            "id": "46b028367763571d",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "02_Semester2/01_ManageClientProblems/AT3/_AssessmentOverview.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
             }
           }
         ]
@@ -130,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_Semester2/01_ManageClientProblems/AT3/_AssessmentOverview.md"
+                "file": "01_Semester1/_OOP/Snippets/Check Input Type.md"
               }
             }
           },
@@ -163,12 +119,11 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02_Semester2/01_ManageClientProblems/AT3/_AssessmentOverview.md"
+                "file": "01_Semester1/_OOP/Snippets/Check Input Type.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "a11e90b20fce7fe8",
@@ -180,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_Semester2/01_ManageClientProblems/AT3/_AssessmentOverview.md",
+                "file": "01_Semester1/_OOP/Snippets/Check Input Type.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,14 +153,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_Semester2/01_ManageClientProblems/AT3/_AssessmentOverview.md",
+                "file": "01_Semester1/_OOP/Snippets/Check Input Type.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -213,8 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,44 +181,44 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "1a653f11d5116ba0",
+  "active": "d2c0366ff6e4dd9f",
   "lastOpenFiles": [
-    "02_Semester2/01_ManageClientProblems/AT2_1/~WRL0002.tmp",
-    "02_Semester2/01_ManageClientProblems/AT2_1/~WRD0001.tmp",
-    "02_Semester2/01_ManageClientProblems/AT2_1/~WRD0000.tmp",
-    "02_Semester2/01_ManageClientProblems/AT2_1/ICTSAS527_AT2_MC_TQM_v1.pdf",
-    "02_Semester2/01_ManageClientProblems/AT2_1/msoAD14.tmp",
-    "02_Semester2/01_ManageClientProblems/AT2_1/msoAB1F.tmp",
-    "02_Semester2/01_ManageClientProblems/AT2_1/~$TSAS527_AT2_MC_TQM_v1.docx",
-    "02_Semester2/01_ManageClientProblems/AT2_1/ICTSAS527_AT2a_Part3_Feedback/4_UpTown_IT_Staff_Feedback_Scripts.rtf",
-    "02_Semester2/01_ManageClientProblems/AT2_1/ICTSAS527_AT2a_Part3_Feedback/3_UpTown_IT_Staff_Feedback_Eddie_Smith.mp3",
-    "02_Semester2/01_ManageClientProblems/AT2_1/ICTSAS527_AT2a_Part3_Feedback/2_UpTown_IT_Staff_Feedback_John_Smith.mp3",
-    "02_Semester2/01_ManageClientProblems/AT2_1/ICTSAS527_AT2a_Part3_Feedback/1_TQMasters_Client_Staff_Feedback.pdf",
-    "02_Semester2/01_ManageClientProblems/AT3/_AssessmentOverview.md",
+    "01_Semester1/_Java/Snippets/Regex.md",
+    "02_Semester2/01_ManageClientProblems/AT1/_AssessmentOverview.md",
+    "03_Misc/AssessmentDates_Sem2_2024.pdf",
+    "README.md",
     "TableOfConents.md",
+    "02_Semester2/Kanban.md",
+    "02_Semester2/01_ManageClientProblems/_Notes/AnalyseClientRequiremets.md",
+    "02_Semester2/04_Cyber/_Notes",
+    "02_Semester2/03_IPEthicsPrivacy/_Notes",
+    "02_Semester2/02_WebInterface/_Notes",
+    "02_Semester2/02_LeadTeam/_Notes",
+    "02_Semester2/02_ImplementSecurity/_Notes",
+    "02_Semester2/01_WebDataCluster/03_RESTAPI/Notes/NuGetPackagesForRESTAPI.md",
+    "02_Semester2/01_WebDataCluster/03_RESTAPI/Notes/IntroToRestApi.md",
+    "02_Semester2/01_WebDataCluster/03_RESTAPI/Notes",
+    "02_Semester2/01_WebDataCluster/03_RESTAPI",
+    "02_Semester2/01_WebDataCluster/02_NoSQL/Notes/MonogoDB.md",
+    "02_Semester2/01_WebDataCluster/02_NoSQL/Notes/SQLvsNoSQL.md",
+    "02_Semester2/01_WebDataCluster/02_NoSQL/Notes/MongoSH.md",
+    "02_Semester2/01_WebDataCluster/02_NoSQL/Notes",
+    "02_Semester2/01_WebDataCluster/02_NoSQL",
+    "02_Semester2/01_WebDataCluster/01_Notes/JSON.md",
+    "02_Semester2/01_ManageClientProblems/AT3/_AssessmentOverview.md",
     "02_Semester2/01_ManageClientProblems/AT2_2/_AssessmentOverview.md",
     "02_Semester2/01_ManageClientProblems/AT2_1/_AssessmentOverview.md",
-    "02_Semester2/01_ManageClientProblems/AT1/_AssessmentOverview.md",
     "02_Semester2/01_WebDataCluster/AT2/_AssessmentOverview.md",
-    "02_Semester2/01_IntegrateDatabases/AT2/_AssessmentOverview.md",
+    "02_Semester2/01_IntegrateDatabases/02_AT2/_AssessmentOverview.md",
     "02_Semester2/01_Java/AT2/_AssessmentOverview.md",
     "CourseInfo.md",
     "05_Templates/Note.md",
-    "02_Semester2/01_IntegrateDatabases/Notes/MVCOverview.md",
+    "02_Semester2/01_IntegrateDatabases/01_Notes/MVCOverview.md",
     "05_Templates/Guide.md",
     "05_Templates/_AssessmentOverview.md",
     "02_Semester2/01_WebDataCluster/Notes/JSON.md",
     "02_Semester2/01_WebDataCluster/_RESTAPI/Notes/NuGetPackagesForRESTAPI.md",
     "02_Semester2/01_WebDataCluster/_RESTAPI/Notes/IntroToRestApi.md",
-    "02_Semester2/01_WebDataCluster/_NoSQL/Notes/SQLvsNoSQL.md",
-    "02_Semester2/01_WebDataCluster/_NoSQL/Notes/MonogoDB.md",
-    "02_Semester2/01_WebDataCluster/_NoSQL/Notes/MongoSH.md",
-    "02_Semester2/_Java/Notes/AssessmentOverview.md",
-    "02_Semester2/Kanban.md",
-    "03_Misc/ContactDetails.md",
-    "01_Semester1/_Java/Notes/ExercisesPseudocode.md",
-    "01_Semester1/_Java/Notes/JavaGUI_Intro.md",
-    "02_Semester2/_WebDataCluster/AT2.md",
     "04_Media/FlowchartArithmetic.png",
     "04_Media/storeToListSketch.png",
     "04_Media/FlowchartsHamCheeseSndwch.png",

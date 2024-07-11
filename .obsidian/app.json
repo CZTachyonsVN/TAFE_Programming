@@ -1,7 +1,7 @@
 {
   "showLineNumber": true,
   "alwaysUpdateLinks": true,
-  "strictLineBreaks": false,
+  "strictLineBreaks": true,
   "pdfExportSettings": {
     "includeName": true,
     "pageSize": "Tabloid",
@@ -15,5 +15,6 @@
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "Media",
   "defaultViewMode": "source",
-  "livePreview": false
+  "livePreview": true,
+  "propertiesInDocument": "source"
 }

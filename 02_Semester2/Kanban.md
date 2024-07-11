@@ -12,10 +12,13 @@ kanban-plugin: list
 - [ ] Java2 SQL Lite
 - [ ] Java2 Create UI
 - [ ] Web AT2 Tech Report Part1
+- [ ] Client AT1 Part 2 ⏫
+- [ ] Client AT1 Audio recording ⏫
 
 
 ## DOING
 
+- [ ] Client AT1 Part 1⏫
 
 
 ## FINISHED
