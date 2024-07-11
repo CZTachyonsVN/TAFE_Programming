@@ -1,9 +1,2 @@
-## [Object-Oriente Programming in C#](https://github.com/CZTachyonsVN/TAFE_Programming/tree/main/_OOP)
-### [Class Notes](https://github.com/CZTachyonsVN/TAFE_Programming/tree/main/_OOP/Notes)
-### [Teaching Materials](https://github.com/CZTachyonsVN/TAFE_Programming/tree/main/_OOP/TeachingContent)
-## [Java](https://github.com/CZTachyonsVN/TAFE_Programming/tree/main/_Java)
-### [Notes](https://github.com/CZTachyonsVN/TAFE_Programming/tree/main/_Java/Notes)
-### [Teaching Materials](https://github.com/CZTachyonsVN/TAFE_Programming/tree/main/_Java/TeachingContent)
-## [System Analysis 5](https://github.com/CZTachyonsVN/TAFE_Programming/tree/main/_SA5)
-### [Notes](https://github.com/CZTachyonsVN/TAFE_Programming/tree/main/_SA5/Notes)
-### [Teaching Materials](https://github.com/CZTachyonsVN/TAFE_Programming/tree/main/_SA5/InClassActivities)
+# Read Me
+To get the full experience by pulling this repo and open the entire directory in Obsidian
