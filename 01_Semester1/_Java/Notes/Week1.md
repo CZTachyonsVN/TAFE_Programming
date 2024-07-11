@@ -99,7 +99,7 @@ public class Main {
 - Volume converter (litres, millilitres)
 - Hours to seconds to seconds
 - Custom<br>
-[Excercise pseudocode](Week1_exercisesPseudocode.md)
+[Excercise pseudocode](ExercisesPseudocode.md)
 # Questions
 - IntelliJ version? newest.
 - Class notes availability? On Connect

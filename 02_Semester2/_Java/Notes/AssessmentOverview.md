@@ -1,4 +1,10 @@
-#notes <br>
+---
+tags:
+  - notes
+unit: Java
+semester: "2"
+week: "1"
+---
 ## Java 2 Assessment
 - UI Frameworks
 - JTable
