@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Semester2/_Java/AT2/AssessmentOverview.md",
+                "file": "03_Misc/ContactDetails.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_Semester2/_Java/AT2/AssessmentOverview.md",
+                "file": "03_Misc/ContactDetails.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_Semester2/_Java/AT2/AssessmentOverview.md"
+                "file": "03_Misc/ContactDetails.md"
               }
             }
           },
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_Semester2/_Java/AT2/AssessmentOverview.md",
+                "file": "03_Misc/ContactDetails.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_Semester2/_Java/AT2/AssessmentOverview.md",
+                "file": "03_Misc/ContactDetails.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,9 +210,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "240762ae49454820",
+  "active": "b3b522bee5bcd5b3",
   "lastOpenFiles": [
     "NotesAggregate.md",
+    "03_Misc/ContactDetails.md",
+    "03_Misc/AssessmentDates_Sem2_2024.pdf",
+    "03_Misc/mso78C0.tmp",
+    "03_Misc/mso76AC.tmp",
+    "02_Semester2/_Java/AT2/AssessmentOverview.md",
     "02_Semester2/_Java/Notes/AssessmentOverview.md",
     "02_Semester2/_WebDataCluster/_NoSQL/Notes/SQLvsNoSQL.md",
     "02_Semester2/_WebDataCluster/_NoSQL/Notes/MonogoDB.md",
@@ -232,9 +237,6 @@
     "02_Semester2/_WebDataCluster/AT2/Assessment Task 2 - Portfolio of Evidence/ICTPRG553_554_WeatherData_Readings_2022",
     "02_Semester2/_WebDataCluster/AT2/Assessment Task 2 - Portfolio of Evidence/UptownIT__REST_API_NoSQL_Template_V1.docx",
     "02_Semester2/_WebDataCluster/AT2/Assessment Task 2 - Portfolio of Evidence/ICTPRG553_554_WeatherData_Readings_2022.zip",
-    "02_Semester2/_WebDataCluster/AT2/Assessment Task 2 - Portfolio of Evidence/ICTPRG553_554_AT2_MC_TQM_v3.docx",
-    "02_Semester2/_WebDataCluster/AT2/Assessment Task 2 - Portfolio of Evidence/ICTPRG553_554_AT2_PE_TQM_v3.docx",
-    "02_Semester2/_WebDataCluster/AT2/Assessment Task 2 - Portfolio of Evidence",
     "02_Semester2/_WebDataCluster/AT2.md",
     "01_Semester1/_Java/Notes/Week8.md",
     "01_Semester1/_Java/Notes/Week5.md",
@@ -256,8 +258,6 @@
     "01_Semester1/_OOP/Notes/Dapper in WPF Guide.md",
     "01_Semester1/_Java/Assessment Task 2 notes.md",
     "01_Semester1/_OOP/Notes/Week1.md",
-    "01_Semester1/_SA5/Notes/Week2.md",
-    "01_Semester1/_OOP/Notes/Week13_Normalisation_SQLJoin_MultiWindowWPF.md",
     "01_Semester1/_SA5/MMMR_ERD.canvas",
     "01_Semester1/_SA5/Notes/DatabaseExample.canvas",
     "Semester1/_SA5/MMMR_ERD.canvas",
