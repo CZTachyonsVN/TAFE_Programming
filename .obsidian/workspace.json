@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TableOfConents.md",
+                "file": "02_Semester2/01_ManageClientProblems/_Notes/AnalyseClientRequiremets.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245
+    "width": 245,
+    "collapsed": true
   },
   "right": {
     "id": "f8cb35b841268550",
@@ -86,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TableOfConents.md"
+                "file": "02_Semester2/01_ManageClientProblems/_Notes/AnalyseClientRequiremets.md"
               }
             }
           },
@@ -119,7 +120,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "TableOfConents.md"
+                "file": "02_Semester2/01_ManageClientProblems/_Notes/AnalyseClientRequiremets.md"
               }
             }
           }
@@ -136,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TableOfConents.md",
+                "file": "02_Semester2/01_ManageClientProblems/_Notes/AnalyseClientRequiremets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TableOfConents.md",
+                "file": "02_Semester2/01_ManageClientProblems/_Notes/AnalyseClientRequiremets.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,10 +184,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "b3b522bee5bcd5b3",
+  "active": "ec90a8fb0250190e",
   "lastOpenFiles": [
-    "03_Misc/AssessmentDates_Sem2_2024.pdf",
     "TableOfConents.md",
+    "03_Misc/AssessmentDates_Sem2_2024.pdf",
     "02_Semester2/01_WebDataCluster/AT2/WebData_AT2_1.md",
     "02_Semester2/01_IntegrateDatabases/IntegrateDatabases_Quiz.md",
     "02_Semester2/01_IntegrateDatabases/Untitled",
