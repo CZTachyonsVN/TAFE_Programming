@@ -1,15 +1,20 @@
 # Semester 2
 ## Notes
 ```dataview
-TABLE unit, cluster, week
+TABLE unit as "Unit", cluster as "Cluster", week as "Week"
 FROM #notes 
 WHERE contains(file.folder, "Semester2")
-sort cluster, unit, week
+sort cluster, unit, week, file.cday
 ```
 ## **Assessments**
 ```dataview
-TABLE unit as "unit/cluster", task, duedate as "due date"
+TABLE rows.file.link as "Assessment"
 FROM #assessment  
 WHERE contains(file.folder, "Semester2")
-sort duedate asc
+group by duedate as "Due Date"
+```
+
+```dataview
+Calendar duedate
+where typeof(duedate) = "date"
 ```

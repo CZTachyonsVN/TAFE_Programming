@@ -16,5 +16,5 @@
   "attachmentFolderPath": "Media",
   "defaultViewMode": "source",
   "livePreview": true,
-  "propertiesInDocument": "source"
+  "propertiesInDocument": "visible"
 }

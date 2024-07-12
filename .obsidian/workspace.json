@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3ea5d12e493dd4bd",
+        "id": "c9a0a94e6daaf5d2",
         "type": "tabs",
         "children": [
           {
-            "id": "d2c0366ff6e4dd9f",
+            "id": "ec90a8fb0250190e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-09 12.49.11.excalidraw.md"
+                "file": "TableOfConents.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -67,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303
+    "width": 245
   },
   "right": {
     "id": "f8cb35b841268550",
@@ -83,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-09 12.49.11.excalidraw.md"
+                "file": "TableOfConents.md"
               }
             }
           },
@@ -116,12 +119,12 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-09 12.49.11.excalidraw.md"
+                "file": "TableOfConents.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "a11e90b20fce7fe8",
@@ -133,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-09 12.49.11.excalidraw.md",
+                "file": "TableOfConents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-09 12.49.11.excalidraw.md",
+                "file": "TableOfConents.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +169,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,44 +183,43 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "d2c0366ff6e4dd9f",
+  "active": "b3b522bee5bcd5b3",
   "lastOpenFiles": [
-    "README.md",
+    "03_Misc/AssessmentDates_Sem2_2024.pdf",
     "TableOfConents.md",
+    "02_Semester2/01_WebDataCluster/AT2/WebData_AT2_1.md",
+    "02_Semester2/01_IntegrateDatabases/IntegrateDatabases_Quiz.md",
+    "02_Semester2/01_IntegrateDatabases/Untitled",
+    "02_Semester2/01_WebDataCluster/AT2/WebData_AT2.md",
+    "02_Semester2/01_ManageClientProblems/AT1/ManageClients_AT1.md",
+    "02_Semester2/01_WebDataCluster/AT2/WebData_AT2_2.md",
+    "02_Semester2/01_WebDataCluster/WebData_Quiz.md",
+    "02_Semester2/01_Java/Java_Quiz.md",
+    "02_Semester2/04_Cyber/Cyber_Quiz.md",
+    "02_Semester2/04_Cyber/AT2/Cyber_AT2.md",
+    "02_Semester2/03_IPEthicsPrivacy/AT2/IPEthicsPrivacy_AT2_Final.md",
+    "02_Semester2/04_Cyber/AT2",
+    "02_Semester2/03_IPEthicsPrivacy/AT1/IPEthicsPrivacy_AT1.md",
+    "02_Semester2/03_IPEthicsPrivacy/AT2/Untitled",
+    "02_Semester2/02_ImplementSecurity/AT2/ImplementSecurity_AT2.md",
+    "02_Semester2/03_IPEthicsPrivacy/AT2",
+    "02_Semester2/03_IPEthicsPrivacy/AT1",
+    "02_Semester2/02_ImplementSecurity/AT1/IntegrateSecurity_AT1.md",
+    "02_Semester2/02_WebInterface/AT2/WebInterface_AT2.md",
+    "02_Semester2/02_ImplementSecurity/AT2",
+    "02_Semester2/02_ImplementSecurity/AT1",
+    "02_Semester2/02_WebInterface/AT1/WebInterface_AT1.md",
+    "02_Semester2/02_WebInterface/AT2",
+    "02_Semester2/02_WebInterface/AT1",
+    "02_Semester2/02_LeadTeam/AT1/LeadTeam_AT1.md",
+    "02_Semester2/02_LeadTeam/AT2/LeadTeam_AT2.md",
+    "02_Semester2/01_ManageClientProblems/AT2_1/ManageClients_AT2_1.md",
+    "README.md",
+    "Excalidraw/Drawing 2024-07-09 12.49.11.excalidraw.md",
+    "02_Semester2/Kanban.md",
     "01_Semester1/_OOP/Snippets/Check Input Type.md",
     "01_Semester1/_Java/Snippets/Regex.md",
-    "02_Semester2/01_ManageClientProblems/AT1/_AssessmentOverview.md",
-    "03_Misc/AssessmentDates_Sem2_2024.pdf",
-    "02_Semester2/Kanban.md",
     "02_Semester2/01_ManageClientProblems/_Notes/AnalyseClientRequiremets.md",
-    "02_Semester2/04_Cyber/_Notes",
-    "02_Semester2/03_IPEthicsPrivacy/_Notes",
-    "02_Semester2/02_WebInterface/_Notes",
-    "02_Semester2/02_LeadTeam/_Notes",
-    "02_Semester2/02_ImplementSecurity/_Notes",
-    "02_Semester2/01_WebDataCluster/03_RESTAPI/Notes/NuGetPackagesForRESTAPI.md",
-    "02_Semester2/01_WebDataCluster/03_RESTAPI/Notes/IntroToRestApi.md",
-    "02_Semester2/01_WebDataCluster/03_RESTAPI/Notes",
-    "02_Semester2/01_WebDataCluster/03_RESTAPI",
-    "02_Semester2/01_WebDataCluster/02_NoSQL/Notes/MonogoDB.md",
-    "02_Semester2/01_WebDataCluster/02_NoSQL/Notes/SQLvsNoSQL.md",
-    "02_Semester2/01_WebDataCluster/02_NoSQL/Notes/MongoSH.md",
-    "02_Semester2/01_WebDataCluster/02_NoSQL/Notes",
-    "02_Semester2/01_WebDataCluster/02_NoSQL",
-    "02_Semester2/01_WebDataCluster/01_Notes/JSON.md",
-    "02_Semester2/01_ManageClientProblems/AT3/_AssessmentOverview.md",
-    "02_Semester2/01_ManageClientProblems/AT2_2/_AssessmentOverview.md",
-    "02_Semester2/01_ManageClientProblems/AT2_1/_AssessmentOverview.md",
-    "02_Semester2/01_WebDataCluster/AT2/_AssessmentOverview.md",
-    "02_Semester2/01_IntegrateDatabases/02_AT2/_AssessmentOverview.md",
-    "02_Semester2/01_Java/AT2/_AssessmentOverview.md",
-    "CourseInfo.md",
-    "05_Templates/Note.md",
-    "02_Semester2/01_IntegrateDatabases/01_Notes/MVCOverview.md",
-    "05_Templates/Guide.md",
-    "05_Templates/_AssessmentOverview.md",
-    "02_Semester2/01_WebDataCluster/Notes/JSON.md",
-    "02_Semester2/01_WebDataCluster/_RESTAPI/Notes/NuGetPackagesForRESTAPI.md",
     "04_Media/FlowchartArithmetic.png",
     "04_Media/storeToListSketch.png",
     "04_Media/FlowchartsHamCheeseSndwch.png",
