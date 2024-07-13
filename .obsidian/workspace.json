@@ -4,19 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "c9a0a94e6daaf5d2",
+        "id": "f72a037b9e66c76a",
         "type": "tabs",
         "children": [
           {
-            "id": "ec90a8fb0250190e",
+            "id": "0284583b26264e6f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "02_Semester2/01_ManageClientProblems/_Notes/AnalyseClientRequiremets.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "02_Semester2/Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "list",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               }
             }
           }
@@ -70,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245,
-    "collapsed": true
+    "width": 245
   },
   "right": {
     "id": "f8cb35b841268550",
@@ -87,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_Semester2/01_ManageClientProblems/_Notes/AnalyseClientRequiremets.md"
+                "file": "02_Semester2/Kanban.md"
               }
             }
           },
@@ -120,7 +130,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02_Semester2/01_ManageClientProblems/_Notes/AnalyseClientRequiremets.md"
+                "file": "02_Semester2/Kanban.md"
               }
             }
           }
@@ -137,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_Semester2/01_ManageClientProblems/_Notes/AnalyseClientRequiremets.md",
+                "file": "02_Semester2/Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_Semester2/01_ManageClientProblems/_Notes/AnalyseClientRequiremets.md",
+                "file": "02_Semester2/Kanban.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,43 +194,44 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "ec90a8fb0250190e",
+  "active": "0284583b26264e6f",
   "lastOpenFiles": [
+    "02_Semester2/01_WebDataCluster/AT2/Assessment Task 2 - Portfolio of Evidence/~$townIT__REST_API_NoSQL_Template_V1.docx",
+    "02_Semester2/01_WebDataCluster/AT2/Assessment Task 2 - Portfolio of Evidence/ICTPRG553_554_AT2_PE_TQM_v3.pdf",
+    "02_Semester2/01_WebDataCluster/AT2/Assessment Task 2 - Portfolio of Evidence/~$TPRG553_554_AT2_PE_TQM_v3.docx",
+    "02_Semester2/01_WebDataCluster/AT2/Assessment Task 2 - Portfolio of Evidence/ICTPRG553_554_AT2_MC_TQM_v3.pdf",
+    "02_Semester2/01_WebDataCluster/AT2/Assessment Task 2 - Portfolio of Evidence/~$TPRG553_554_AT2_MC_TQM_v3.docx",
+    "02_Semester2/01_ManageClientProblems/AT2_1/ICTSAS527_AT2a__W_TQM_v1.docx",
+    "02_Semester2/01_ManageClientProblems/AT2_2/~$TSAS527_AT2b_W_TQM_v1_Scenario2.docx",
+    "02_Semester2/01_ManageClientProblems/AT2_1/~$TSAS527_AT2a__W_TQM_v1.docx",
+    "02_Semester2/01_ManageClientProblems/AT1/~$TSAS527_AT1_Part2_HaiHorky.docx",
+    "02_Semester2/01_Java/AT2/UptownIT_Java_Coding_Standards.pdf",
+    "02_Semester2/01_Java/AT2/~$townIT_Java_Coding_Standards.docx",
     "TableOfConents.md",
-    "03_Misc/AssessmentDates_Sem2_2024.pdf",
+    "02_Semester2/01_ManageClientProblems/AT1/ManageClients_AT1.md",
+    "README.md",
+    "02_Semester2/01_ManageClientProblems/_Notes/AnalyseClientRequiremets.md",
     "02_Semester2/01_WebDataCluster/AT2/WebData_AT2_1.md",
     "02_Semester2/01_IntegrateDatabases/IntegrateDatabases_Quiz.md",
-    "02_Semester2/01_IntegrateDatabases/Untitled",
     "02_Semester2/01_WebDataCluster/AT2/WebData_AT2.md",
-    "02_Semester2/01_ManageClientProblems/AT1/ManageClients_AT1.md",
     "02_Semester2/01_WebDataCluster/AT2/WebData_AT2_2.md",
     "02_Semester2/01_WebDataCluster/WebData_Quiz.md",
     "02_Semester2/01_Java/Java_Quiz.md",
     "02_Semester2/04_Cyber/Cyber_Quiz.md",
     "02_Semester2/04_Cyber/AT2/Cyber_AT2.md",
     "02_Semester2/03_IPEthicsPrivacy/AT2/IPEthicsPrivacy_AT2_Final.md",
-    "02_Semester2/04_Cyber/AT2",
     "02_Semester2/03_IPEthicsPrivacy/AT1/IPEthicsPrivacy_AT1.md",
-    "02_Semester2/03_IPEthicsPrivacy/AT2/Untitled",
     "02_Semester2/02_ImplementSecurity/AT2/ImplementSecurity_AT2.md",
-    "02_Semester2/03_IPEthicsPrivacy/AT2",
-    "02_Semester2/03_IPEthicsPrivacy/AT1",
     "02_Semester2/02_ImplementSecurity/AT1/IntegrateSecurity_AT1.md",
     "02_Semester2/02_WebInterface/AT2/WebInterface_AT2.md",
-    "02_Semester2/02_ImplementSecurity/AT2",
-    "02_Semester2/02_ImplementSecurity/AT1",
     "02_Semester2/02_WebInterface/AT1/WebInterface_AT1.md",
-    "02_Semester2/02_WebInterface/AT2",
-    "02_Semester2/02_WebInterface/AT1",
     "02_Semester2/02_LeadTeam/AT1/LeadTeam_AT1.md",
     "02_Semester2/02_LeadTeam/AT2/LeadTeam_AT2.md",
     "02_Semester2/01_ManageClientProblems/AT2_1/ManageClients_AT2_1.md",
-    "README.md",
     "Excalidraw/Drawing 2024-07-09 12.49.11.excalidraw.md",
     "02_Semester2/Kanban.md",
     "01_Semester1/_OOP/Snippets/Check Input Type.md",
     "01_Semester1/_Java/Snippets/Regex.md",
-    "02_Semester2/01_ManageClientProblems/_Notes/AnalyseClientRequiremets.md",
     "04_Media/FlowchartArithmetic.png",
     "04_Media/storeToListSketch.png",
     "04_Media/FlowchartsHamCheeseSndwch.png",

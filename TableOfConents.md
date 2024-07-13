@@ -8,10 +8,10 @@ sort cluster, unit, week, file.cday
 ```
 ## **Assessments**
 ```dataview
-TABLE rows.file.link as "Assessment"
+TABLE rows.file.link as "Assessment", duedate - date(today) as "Remaining time"
 FROM #assessment  
 WHERE contains(file.folder, "Semester2")
-group by duedate as "Due Date"
+group by duedate
 ```
 
 ```dataview

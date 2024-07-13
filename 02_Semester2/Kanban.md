@@ -6,23 +6,23 @@ kanban-plugin: list
 
 ## TO-DO
 
-- [ ] Client AT1 @{26-July-24}
+- [ ] Client AT1 Audio recording ⏫
 - [ ] Java2 Test various Java UI frameworks (JavaFX)
+- [ ] Client AT1 @{26-July-24}
 - [ ] Java2 Learn JTable
 - [ ] Java2 SQL Lite
 - [ ] Java2 Create UI
 - [ ] Web AT2 Tech Report Part1
-- [ ] Client AT1 Part 2 ⏫
-- [ ] Client AT1 Audio recording ⏫
 
 
 ## DOING
 
-- [ ] Client AT1 Part 1⏫
 
 
 ## FINISHED
 
+- [ ] Client AT1 Part 2 ⏫
+- [ ] Client AT1 Part 1⏫
 - [ ] Setup new GitHub repo for notes
 - [ ] Setup Java2 folder in Obsidian
 
