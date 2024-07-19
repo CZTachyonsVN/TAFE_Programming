@@ -17,4 +17,4 @@ SQL can do a lot of processing and complex queries, NoSQL acts more like a data 
 ![Source](../../TeachingContent/NoSQLDataStoresHandout.pdf)
 
 # Exercise
-![Source](../../TeachingContent/SQLvnNoSQL_Exercise)
+![Source](../../TeachingContent/SQLvsNoSQL_Exercise.pdf)
