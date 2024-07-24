@@ -7,21 +7,28 @@ import java.util.Scanner;
 
 public class FileReader extends Component
 {
-	public ArrayList<CD> ReadFile(){
-		ArrayList<CD> suggestionsFile = new ArrayList<CD>();
+	public CD[] ReadFile(){
+		ArrayList<CD> data = new ArrayList<CD>();
 		try {
-			File myObj = new File("RePurposingSuggestions.txt");
+			File myObj = new File("CD_ArchivePrototype_SampleData.txt");
 			Scanner myReader = new Scanner(myObj);
+			myReader.nextLine();
 			while (myReader.hasNextLine()) {
 				String[] row = myReader.nextLine().split(";");
-				suggestionsFile.add(new CD(row[0], row[1], row[2], row[3], row[4],row[5],row[6],
+				data.add(new CD(row[0], row[1], row[2], row[3], row[4],row[5],row[6],
 						row[7],row[8]));
 			} //Store the next line of text that is found.
 			myReader.close();
 		}
 		catch (IOException e){
-			JOptionPane.showMessageDialog(this, e.getMessage());
+			System.out.println(e.getMessage());
 		}
-		return suggestionsFile;
+		CD[] output = new CD[data.size()];
+		for (int i = 0; i < output.length; i++)
+		{
+			output[i] = data.get(i);
+		}
+		
+		return output;
 	}
 }

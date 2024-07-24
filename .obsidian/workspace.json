@@ -8,15 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f9993816a4d2d34a",
+            "id": "93050530c250173b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "02_Semester2/01_WebDataCluster/02_NoSQL/Notes/SQLvsNoSQL.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "02_Semester2/01_Java/AT2/ICTPRG547_AT2_PE_TQM_V1.pdf"
               }
             }
           }
@@ -86,7 +83,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_Semester2/01_WebDataCluster/02_NoSQL/Notes/SQLvsNoSQL.md"
+                "file": "02_Semester2/01_Java/AT2/ICTPRG547_AT2_PE_TQM_V1.pdf"
               }
             }
           },
@@ -119,7 +116,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02_Semester2/01_WebDataCluster/02_NoSQL/Notes/SQLvsNoSQL.md"
+                "file": "02_Semester2/01_Java/AT2/ICTPRG547_AT2_PE_TQM_V1.pdf"
               }
             }
           }
@@ -136,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_Semester2/01_WebDataCluster/02_NoSQL/Notes/SQLvsNoSQL.md",
+                "file": "02_Semester2/01_Java/AT2/ICTPRG547_AT2_PE_TQM_V1.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_Semester2/01_WebDataCluster/02_NoSQL/Notes/SQLvsNoSQL.md",
+                "file": "02_Semester2/01_Java/AT2/ICTPRG547_AT2_PE_TQM_V1.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,46 +180,46 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "f9993816a4d2d34a",
+  "active": "93050530c250173b",
   "lastOpenFiles": [
-    "02_Semester2/01_WebDataCluster/AT2/AssessmentFiles/ICTPRG553_554_AT2_PE_TQM_v3.pdf",
-    "02_Semester2/01_WebDataCluster/AT2/WebData_AT2.md",
+    "02_Semester2/01_Java/AT2/Java_AT2.md",
+    "02_Semester2/01_ManageClientProblems/AT1/2_TQMastersProblems.mp3",
+    "02_Semester2/01_ManageClientProblems/AT1/ICTSAS527_AT1_PE_TQM_v1.pdf",
+    "02_Semester2/01_ManageClientProblems/AT1/ManageClients_AT1.md",
     "TableOfConents.md",
+    "02_Semester2/01_Java/AT2/ICTPRG547_AT2_PE_TQM_V1.pdf",
+    "02_Semester2/01_ManageClientProblems/AT2_1/ICTSAS527_AT2a_Part3_Feedback/~$UpTown_IT_Staff_Feedback_Scripts.rtf",
+    "02_Semester2/01_ManageClientProblems/AT2_1/~$rviceLevelAgreement-SLATemplate_com.docx",
+    "02_Semester2/01_Java/AT2/ICTPRG547_AT2_Project/out/production/ICTPRG547_AT2_Project/TableModelArchive.class",
+    "02_Semester2/01_Java/AT2/ICTPRG547_AT2_Project/out/production/ICTPRG547_AT2_Project/MainWindow.class",
+    "02_Semester2/01_Java/AT2/ICTPRG547_AT2_Project/src/TableModelArchive.java~",
+    "02_Semester2/01_Java/AT2/ICTPRG547_AT2_Project/src/TableModelArchive.java",
+    "02_Semester2/01_ManageClientProblems/AT2_1/ServiceLevelAgreement-SLATemplate_com.docx",
+    "02_Semester2/02_ImplementSecurity/AT1/IntegrateSecurity_AT1.md",
+    "02_Semester2/01_IntegrateDatabases/AT2/IntegrateDatabases_AT2.md",
+    "02_Semester2/01_IntegrateDatabases/01_Notes/ImplementingSQLConnection.md",
+    "02_Semester2/01_IntegrateDatabases/01_Notes/WebFundamentals.md",
+    "02_Semester2/01_IntegrateDatabases/01_Notes/MVCOverview.md",
+    "02_Semester2/01_WebDataCluster/AT2/WebData_AT2.md",
+    "02_Semester2/01_WebDataCluster/02_NoSQL/Notes/SQLvsNoSQL.md",
     "02_Semester2/01_WebDataCluster/AT2/WebData_AT2_1.md",
     "02_Semester2/01_WebDataCluster/WebData_Quiz.md",
     "02_Semester2/01_WebDataCluster/03_RESTAPI/Notes/HTTP_Methods.md",
     "02_Semester2/01_WebDataCluster/03_RESTAPI/Notes/API_ProgrammingPatterns.md",
     "02_Semester2/01_WebDataCluster/03_RESTAPI/Notes/Untitled 1.md",
-    "02_Semester2/01_WebDataCluster/TeachingContent/RepositoryAndServicePatterns.pdf",
     "02_Semester2/01_WebDataCluster/02_NoSQL/Notes/MongoSH.md",
-    "02_Semester2/01_WebDataCluster/TeachingContent/Repository & Service Patterns.docx",
     "02_Semester2/01_WebDataCluster/01_Notes/DatabaseIndexing.md",
     "02_Semester2/01_WebDataCluster/01_Notes/JSON.md",
     "03_Misc/dotNET_MongoDB_Guide.md",
     "03_Misc/dotNET_SQL_Guide.md",
     "02_Semester2/01_WebDataCluster/01_Notes/NuGetPackagesForDatabaseRESTAPI.md",
     "02_Semester2/01_WebDataCluster/02_NoSQL/Notes/MonogoDB.md",
-    "02_Semester2/01_WebDataCluster/02_NoSQL/Notes/SQLvsNoSQL.md",
     "02_Semester2/01_WebDataCluster/Execises/Week1.md",
-    "02_Semester2/01_WebDataCluster/Execises/Meteorite_Landings_Data.csv",
-    "02_Semester2/01_WebDataCluster/Execises",
-    "02_Semester2/01_WebDataCluster/New folder",
     "02_Semester2/01_ManageClientProblems/AT2_2/ManageClients_AT2_2.md",
-    "02_Semester2/01_WebDataCluster/TeachingContent/~$tabase Indexes Simplified.docx",
-    "02_Semester2/01_WebDataCluster/TeachingContent/DatabaseIndexingSimplified.pdf",
-    "02_Semester2/01_WebDataCluster/TeachingContent/DatabaseIndexingSImplified.pdf",
-    "02_Semester2/01_WebDataCluster/TeachingContent/Database Indexes Simplified.docx",
-    "02_Semester2/01_ManageClientProblems/AT2_2/~$TSAS527_AT2b_W_TQM_v1_Scenario2.docx",
-    "02_Semester2/01_ManageClientProblems/AT1/ManageClients_AT1.md",
     "02_Semester2/01_ManageClientProblems/_Notes/AnalyseClientRequiremets.md",
     "Excalidraw/Drawing 2024-07-09 12.49.11.excalidraw.md",
     "04_Media/Pasted image 20240716041351.png",
     "04_Media/Pasted image 20240716040132.png",
-    "02_Semester2/01_WebDataCluster/03_RESTAPI/Notes/IntroToRestApi.md",
-    "02_Semester2/01_IntegrateDatabases/01_Notes/WebFundamentals.md",
-    "02_Semester2/01_IntegrateDatabases/01_Notes/MVCOverview.md",
-    "02_Semester2/01_WebDataCluster/03_RESTAPI/Notes/RESTAPI_Endpoints.md",
-    "02_Semester2/01_WebDataCluster/03_RESTAPI/Notes/RESTAPI_BestPractices.md",
     "04_Media/FlowchartArithmetic.png",
     "04_Media/storeToListSketch.png",
     "04_Media/FlowchartsHamCheeseSndwch.png",
