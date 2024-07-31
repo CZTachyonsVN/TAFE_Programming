@@ -35,3 +35,7 @@ duedate: 2024-09-13
 - [ ] Administrators can remove a range of created user accounts based on a date range
 - [ ] Admin users can correct errors in the dataset
 - [ ] Administrators can upgrade or downgrade multiple users that were created in batches (upgrading or downgrading an entire group of students)
+## Assumptions
+100 students
+10 queries per student per day
+2 collections per query

@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TAFEProgramming\\GitRepo\\TAFE_Programming\\02_Semester2\\01_IntegrateDatabases\\AT2\\TypicalTechTools_NET6\\TypicalTechTools_NET6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C63D10CB-9C59-48EF-9629-7F7B4C597BB6}|TypicalTechTools\\TypicalTechTools.csproj|d:\\tafeprogramming\\gitrepo\\tafe_programming\\02_semester2\\01_integratedatabases\\at2\\typicaltechtools_net6\\typicaltechtools_net6\\typicaltechtools\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C63D10CB-9C59-48EF-9629-7F7B4C597BB6}|TypicalTechTools\\TypicalTechTools.csproj|solutionrelative:typicaltechtools\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C63D10CB-9C59-48EF-9629-7F7B4C597BB6}|TypicalTechTools\\TypicalTechTools.csproj|d:\\tafeprogramming\\gitrepo\\tafe_programming\\02_semester2\\01_integratedatabases\\at2\\typicaltechtools_net6\\typicaltechtools_net6\\typicaltechtools\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C63D10CB-9C59-48EF-9629-7F7B4C597BB6}|TypicalTechTools\\TypicalTechTools.csproj|solutionrelative:typicaltechtools\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C63D10CB-9C59-48EF-9629-7F7B4C597BB6}|TypicalTechTools\\TypicalTechTools.csproj|d:\\tafeprogramming\\gitrepo\\tafe_programming\\02_semester2\\01_integratedatabases\\at2\\typicaltechtools_net6\\typicaltechtools_net6\\typicaltechtools\\models\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C63D10CB-9C59-48EF-9629-7F7B4C597BB6}|TypicalTechTools\\TypicalTechTools.csproj|solutionrelative:typicaltechtools\\models\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C63D10CB-9C59-48EF-9629-7F7B4C597BB6}|TypicalTechTools\\TypicalTechTools.csproj|d:\\tafeprogramming\\gitrepo\\tafe_programming\\02_semester2\\01_integratedatabases\\at2\\typicaltechtools_net6\\typicaltechtools_net6\\typicaltechtools\\views\\product\\indexsql.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C63D10CB-9C59-48EF-9629-7F7B4C597BB6}|TypicalTechTools\\TypicalTechTools.csproj|solutionrelative:typicaltechtools\\views\\product\\indexsql.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C63D10CB-9C59-48EF-9629-7F7B4C597BB6}|TypicalTechTools\\TypicalTechTools.csproj|d:\\tafeprogramming\\gitrepo\\tafe_programming\\02_semester2\\01_integratedatabases\\at2\\typicaltechtools_net6\\typicaltechtools_net6\\typicaltechtools\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C63D10CB-9C59-48EF-9629-7F7B4C597BB6}|TypicalTechTools\\TypicalTechTools.csproj|solutionrelative:typicaltechtools\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C63D10CB-9C59-48EF-9629-7F7B4C597BB6}|TypicalTechTools\\TypicalTechTools.csproj|d:\\tafeprogramming\\gitrepo\\tafe_programming\\02_semester2\\01_integratedatabases\\at2\\typicaltechtools_net6\\typicaltechtools_net6\\typicaltechtools\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C63D10CB-9C59-48EF-9629-7F7B4C597BB6}|TypicalTechTools\\TypicalTechTools.csproj|solutionrelative:typicaltechtools\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C63D10CB-9C59-48EF-9629-7F7B4C597BB6}|TypicalTechTools\\TypicalTechTools.csproj|d:\\tafeprogramming\\gitrepo\\tafe_programming\\02_semester2\\01_integratedatabases\\at2\\typicaltechtools_net6\\typicaltechtools_net6\\typicaltechtools\\models\\data\\typicaltechtoolsdb_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C63D10CB-9C59-48EF-9629-7F7B4C597BB6}|TypicalTechTools\\TypicalTechTools.csproj|solutionrelative:typicaltechtools\\models\\data\\typicaltechtoolsdb_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C63D10CB-9C59-48EF-9629-7F7B4C597BB6}|TypicalTechTools\\TypicalTechTools.csproj|d:\\tafeprogramming\\gitrepo\\tafe_programming\\02_semester2\\01_integratedatabases\\at2\\typicaltechtools_net6\\typicaltechtools_net6\\typicaltechtools\\models\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C63D10CB-9C59-48EF-9629-7F7B4C597BB6}|TypicalTechTools\\TypicalTechTools.csproj|solutionrelative:typicaltechtools\\models\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\TAFEProgramming\\GitRepo\\TAFE_Programming\\02_Semester2\\01_IntegrateDatabases\\AT2\\TypicalTechTools_NET6\\TypicalTechTools_NET6\\TypicalTechTools\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TypicalTechTools\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\TAFEProgramming\\GitRepo\\TAFE_Programming\\02_Semester2\\01_IntegrateDatabases\\AT2\\TypicalTechTools_NET6\\TypicalTechTools_NET6\\TypicalTechTools\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TypicalTechTools\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T18:25:24.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IndexSQL.cshtml",
+              "DocumentMoniker": "D:\\TAFEProgramming\\GitRepo\\TAFE_Programming\\02_Semester2\\01_IntegrateDatabases\\AT2\\TypicalTechTools_NET6\\TypicalTechTools_NET6\\TypicalTechTools\\Views\\Product\\IndexSQL.cshtml",
+              "RelativeDocumentMoniker": "TypicalTechTools\\Views\\Product\\IndexSQL.cshtml",
+              "ToolTip": "D:\\TAFEProgramming\\GitRepo\\TAFE_Programming\\02_Semester2\\01_IntegrateDatabases\\AT2\\TypicalTechTools_NET6\\TypicalTechTools_NET6\\TypicalTechTools\\Views\\Product\\IndexSQL.cshtml",
+              "RelativeToolTip": "TypicalTechTools\\Views\\Product\\IndexSQL.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T18:19:29.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\TAFEProgramming\\GitRepo\\TAFE_Programming\\02_Semester2\\01_IntegrateDatabases\\AT2\\TypicalTechTools_NET6\\TypicalTechTools_NET6\\TypicalTechTools\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "TypicalTechTools\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\TAFEProgramming\\GitRepo\\TAFE_Programming\\02_Semester2\\01_IntegrateDatabases\\AT2\\TypicalTechTools_NET6\\TypicalTechTools_NET6\\TypicalTechTools\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "TypicalTechTools\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T18:16:23.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\TAFEProgramming\\GitRepo\\TAFE_Programming\\02_Semester2\\01_IntegrateDatabases\\AT2\\TypicalTechTools_NET6\\TypicalTechTools_NET6\\TypicalTechTools\\Models\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "TypicalTechTools\\Models\\Repository\\ProductRepository.cs",
+              "ToolTip": "D:\\TAFEProgramming\\GitRepo\\TAFE_Programming\\02_Semester2\\01_IntegrateDatabases\\AT2\\TypicalTechTools_NET6\\TypicalTechTools_NET6\\TypicalTechTools\\Models\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "TypicalTechTools\\Models\\Repository\\ProductRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T18:02:15.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\TAFEProgramming\\GitRepo\\TAFE_Programming\\02_Semester2\\01_IntegrateDatabases\\AT2\\TypicalTechTools_NET6\\TypicalTechTools_NET6\\TypicalTechTools\\Models\\Repository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "TypicalTechTools\\Models\\Repository\\IProductRepository.cs",
+              "ToolTip": "D:\\TAFEProgramming\\GitRepo\\TAFE_Programming\\02_Semester2\\01_IntegrateDatabases\\AT2\\TypicalTechTools_NET6\\TypicalTechTools_NET6\\TypicalTechTools\\Models\\Repository\\IProductRepository.cs",
+              "RelativeToolTip": "TypicalTechTools\\Models\\Repository\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T18:01:35.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\TAFEProgramming\\GitRepo\\TAFE_Programming\\02_Semester2\\01_IntegrateDatabases\\AT2\\TypicalTechTools_NET6\\TypicalTechTools_NET6\\TypicalTechTools\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "TypicalTechTools\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\TAFEProgramming\\GitRepo\\TAFE_Programming\\02_Semester2\\01_IntegrateDatabases\\AT2\\TypicalTechTools_NET6\\TypicalTechTools_NET6\\TypicalTechTools\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "TypicalTechTools\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T17:54:52.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TAFEProgramming\\GitRepo\\TAFE_Programming\\02_Semester2\\01_IntegrateDatabases\\AT2\\TypicalTechTools_NET6\\TypicalTechTools_NET6\\TypicalTechTools\\Program.cs",
+              "RelativeDocumentMoniker": "TypicalTechTools\\Program.cs",
+              "ToolTip": "D:\\TAFEProgramming\\GitRepo\\TAFE_Programming\\02_Semester2\\01_IntegrateDatabases\\AT2\\TypicalTechTools_NET6\\TypicalTechTools_NET6\\TypicalTechTools\\Program.cs",
+              "RelativeToolTip": "TypicalTechTools\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T16:44:50.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TypicalTechToolsDB_Context.cs",
+              "DocumentMoniker": "D:\\TAFEProgramming\\GitRepo\\TAFE_Programming\\02_Semester2\\01_IntegrateDatabases\\AT2\\TypicalTechTools_NET6\\TypicalTechTools_NET6\\TypicalTechTools\\Models\\Data\\TypicalTechToolsDB_Context.cs",
+              "RelativeDocumentMoniker": "TypicalTechTools\\Models\\Data\\TypicalTechToolsDB_Context.cs",
+              "ToolTip": "D:\\TAFEProgramming\\GitRepo\\TAFE_Programming\\02_Semester2\\01_IntegrateDatabases\\AT2\\TypicalTechTools_NET6\\TypicalTechTools_NET6\\TypicalTechTools\\Models\\Data\\TypicalTechToolsDB_Context.cs",
+              "RelativeToolTip": "TypicalTechTools\\Models\\Data\\TypicalTechToolsDB_Context.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBUAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T15:39:35.886Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,18 +1,22 @@
-public class Archive
+public final class Archive
 {
-	private CD[] CDs;
-	private FileReader fileReader = new FileReader();
+	private static CD[] CDs;
+	private static FileReader fileReader = new FileReader();
 	
-	public Archive(CD[] data){
-		CDs = data;
-	}
+//	public Archive(CD[] data){
+//		CDs = data;
+//	}
 	
-	public Archive(){
+	private static void NewArchive()
+	{
 		CDs = fileReader.ReadFile();
 	}
 	
-	public String[] GetColumnNames(){
-		return new String[]{"Title",
+	public static String[] GetColumnNames()
+	{
+		return new String[]{
+				"Id",
+				"Title",
 				"Author",
 				"Section",
 				"X",
@@ -22,20 +26,32 @@ public class Archive
 				"OnLoan"};
 	}
 	
-	public CD[] GetArchive(){
+	public static CD[] GetArchive()
+	{
 		return CDs;
 	}
 	
-	public int GetArchiveLength(){
+	public static int GetArchiveLength()
+	{
 		return CDs.length;
 	}
 	
-	public Object[][] GetArchiveArray(){
+	public static Object[][] GetArchiveArray()
+	{
+		if (CDs == null)
+		{
+			NewArchive();
+		}
 		Object[][] output = new Object[CDs.length][8];
 		for (int i = 0; i < CDs.length; i++)
 		{
-			output[i] = CDs[i].GetAllFieldsNoId();
+			output[i] = CDs[i].GetAllFields();
 		}
 		return output;
+	}
+
+	public static void UpdateCD()
+	{
+
 	}
 }

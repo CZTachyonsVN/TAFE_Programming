@@ -1,5 +1,5 @@
 ID;Title;Author;Section;X;Y;BarCode;Description;OnLoan
-1;Busn History 2015;Management;B;1;57;43783278;Business History - tax records, events and achievements in 2015;No
+1;Busn History 2015;Management;B;1;57;43783278;Business History - tax records, events and achievements in 2015;Yes
 2;Busn History 2016;Management;B;1;58;43783279;Business History - tax records, events and achievements in 2016;No
 3;Busn History 2017;Management;B;1;59;43784280;Business History - tax records, events and achievements in 2017;No
 4;Client A's Project;Dev Team;D;4;7;43784761;Client A's project files and copyright material.;No

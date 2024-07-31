@@ -1,11 +1,11 @@
 import java.util.Comparator;
 
-public class CompareStringCaseInsensitive implements Comparator<Object>
+public final class Compare implements Comparator<Object>
 {
     public int compare(Object a, Object b){
         if (a instanceof String && b instanceof String)
         {
-            return ((String) a).compareTo((String) b);
+            return (((String) a).toLowerCase()).compareTo(((String) b).toLowerCase());
         }
         if (a instanceof Integer && b instanceof Integer)
         {
@@ -15,6 +15,5 @@ public class CompareStringCaseInsensitive implements Comparator<Object>
         {
             return 0;
         }
-        
     }
 }

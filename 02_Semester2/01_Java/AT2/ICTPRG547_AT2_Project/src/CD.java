@@ -1,4 +1,3 @@
-import javax.swing.*;
 import java.awt.*;
 
 public class CD extends Component
@@ -29,12 +28,31 @@ public class CD extends Component
 			Description = description;
 			switch (onLoan)
 			{
-				case "No":
-					OnLoan = false;
-					break;
-				case "Yes":
-					OnLoan = true;
-				default:
+				case "No" -> OnLoan = false;
+				case "Yes" -> OnLoan = true;
+			}
+		}
+		catch(Exception e){
+			System.out.println(e.getMessage());
+		}
+	}
+
+	public CD(String[] input){
+		try
+		{
+
+			Id = Integer.parseInt(input[0]);
+			Title = input[1];
+			Author = input[2];
+			Section = input[3].charAt(0);
+			X = Integer.parseInt(input[4]);
+			Y = Integer.parseInt(input[5]);
+			Barcode = Integer.parseInt(input[6]);
+			Description = input[7];
+			switch (input[8])
+			{
+				case "No" -> OnLoan = false;
+				case "Yes" -> OnLoan = true;
 			}
 		}
 		catch(Exception e){
@@ -42,22 +60,34 @@ public class CD extends Component
 		}
 	}
 	
-	public String[] GetAllFields(){
+	public String[] GetAllFieldsAsString(){
 		return new String[]
 			{
-				Integer.toString(Id), Title, Author, String.valueOf(Section), Integer.toString(X)
-					, Integer.toString(Y), Integer.toString(Barcode), Description,
+					Integer.toString(Id),
+					Title,
+					Author,
+					String.valueOf(Section),
+					Integer.toString(X),
+					Integer.toString(Y),
+					Integer.toString(Barcode),
+					Description,
 					String.valueOf(OnLoan)
 			};
 	}
 	
-	public Object[] GetAllFieldsNoId(){
+	public Object[] GetAllFields(){
 		return new Object[]
-				{
-						Title, Author, Section, X,
-						Y, Barcode, Description,
-						OnLoan
-				};
+			{
+					Id,
+					Title,
+					Author,
+					Section,
+					X,
+					Y,
+					Barcode,
+					Description,
+					OnLoan
+			};
 	}
 	
 	public int getId()

@@ -1,0 +1,6 @@
+@WebCluster_AT2_WeatherData_RESTAPI_HostAddress = http://localhost:5113
+
+GET {{WebCluster_AT2_WeatherData_RESTAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

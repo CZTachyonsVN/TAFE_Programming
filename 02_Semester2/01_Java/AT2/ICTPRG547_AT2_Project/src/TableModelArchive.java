@@ -6,29 +6,31 @@ import javax.swing.table.AbstractTableModel;
  */
 class TableModelArchive extends AbstractTableModel
 {
-	private Archive archive = new Archive();
-	private String[] archiveColumnNames;
+	private String[] columnNames = Archive.GetColumnNames();
+	private Object[][] data = Archive.GetArchiveArray();
 	
-	private String[] columnNames = archive.GetColumnNames();
-	private Object[][] data = archive.GetArchiveArray();
-	
-	public int getColumnCount() {
+	public int getColumnCount()
+	{
 		return columnNames.length;
 	}
 	
-	public int getRowCount() {
+	public int getRowCount()
+	{
 		return data.length;
 	}
 	
-	public String getColumnName(int col) {
+	public String getColumnName(int col)
+	{
 		return columnNames[col];
 	}
 	
-	public Object getValueAt(int row, int col) {
+	public Object getValueAt(int row, int col)
+	{
 		return data[row][col];
 	}
 	
-	public Class getColumnClass(int c) {
+	public Class getColumnClass(int c)
+	{
 		return getValueAt(0, c).getClass();
 	}
 	
@@ -36,21 +38,19 @@ class TableModelArchive extends AbstractTableModel
 	 * Don't need to implement this method unless your table's
 	 * editable.
 	 */
-	public boolean isCellEditable(int row, int col) {
-		//Note that the data/cell address is constant,
-		//no matter where the cell appears onscreen.
-		if (col < 2) {
-			return false;
-		} else {
-			return true;
-		}
-	}
-	
+//	public boolean isCellEditable(int row, int col) {
+//		//Note that the data/cell address is constant,
+//		//no matter where the cell appears onscreen.
+//		return col >= 2;
+//	}
+
 	/*
 	 * Don't need to implement this method unless your table's
 	 * data can change.
 	 */
-	public void setValueAt(Object value, int row, int col) {
+	
+	public void setValueAt(Object value, int row, int col)
+	{
 		data[row][col] = value;
 		fireTableCellUpdated(row, col);
 	}

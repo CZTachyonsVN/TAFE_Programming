@@ -11,9 +11,12 @@
             "id": "93050530c250173b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "02_Semester2/01_Java/AT2/ICTPRG547_AT2_PE_TQM_V1.pdf"
+                "file": "02_Semester2/01_ManageClientProblems/AT2_2/ManageClients_AT2_2.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -83,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_Semester2/01_Java/AT2/ICTPRG547_AT2_PE_TQM_V1.pdf"
+                "file": "02_Semester2/01_ManageClientProblems/AT2_2/ManageClients_AT2_2.md"
               }
             }
           },
@@ -116,7 +119,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02_Semester2/01_Java/AT2/ICTPRG547_AT2_PE_TQM_V1.pdf"
+                "file": "02_Semester2/01_ManageClientProblems/AT2_2/ManageClients_AT2_2.md"
               }
             }
           }
@@ -133,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_Semester2/01_Java/AT2/ICTPRG547_AT2_PE_TQM_V1.pdf",
+                "file": "02_Semester2/01_ManageClientProblems/AT2_2/ManageClients_AT2_2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_Semester2/01_Java/AT2/ICTPRG547_AT2_PE_TQM_V1.pdf",
+                "file": "02_Semester2/01_ManageClientProblems/AT2_2/ManageClients_AT2_2.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,42 +185,42 @@
   },
   "active": "93050530c250173b",
   "lastOpenFiles": [
-    "02_Semester2/01_Java/AT2/Java_AT2.md",
-    "02_Semester2/01_ManageClientProblems/AT1/2_TQMastersProblems.mp3",
-    "02_Semester2/01_ManageClientProblems/AT1/ICTSAS527_AT1_PE_TQM_v1.pdf",
-    "02_Semester2/01_ManageClientProblems/AT1/ManageClients_AT1.md",
+    "02_Semester2/01_ManageClientProblems/AT2_2/~$TSAS527_AT2b_W_TQM_v1_Scenario2.docx",
     "TableOfConents.md",
-    "02_Semester2/01_Java/AT2/ICTPRG547_AT2_PE_TQM_V1.pdf",
-    "02_Semester2/01_ManageClientProblems/AT2_1/ICTSAS527_AT2a_Part3_Feedback/~$UpTown_IT_Staff_Feedback_Scripts.rtf",
+    "02_Semester2/02_LeadTeam/AT3/LeadTeam_AT3.md",
+    "02_Semester2/02_LeadTeam/AT2/LeadTeam_AT2.md",
+    "03_Misc/AssessmentDates_Sem2_2024.pdf",
+    "02_Semester2/02_LeadTeam/AT3",
+    "02_Semester2/02_LeadTeam/AT1/LeadTeam_AT1.md",
+    "02_Semester2/01_ManageClientProblems/AT2_1/~WRL0004.tmp",
+    "02_Semester2/01_ManageClientProblems/AT2_1/~WRD0003.tmp",
+    "02_Semester2/01_ManageClientProblems/AT2_1/~WRD0002.tmp",
     "02_Semester2/01_ManageClientProblems/AT2_1/~$rviceLevelAgreement-SLATemplate_com.docx",
-    "02_Semester2/01_Java/AT2/ICTPRG547_AT2_Project/out/production/ICTPRG547_AT2_Project/TableModelArchive.class",
+    "02_Semester2/01_Java/AT2/ICTPRG547_ActivityAndSelectedWebLinks.pdf",
+    "02_Semester2/01_Java/AT2/ICTPRG547_AT2_Project/src/MainWindow.java~",
     "02_Semester2/01_Java/AT2/ICTPRG547_AT2_Project/out/production/ICTPRG547_AT2_Project/MainWindow.class",
-    "02_Semester2/01_Java/AT2/ICTPRG547_AT2_Project/src/TableModelArchive.java~",
-    "02_Semester2/01_Java/AT2/ICTPRG547_AT2_Project/src/TableModelArchive.java",
-    "02_Semester2/01_ManageClientProblems/AT2_1/ServiceLevelAgreement-SLATemplate_com.docx",
-    "02_Semester2/02_ImplementSecurity/AT1/IntegrateSecurity_AT1.md",
-    "02_Semester2/01_IntegrateDatabases/AT2/IntegrateDatabases_AT2.md",
-    "02_Semester2/01_IntegrateDatabases/01_Notes/ImplementingSQLConnection.md",
+    "02_Semester2/01_Java/AT2/ICTPRG547_AT2_Project/out/production/ICTPRG547_AT2_Project/MainWindow$1.class",
+    "02_Semester2/01_IntegrateDatabases/01_Notes/BuildingDatabaseWithEF.md",
     "02_Semester2/01_IntegrateDatabases/01_Notes/WebFundamentals.md",
     "02_Semester2/01_IntegrateDatabases/01_Notes/MVCOverview.md",
+    "02_Semester2/01_WebDataCluster/01_Notes/DTO.md",
+    "02_Semester2/Kanban.md",
+    "01_Semester1/_OOP/Snippets/Switch expressions.md",
+    "01_Semester1/_OOP/Snippets/Check Input Type.md",
+    "01_Semester1/_OOP/Snippets/Discard.md",
+    "01_Semester1/_OOP/Snippets/Lambda.md",
+    "01_Semester1/_OOP/Snippets/LINQ.md",
+    "01_Semester1/_OOP/Snippets/Null-coalescing.md",
     "02_Semester2/01_WebDataCluster/AT2/WebData_AT2.md",
-    "02_Semester2/01_WebDataCluster/02_NoSQL/Notes/SQLvsNoSQL.md",
-    "02_Semester2/01_WebDataCluster/AT2/WebData_AT2_1.md",
-    "02_Semester2/01_WebDataCluster/WebData_Quiz.md",
-    "02_Semester2/01_WebDataCluster/03_RESTAPI/Notes/HTTP_Methods.md",
-    "02_Semester2/01_WebDataCluster/03_RESTAPI/Notes/API_ProgrammingPatterns.md",
-    "02_Semester2/01_WebDataCluster/03_RESTAPI/Notes/Untitled 1.md",
+    "02_Semester2/01_Java/AT2/_Java_AT2.md",
     "02_Semester2/01_WebDataCluster/02_NoSQL/Notes/MongoSH.md",
     "02_Semester2/01_WebDataCluster/01_Notes/DatabaseIndexing.md",
     "02_Semester2/01_WebDataCluster/01_Notes/JSON.md",
-    "03_Misc/dotNET_MongoDB_Guide.md",
-    "03_Misc/dotNET_SQL_Guide.md",
-    "02_Semester2/01_WebDataCluster/01_Notes/NuGetPackagesForDatabaseRESTAPI.md",
-    "02_Semester2/01_WebDataCluster/02_NoSQL/Notes/MonogoDB.md",
-    "02_Semester2/01_WebDataCluster/Execises/Week1.md",
-    "02_Semester2/01_ManageClientProblems/AT2_2/ManageClients_AT2_2.md",
-    "02_Semester2/01_ManageClientProblems/_Notes/AnalyseClientRequiremets.md",
-    "Excalidraw/Drawing 2024-07-09 12.49.11.excalidraw.md",
+    "02_Semester2/01_ManageClientProblems/AT1/ManageClients_AT1.md",
+    "02_Semester2/02_ImplementSecurity/AT1/IntegrateSecurity_AT1.md",
+    "02_Semester2/01_IntegrateDatabases/AT2/IntegrateDatabases_AT2.md",
+    "02_Semester2/01_WebDataCluster/02_NoSQL/Notes/SQLvsNoSQL.md",
+    "02_Semester2/01_WebDataCluster/AT2/WebData_AT2_1.md",
     "04_Media/Pasted image 20240716041351.png",
     "04_Media/Pasted image 20240716040132.png",
     "04_Media/FlowchartArithmetic.png",

@@ -1,0 +1,34 @@
+﻿@model TypicalTechTools.Models.Comment
+
+@{
+    ViewData["Title"] = "AddComment";
+}
+
+<h1>Add a Comment for product: @Model.ProductCode.ToString()</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="AddComment">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="CommentText" class="control-label"></label>
+                <input asp-for="CommentText" class="form-control" />
+                <span asp-validation-for="CommentText" class="text-danger"></span>
+            </div>
+            @Html.HiddenFor(c => c.ProductCode)
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <!-- Redirect back to a list of all comments -->
+    @Html.ActionLink("Back to Comments", "CommentList", "Comment", new {id = Model.ProductCode})
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
