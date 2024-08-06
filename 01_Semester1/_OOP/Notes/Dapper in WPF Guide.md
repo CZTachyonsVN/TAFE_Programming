@@ -1,6 +1,3 @@
----
-noteID: 60712aa0-e749-46eb-bac4-92228ae887a8
----
 #dapper #sql #wpf #dotnet #csharp 
 ## Create a configuration file
 1. In `Solution Explorer`, right click on the namespace that will be receiving the data 

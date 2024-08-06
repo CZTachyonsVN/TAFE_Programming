@@ -35,7 +35,8 @@
     "iconsInNotesEnabled": true,
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":",
-    "debugMode": false
+    "debugMode": false,
+    "lucideIconPackType": "native"
   },
   "TableOfConents.md": "LiAlignJustify",
   "Excalidraw": "LiPaintbrush",

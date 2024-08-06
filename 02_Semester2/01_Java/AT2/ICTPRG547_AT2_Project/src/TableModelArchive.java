@@ -1,3 +1,5 @@
+import Archive.Repository;
+
 import javax.swing.table.AbstractTableModel;
 
 /**
@@ -6,8 +8,8 @@ import javax.swing.table.AbstractTableModel;
  */
 class TableModelArchive extends AbstractTableModel
 {
-	private String[] columnNames = Archive.GetColumnNames();
-	private Object[][] data = Archive.GetArchiveArray();
+	private String[] columnNames = Repository.GetColumnNames();
+	private Object[][] data = Repository.GetArchive2DArray();
 	
 	public int getColumnCount()
 	{
@@ -53,5 +55,10 @@ class TableModelArchive extends AbstractTableModel
 	{
 		data[row][col] = value;
 		fireTableCellUpdated(row, col);
+	}
+	
+	public void updateModel(){
+		data = Repository.GetArchive2DArray();
+		fireTableDataChanged();
 	}
 }

@@ -16,5 +16,6 @@
   "attachmentFolderPath": "04_Media",
   "defaultViewMode": "source",
   "livePreview": true,
-  "propertiesInDocument": "visible"
+  "propertiesInDocument": "visible",
+  "showRibbon": true
 }

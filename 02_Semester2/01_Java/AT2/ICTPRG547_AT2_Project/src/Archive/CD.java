@@ -1,3 +1,5 @@
+package Archive;
+
 import java.awt.*;
 
 public class CD extends Component
@@ -35,6 +37,22 @@ public class CD extends Component
 		catch(Exception e){
 			System.out.println(e.getMessage());
 		}
+	}
+	
+	public CD(){
+	
+	}
+	
+	public CD(CD newCD){
+		Id = newCD.getId();
+		Title = newCD.getTitle();
+		Author = newCD.getAuthor();
+		Section = newCD.getSection();
+		X = newCD.getX();
+		Y = newCD.getY();
+		Barcode = newCD.getBarcode();
+		Description = newCD.getDescription();
+		OnLoan = newCD.isOnLoan();
 	}
 
 	public CD(String[] input){
@@ -88,6 +106,17 @@ public class CD extends Component
 					Description,
 					OnLoan
 			};
+	}
+	
+	public void UpdateCD(CD data)
+	{
+		Title = data.getTitle();
+		Author = data.getAuthor();
+		Section = data.getSection();
+		X = data.getX();
+		Y = data.getY();
+		Barcode = data.getBarcode();
+		Description = data.getDescription();
 	}
 	
 	public int getId()

@@ -1,4 +1,5 @@
-import javax.swing.*;
+package Archive;
+
 import java.awt.*;
 import java.io.File;
 import java.io.IOException;
@@ -7,7 +8,7 @@ import java.util.Scanner;
 
 public class FileReader extends Component
 {
-	public CD[] ReadFile()
+	public ArrayList<CD> ReadFile()
 	{
 		ArrayList<CD> data = new ArrayList<CD>();
 		try {
@@ -26,13 +27,8 @@ public class FileReader extends Component
 		{
 			System.out.println(e.getMessage());
 		}
-		CD[] output = new CD[data.size()];
-		for (int i = 0; i < output.length; i++)
-		{
-			output[i] = data.get(i);
-		}
 		
-		return output;
+		return data;
 	}
 	
 	public void FileWriter()

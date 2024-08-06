@@ -1,4 +1,4 @@
-package CDCompatators;
+package CDComparators;
 
 import java.util.Comparator;
 

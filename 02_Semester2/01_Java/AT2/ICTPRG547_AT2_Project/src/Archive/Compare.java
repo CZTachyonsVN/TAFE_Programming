@@ -1,3 +1,5 @@
+package Archive;
+
 import java.util.Comparator;
 
 public final class Compare implements Comparator<Object>

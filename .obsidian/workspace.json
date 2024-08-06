@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Semester2/01_ManageClientProblems/AT2_2/ManageClients_AT2_2.md",
+                "file": "TableOfConents.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 411
+    "width": 307.5
   },
   "right": {
     "id": "f8cb35b841268550",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_Semester2/01_ManageClientProblems/AT2_2/ManageClients_AT2_2.md"
+                "file": "TableOfConents.md"
               }
             }
           },
@@ -119,7 +119,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02_Semester2/01_ManageClientProblems/AT2_2/ManageClients_AT2_2.md"
+                "file": "TableOfConents.md"
               }
             }
           }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_Semester2/01_ManageClientProblems/AT2_2/ManageClients_AT2_2.md",
+                "file": "TableOfConents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_Semester2/01_ManageClientProblems/AT2_2/ManageClients_AT2_2.md",
+                "file": "TableOfConents.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,37 +174,43 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "93050530c250173b",
   "lastOpenFiles": [
-    "02_Semester2/01_ManageClientProblems/AT2_2/~$TSAS527_AT2b_W_TQM_v1_Scenario2.docx",
+    "README.md",
+    "Excalidraw/Drawing 2024-07-09 12.49.11.excalidraw.md",
+    "02_Semester2/Kanban.md",
+    "03_Misc/VimMotions.md",
+    "03_Misc/AssessmentDates_Sem2_2024.pdf",
+    "02_Semester2/01_WebDataCluster/01_Notes/IndexesStorageAndThroughput.md",
+    "02_Semester2/01_WebDataCluster/TeachingContent/WebData_Week2.pdf",
+    "02_Semester2/01_WebDataCluster/02_NoSQL/Notes/DatabaseIndexing.md",
+    "02_Semester2/01_Java/AT2/ICTPRG547_AT2_Project/src/Archive/Sort.java~",
+    "02_Semester2/01_Java/AT2/ICTPRG547_AT2_Project/src/Archive/Repository.java~",
+    "02_Semester2/01_Java/AT2/ICTPRG547_AT2_Project/out/production/ICTPRG547_AT2_Project/Archive/Sort.class",
+    "02_Semester2/01_Java/AT2/ICTPRG547_AT2_Project/out/production/ICTPRG547_AT2_Project/CDComparators/TitleComparator.class",
+    "02_Semester2/01_Java/AT2/ICTPRG547_AT2_Project/out/production/ICTPRG547_AT2_Project/CDComparators/AuthorComparator.class",
+    "02_Semester2/01_Java/AT2/ICTPRG547_AT2_Project/out/production/ICTPRG547_AT2_Project/CDComparators",
+    "02_Semester2/01_Java/AT2/ICTPRG547_AT2_Project/out/production/ICTPRG547_AT2_Project/Archive/Compare.class",
+    "02_Semester2/01_Java/AT2/ICTPRG547_AT2_Project/src/CDComparators/AuthorComparator.java~",
+    "02_Semester2/01_WebDataCluster/AT2/WebData_AT2_1.md",
     "TableOfConents.md",
+    "02_Semester2/01_ManageClientProblems/AT2_2/ManageClients_AT2_2.md",
     "02_Semester2/02_LeadTeam/AT3/LeadTeam_AT3.md",
     "02_Semester2/02_LeadTeam/AT2/LeadTeam_AT2.md",
-    "03_Misc/AssessmentDates_Sem2_2024.pdf",
-    "02_Semester2/02_LeadTeam/AT3",
     "02_Semester2/02_LeadTeam/AT1/LeadTeam_AT1.md",
-    "02_Semester2/01_ManageClientProblems/AT2_1/~WRL0004.tmp",
-    "02_Semester2/01_ManageClientProblems/AT2_1/~WRD0003.tmp",
-    "02_Semester2/01_ManageClientProblems/AT2_1/~WRD0002.tmp",
-    "02_Semester2/01_ManageClientProblems/AT2_1/~$rviceLevelAgreement-SLATemplate_com.docx",
-    "02_Semester2/01_Java/AT2/ICTPRG547_ActivityAndSelectedWebLinks.pdf",
-    "02_Semester2/01_Java/AT2/ICTPRG547_AT2_Project/src/MainWindow.java~",
-    "02_Semester2/01_Java/AT2/ICTPRG547_AT2_Project/out/production/ICTPRG547_AT2_Project/MainWindow.class",
-    "02_Semester2/01_Java/AT2/ICTPRG547_AT2_Project/out/production/ICTPRG547_AT2_Project/MainWindow$1.class",
     "02_Semester2/01_IntegrateDatabases/01_Notes/BuildingDatabaseWithEF.md",
     "02_Semester2/01_IntegrateDatabases/01_Notes/WebFundamentals.md",
     "02_Semester2/01_IntegrateDatabases/01_Notes/MVCOverview.md",
     "02_Semester2/01_WebDataCluster/01_Notes/DTO.md",
-    "02_Semester2/Kanban.md",
     "01_Semester1/_OOP/Snippets/Switch expressions.md",
     "01_Semester1/_OOP/Snippets/Check Input Type.md",
     "01_Semester1/_OOP/Snippets/Discard.md",
@@ -215,12 +221,6 @@
     "02_Semester2/01_Java/AT2/_Java_AT2.md",
     "02_Semester2/01_WebDataCluster/02_NoSQL/Notes/MongoSH.md",
     "02_Semester2/01_WebDataCluster/01_Notes/DatabaseIndexing.md",
-    "02_Semester2/01_WebDataCluster/01_Notes/JSON.md",
-    "02_Semester2/01_ManageClientProblems/AT1/ManageClients_AT1.md",
-    "02_Semester2/02_ImplementSecurity/AT1/IntegrateSecurity_AT1.md",
-    "02_Semester2/01_IntegrateDatabases/AT2/IntegrateDatabases_AT2.md",
-    "02_Semester2/01_WebDataCluster/02_NoSQL/Notes/SQLvsNoSQL.md",
-    "02_Semester2/01_WebDataCluster/AT2/WebData_AT2_1.md",
     "04_Media/Pasted image 20240716041351.png",
     "04_Media/Pasted image 20240716040132.png",
     "04_Media/FlowchartArithmetic.png",

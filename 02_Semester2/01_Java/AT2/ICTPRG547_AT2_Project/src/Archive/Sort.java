@@ -1,23 +1,28 @@
-import Archive.CD;
+package Archive;
 
 public final class Sort
 {
-// Source: https://www.geeksforgeeks.org/insertion-sort-algorithm/
+// Source:
     public static CD[] QuickSortThree(CD[] input, int low, int high)
     {
         if (low >= 0 && low < high){
+            // Pivot value
             CD pivot = input[(low+high)/2];
+            // Lesser, equal and greater index
             int lessThan = low;
             int equals = low;
             int greatThan = high;
             
+            //Divides array into three partitions
             while (equals <= greatThan){
+                // Swap the elements at the equal and lesser indices
                 if (new Compare().compare(input[equals].getAuthor(), pivot.getAuthor()) < 0)
                 {
                     Swap(input,equals,lessThan);
                     lessThan++;
                     equals++;
                 }
+                // Swap the elements at the equal and greater indices
                 else if (new Compare().compare(input[equals].getAuthor(), pivot.getAuthor()) > 0)
                 {
                     Swap(input, equals,greatThan);
@@ -28,8 +33,9 @@ public final class Sort
                     equals++;
                 }
             }
-            
+            //Repeat quicksort on the lower partition
             QuickSortThree(input,low,lessThan - 1);
+            //Repeat quicksort on the higher partition
             QuickSortThree(input,greatThan + 1, high);
         }
         return input;

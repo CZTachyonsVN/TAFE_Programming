@@ -1,10 +1,9 @@
 [
-  "custom-note-width",
   "wikilinks-to-mdlinks-obsidian",
-  "obsidian-kanban",
-  "obsidian-excalidraw-plugin",
   "obsidian-style-settings",
-  "dataview",
+  "obsidian-kanban",
+  "obsidian-icon-folder",
+  "obsidian-excalidraw-plugin",
   "obsidian-tasks-plugin",
-  "obsidian-icon-folder"
+  "dataview"
 ]

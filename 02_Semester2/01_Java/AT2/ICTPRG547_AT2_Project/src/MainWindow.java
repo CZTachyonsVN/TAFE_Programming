@@ -1,12 +1,13 @@
-//import java.awt.event.ActionListener;
-//import java.awt.event.WindowAdapter;
-//import java.awt.event.WindowEvent;
-//import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+import java.awt.event.ActionEvent;
+import Archive.Repository;
+import Archive.CD;
+import Archive.Sort;
+
 import javax.swing.*;
 import javax.swing.event.ListSelectionEvent;
 import javax.swing.event.ListSelectionListener;
 import javax.swing.table.TableModel;
-import java.awt.event.*;
 
 public class MainWindow extends JFrame implements ActionListener
 {
@@ -79,11 +80,11 @@ public class MainWindow extends JFrame implements ActionListener
 	private JButton btnExit;
 	private ListSelectionModel selectionModel;
 	private TableModelArchive archiveModel;
-
+	private int selectedCD_Id;
 
 	public MainWindow(){
-//		layout = new SpringLayout();
-//		setLayout(layout);
+		layout = new SpringLayout();
+		setLayout(layout);
 		setTitle("ArchiveConsole");
 		setSize(1200,800);
 		setResizable(false);
@@ -97,10 +98,19 @@ public class MainWindow extends JFrame implements ActionListener
 		//Set wrapping style for Description JTextArea
 		txtAreaDescription.setWrapStyleWord(true);
 		txtFieldId.setEnabled(false);
-//		scrlPaneArchive.getColumnHeader().setVisible(false);
+		archiveModel = (TableModelArchive)tblArchive.getModel();
+		setContentPane(pnlContent);
+		
+		AddActionListenerToButtons();
+		
+		
+		setVisible(true);
+	}
+
+	private void AddActionListenerToButtons(){
 		/**
 		 * Source: https://docs.oracle.com/javase/tutorial/displayCode.html?code=https://docs.oracle.com/javase/tutorial/uiswing/examples/components/SimpleTableSelectionDemoProject/src/components/SimpleTableSelectionDemo.java
-		 * Listens to changes in selected rows of the Archive JTable
+		 * Listens to changes in selected rows of the Archive.Archive JTable
 		 */
 		selectionModel.addListSelectionListener(new ListSelectionListener()
 		{
@@ -108,7 +118,7 @@ public class MainWindow extends JFrame implements ActionListener
 			public void valueChanged(ListSelectionEvent e)
 			{
 				if (e.getValueIsAdjusting()) return;
-
+				
 				ListSelectionModel lsm = (ListSelectionModel)e.getSource();
 				if (lsm.isSelectionEmpty())
 				{
@@ -116,40 +126,93 @@ public class MainWindow extends JFrame implements ActionListener
 				} else
 				{
 					int selectedRow = lsm.getMinSelectionIndex();
-					System.out.println("Row " + selectedRow + " of Archive JTable is now selected.");
+					System.out.println("Row " + selectedRow + " of Archive.Archive JTable is now selected.");
 					ShowCDDetail(tblArchive, selectedRow);
 				}
 			}
 		});
-
-//		tblArchive.addMouseListener(new MouseAdapter()
-//		{
-//			public void mouseClicked(MouseEvent e)
-//			{
-//			}
-//		});
-
-		setContentPane(pnlContent);
-		setVisible(true);
-		int[] a = {1,2};
-		swap(a);
-		System.out.println(a[0] + " "+ a[1]);
+		
+		btnSaveUpdate.addActionListener(new ActionListener()
+		{
+			@Override
+			public void actionPerformed(ActionEvent e)
+			{
+				if (ValidateForm())
+				{
+					
+					CD updatedData = new CD();
+					updatedData.setId(Integer.parseInt(txtFieldId.getText()));
+					updatedData.setTitle(txtFieldTitle.getText());
+					updatedData.setAuthor(txtFieldAuthor.getText());
+					updatedData.setSection(txtFieldSection.getText().toUpperCase().charAt(0));
+					updatedData.setX(Integer.parseInt(txtFieldX.getText()));
+					updatedData.setY(Integer.parseInt(txtFieldY.getText()));
+					updatedData.setBarcode(Integer.parseInt(txtFieldBarCode.getText()));
+					updatedData.setDescription(txtAreaDescription.getText());
+					
+					Repository.UpdateCDById(selectedCD_Id, updatedData);
+					archiveModel.updateModel();
+				}
+			}
+		});
+		
+		btnByAuthor.addActionListener(new ActionListener()
+		{
+			@Override
+			public void actionPerformed(ActionEvent e)
+			{
+				Repository.SortByAuthor();
+				archiveModel.updateModel();
+			}
+		});
+	}
+	public boolean ValidateForm(){
+		boolean isValid = false;
+		if (!txtFieldId.getText().isEmpty())
+		{
+			try
+			{
+				Integer.parseInt(txtFieldBarCode.getText());
+				Integer.parseInt(txtFieldX.getText());
+				Integer.parseInt(txtFieldY.getText());
+				isValid = true;
+				if (Character.isAlphabetic(txtFieldSection.getText().charAt(0)) && !txtFieldTitle.getText().isEmpty() && !txtFieldAuthor.getText().isEmpty() && !txtAreaDescription.getText().isEmpty())
+				{
+					isValid = true;
+					if (JOptionPane.showConfirmDialog(this,"Confirm the changes to the archive",
+							"Warning", JOptionPane.YES_NO_OPTION, JOptionPane.WARNING_MESSAGE) == 0)
+					{
+						isValid = true;
+					}
+					else
+					{
+						isValid = false;
+					}
+				} else
+				{
+					isValid = false;
+				}
+			} catch (Exception e)
+			{
+				JOptionPane.showMessageDialog(this, "The form is not filled in correctly. Please " + "double check your inputs.");
+			}
+		}
+		else
+		{
+			JOptionPane.showMessageDialog(this, "Select a CD from the archive table");
+		}
+		return isValid;
 	}
 	
-	public void swap(int[] arr){
-		int temp = arr[0];
-		arr[0] = arr[1];
-		arr[1] = temp;
-	}
-
 	/**
-	 * Fills in the CD Details form when user selects a row in the Archive JTable
+	 * Fills in the Archive.CD Details form when user selects a row in the Archive.Archive JTable
 	 * @param table current Jtable to pass the model
 	 * @param row selected row
 	 */
 	public void ShowCDDetail(JTable table, int row)
 	{
 		TableModel model = table.getModel();
+		selectedCD_Id = Integer.parseInt(model.getValueAt(row,0).toString());
 		txtFieldId.setText(String.valueOf(model.getValueAt(row,0)));
 		txtFieldTitle.setText(String.valueOf(model.getValueAt(row,1)));
 		txtFieldAuthor.setText(String.valueOf(model.getValueAt(row,2)));
@@ -159,93 +222,15 @@ public class MainWindow extends JFrame implements ActionListener
 		txtFieldBarCode.setText(String.valueOf(model.getValueAt(row,6)));
 		txtAreaDescription.setText(String.valueOf(model.getValueAt(row,7)));
 	}
-
+	
 	/**
-	 * Invoked when a button click occurs.
+	 * Invoked when an action occurs.
+	 *
 	 * @param e the event to be processed
 	 */
 	@Override
 	public void actionPerformed(ActionEvent e)
 	{
-		if (e.getSource() == btnSearchString)
-		{
-
-		}
-		if (e.getSource() == btnByTitle)
-		{
-			archiveModel.fireTableDataChanged();
-		}
-		if (e.getSource() == btnByAuthor)
-		{
-
-		}
-		if (e.getSource() == btnByBarcode)
-		{
-
-		}
-		if (e.getSource() == btnNewItem)
-		{
-
-		}
-		if (e.getSource() == btnSaveUpdate)
-		{
-
-		}
-		if (e.getSource() == btnProcessLog)
-		{
-
-		}
-		if (e.getSource() == btnBinaryTreePreOrder)
-		{
-
-		}
-		if (e.getSource() == btnBinaryTreeInOrder)
-		{
-
-		}
-		if (e.getSource() == btnBinaryTreePostOrder)
-		{
-
-		}
-		if (e.getSource() == btnBinaryTreeGraphical)
-		{
-
-		}
-		if (e.getSource() == btnHashSave)
-		{
-
-		}
-		if (e.getSource() == btnHashDisplay)
-		{
-
-		}
-		if (e.getSource() == btnRetrieve)
-		{
-
-		}
-		if (e.getSource() == btnRemove)
-		{
-
-		}
-		if (e.getSource() == btnReturn)
-		{
-
-		}
-		if (e.getSource() == btnAddToCollection)
-		{
-
-		}
-		if (e.getSource() == btnSortRandomCollection)
-		{
-
-		}
-		if (e.getSource() == btnSortMostly)
-		{
-
-		}
-		if (e.getSource() == btnSortReverseOrder)
-		{
-
-		}
+	
 	}
 }
