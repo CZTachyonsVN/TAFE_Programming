@@ -8,7 +8,8 @@ sort cluster, unit, week, file.cday
 ```
 ## **Assessments**
 ```dataview
-TABLE rows.file.link as "Assessment", duedate - date(today) as "Remaining time"
+TABLE rows.file.link as "Assessment", duedate - date(today) as "Remaining time", choice(rows.isFinished,
+"☑", "☐") as Finished
 FROM #assessment  
 WHERE contains(file.folder, "Semester2")
 group by duedate

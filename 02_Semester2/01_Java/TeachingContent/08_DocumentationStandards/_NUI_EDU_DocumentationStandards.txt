@@ -1,0 +1,85 @@
+
+
+Link:  http://faculty.cs.niu.edu/~mcmahon/CS241/c241man/node6.html
+
+
+
+Code and Documentation Standards:
+
+Documentation is designed to explain what is being accomplished in the program in English, not code, so that anyone can pick up the program and be able to understand what is being done.
+
+The main function must have a documentation box containing the following information:
+
+/****************************************************************
+   PROGRAM:   program name
+   AUTHOR:    your name
+   LOGON ID:  Z??????  (your Z number here)
+   DUE DATE:  due date of program
+
+   FUNCTION:  a short paragraph stating the purpose of the
+              program.
+
+   INPUT:     location of input, i.e.  standard input, a file on
+              disk
+
+   OUTPUT:    location and type of output, i.e.  a report
+              containing a detail record for each city processed
+              containing city id, Celsius temperature, Fahrenheit
+              temperature and wind chill temperature.
+
+   NOTES:     any relevant information that would be of
+              additional help to someone looking at the program.
+****************************************************************/
+
+Each additional function must be documented. Each function must have a documentation box containing:
+
+/****************************************************************
+
+   FUNCTION:   function prototype statement
+
+   ARGUMENTS:  a list of argument names and a short description
+
+   RETURNS:    what the function returns
+
+   NOTES:      a short paragraph stating what the function does
+****************************************************************/
+
+Each variable that is defined must be documented by stating the purpose of the variable.
+
+int cnt,                    /* line counter             */
+    sub,                    /* subscript                */
+    tot_scr;                /* accumulator for scores   */
+
+Place variable definitions in columnar form to allow for orderly definitions and descriptions.
+
+Logical groupings of code must be explained with line documentation. For example, an if statement should be preceded by a sentence describing what is being done with the selection construct.
+
+/* if the array element is smaller than the current key save the
+   current subscript */
+
+if (array\_element[sub] < current\_key)
+   min\_sub = sub;
+
+Header files should be documented with a documentation box containing the following information:
+
+/****************************************************************
+   FILE:      file name
+   AUTHOR:    your name
+   LOGON ID:  Z??????  (your Z number here)
+   DUE DATE:  due date of program
+
+   PURPOSE:   a short description of the resources found in the 
+              header file.
+****************************************************************/
+
+Makefiles should also have a bit of documentation:
+
+#
+#  PROGRAM:   program name
+#  AUTHOR:    your name
+#  LOGON ID:  Z??????   (your Z number here)
+#  DUE DATE:  due date of program
+#
+
+
+Kirk L. Duffin 2007-08-27

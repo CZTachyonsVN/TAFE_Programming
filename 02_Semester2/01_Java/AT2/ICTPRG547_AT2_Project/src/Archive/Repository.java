@@ -6,7 +6,7 @@ import java.util.Arrays;
 public final class Repository
 {
 	private static ArrayList<CD> CDs;
-	private static FileReader fileReader = new FileReader();
+	private static final FileReader fileReader = new FileReader();
 	
 	private static void NewArchive()
 	{
@@ -57,6 +57,11 @@ public final class Repository
 		return output;
 	}
 	
+	public static CD GetCDByBarcode(int barcode)
+	{
+		return CDs.stream().filter(cd -> cd.getBarcode() == barcode).findFirst().orElse(null);
+	}
+	
 	public static CD[] GetArchiveArray(){
 		if (CDs == null)
 		{
@@ -80,8 +85,21 @@ public final class Repository
 		updatedCD.UpdateCD(newData);
 	}
 	
-	public static void SortByAuthor(){
+	public static void SortByAuthor()
+	{
 		CD[] sortedCDs = Sort.QuickSortThree(GetArchiveArray(),0,CDs.size() - 1);
+		CDs = new ArrayList<>(Arrays.asList(sortedCDs));
+	}
+	
+	public static void SortByTitle()
+	{
+		CD[] sortedCDs = Sort.MergeSort(GetArchiveArray());
+		CDs = new ArrayList<>(Arrays.asList(sortedCDs));
+	}
+	
+	public static void SortByBarcode()
+	{
+		CD[] sortedCDs = Sort.RadixSort(GetArchiveArray());
 		CDs = new ArrayList<>(Arrays.asList(sortedCDs));
 	}
 }

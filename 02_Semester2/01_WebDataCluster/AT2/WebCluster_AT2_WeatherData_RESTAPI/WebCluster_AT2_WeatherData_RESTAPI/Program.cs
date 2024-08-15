@@ -17,6 +17,17 @@ builder.Services.AddScoped<MongoConnectionBuilder>();
 
 #endregion
 
+// Add CORS policies
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("Google", p =>
+    {
+        p.WithOrigins("https://www.google.com", "https://www.google.com.au");
+        p.AllowAnyHeader();
+        p.WithMethods("GET", "POST", "PUT", "PATCH", "DELETE");
+    });
+});
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -29,6 +40,9 @@ if (app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
+
+//apply specific CORS policies
+app.UseCors("Google");
 
 app.MapControllers();
 

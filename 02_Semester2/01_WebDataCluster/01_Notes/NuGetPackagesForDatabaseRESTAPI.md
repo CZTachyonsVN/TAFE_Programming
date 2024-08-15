@@ -1,6 +1,9 @@
 ---
 tags:
   - notes
+  - "#mongodb"
+  - "#nuget"
+  - "#dotnet"
 cluster: WebData
 unit: RESTAPI
 semester: 2

@@ -28,7 +28,7 @@ duedate: 2024-09-13
 - [ ] Administrators can create a new user account with a specified level of access
 - [ ] Insert multiple sensor readings for single station
 - [ ] Find the maximum precipitation recorded in the last 5 Months for a specific sensor, returning the sensor name, reading date / time and the precipitation value
-- [ ] Find the temperature, atmospheric pressure, radiation, and precipitation recorded by a specific station at a given date and time
+- [ ] Find the temperature, atmospheric pressure, radiation, and precipitation recorded by a specific sensor at a given date and time
 - [ ] Find the maximum Temp(C) recorded for all stations for a given Date / Time range (start and finish date) returning the Sensor Name, reading date / time and the Temperature value
 - [ ] Create a query that includes an index key
 - [ ] Delete a user by ID
@@ -39,3 +39,11 @@ duedate: 2024-09-13
 100 students
 10 queries per student per day
 2 collections per query
+# Common readings queries:
+Precipitation, time, sensor
+Temperature, pressure, radiation precipitation, sensor, time
+temp, time
+
+time desc precip desc
+time asc
+time temp desc

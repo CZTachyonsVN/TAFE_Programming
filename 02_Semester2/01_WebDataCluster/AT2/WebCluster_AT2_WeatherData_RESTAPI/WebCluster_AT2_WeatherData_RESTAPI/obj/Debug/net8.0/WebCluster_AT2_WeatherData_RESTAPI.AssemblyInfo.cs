@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebCluster_AT2_WeatherData_RESTAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b7e6c158ffb7aa402269490f6f96526b459c477")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9729c0c1d5e166aaf4da7fe7b46ff02acbc8c4cf")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebCluster_AT2_WeatherData_RESTAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebCluster_AT2_WeatherData_RESTAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

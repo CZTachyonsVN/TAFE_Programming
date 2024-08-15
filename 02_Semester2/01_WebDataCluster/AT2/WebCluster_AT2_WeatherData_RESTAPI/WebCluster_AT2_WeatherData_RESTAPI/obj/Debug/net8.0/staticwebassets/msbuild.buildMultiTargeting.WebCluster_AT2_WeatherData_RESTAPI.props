@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebCluster_AT2_WeatherData_RESTAPI.props" />
+</Project>

@@ -8,7 +8,7 @@ import javax.swing.table.AbstractTableModel;
  */
 class TableModelArchive extends AbstractTableModel
 {
-	private String[] columnNames = Repository.GetColumnNames();
+	private final String[] columnNames = Repository.GetColumnNames();
 	private Object[][] data = Repository.GetArchive2DArray();
 	
 	public int getColumnCount()

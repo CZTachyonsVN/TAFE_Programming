@@ -3,7 +3,7 @@
   "alwaysUpdateLinks": true,
   "strictLineBreaks": true,
   "pdfExportSettings": {
-    "includeName": true,
+    "includeName": false,
     "pageSize": "Tabloid",
     "landscape": false,
     "margin": "0",
@@ -17,5 +17,6 @@
   "defaultViewMode": "source",
   "livePreview": true,
   "propertiesInDocument": "visible",
-  "showRibbon": true
+  "showRibbon": true,
+  "vimMode": true
 }

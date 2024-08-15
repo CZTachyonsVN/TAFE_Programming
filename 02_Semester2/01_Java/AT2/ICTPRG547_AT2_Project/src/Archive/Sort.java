@@ -1,5 +1,7 @@
 package Archive;
 
+import java.util.Arrays;
+
 public final class Sort
 {
 // Source:
@@ -43,17 +45,62 @@ public final class Sort
 // Source:https://www.geeksforgeeks.org/merge-sort/
     public static CD[] MergeSort(CD[] input)
     {
-        
         //TODO: Implement MergeSort
         return input;
     }
     
-// Source:https://www.geeksforgeeks.org/insertion-sort-algorithm/
-    public static CD[] InsertSort(CD[] input)
+// Source:
+    public static CD[] RadixSort(CD[] archive)
     {
-
-        //TODO: Implement InsertSort
-        return input;
+        int[] arr = new int[archive.length];
+        for (int i = 0; i < arr.length; i++)
+        {
+            arr[i] = archive[i].getBarcode();
+        }
+        
+        int[] sortedBarcodes = new int[arr.length];
+        int highest = arr[0];
+        for (int i = 0; i < arr.length; i++)
+        {
+            if(arr[i] > highest)
+            {
+                highest = arr[i];
+            }
+        }
+        
+        for (int exp = 1; highest/exp > 0; exp *= 10)
+        {
+            int i;
+            int[] count = new int[10];
+            Arrays.fill(count, 0);
+            
+            for (i = 0; i < arr.length; i++)
+            {
+                count[(arr[i]/ exp) % 10]++;
+            }
+            
+            for (i = 1; i < 10; i++)
+            {
+                count[i] += count[i - 1];
+            }
+            
+            for (i = arr.length - 1; i >= 0; i--) {
+                sortedBarcodes[count[(arr[i] / exp) % 10] - 1] = arr[i];
+                count[(arr[i] / exp) % 10]--;
+            }
+            for (i = 0; i < sortedBarcodes.length; i++)
+            {
+                arr[i] = sortedBarcodes[i];
+            }
+        }
+        
+        CD[] output = new CD[archive.length];
+        for (int i = 0; i < archive.length; i++)
+        {
+            output[i] = new CD(Repository.GetCDByBarcode(sortedBarcodes[i]));
+        }
+        
+        return output;
     }
     
     public static void Swap(CD[] array, int a, int b){

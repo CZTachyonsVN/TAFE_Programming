@@ -1,0 +1,16 @@
+
+Linked LIst in Java 2 (New Think Tank)
+
+https://www.newthinktank.com/2013/03/linked-list-in-java-2/
+
+
+Doubly Linked List | Insert, Delete, Complexity Analysis:
+
+https://www.youtube.com/watch?v=ZlNKNSz88Nk
+
+
+Linked Lists:
+
+https://www.youtube.com/watch?v=_jQhALI4ujg
+
+

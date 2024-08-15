@@ -1,0 +1,17 @@
+
+Hashmap / Hashset / Hash Table - Hashing Algorithms:
+
+- https://www.andrew.cmu.edu/course/15-121/lectures/Hashing/hashing.html
+
+- https://www.geeksforgeeks.org/hashing-data-structure/
+
+- https://www.section.io/engineering-education/hashing-in-data-structures/
+
+- https://1ykos.github.io/patchmap/
+
+
+
+
+
+
+

@@ -25,3 +25,10 @@ Build a prototype
 - Important to come to class
 - Group task: documentation
 - Charts (IPO, TOE) need to reasonably reflect the final product
+- When automation action starts, add a process log.
+	- current date and time
+	- API call
+	- action name
+	- Barcode
+## Binary Tree
+| left || Key | Title || right|

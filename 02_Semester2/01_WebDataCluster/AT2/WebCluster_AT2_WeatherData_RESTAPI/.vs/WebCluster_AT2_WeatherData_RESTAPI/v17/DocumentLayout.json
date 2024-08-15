@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "D:\\TAFEProgramming\\GitRepo\\TAFE_Programming\\02_Semester2\\01_WebDataCluster\\AT2\\WebCluster_AT2_WeatherData_RESTAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6ABD5216-BF07-4B4C-9106-DC9E55056AB4}|WebCluster_AT2_WeatherData_RESTAPI\\WebCluster_AT2_WeatherData_RESTAPI.csproj|d:\\tafeprogramming\\gitrepo\\tafe_programming\\02_semester2\\01_webdatacluster\\at2\\webcluster_at2_weatherdata_restapi\\webcluster_at2_weatherdata_restapi\\data\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6ABD5216-BF07-4B4C-9106-DC9E55056AB4}|WebCluster_AT2_WeatherData_RESTAPI\\WebCluster_AT2_WeatherData_RESTAPI.csproj|solutionrelative:webcluster_at2_weatherdata_restapi\\data\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6ABD5216-BF07-4B4C-9106-DC9E55056AB4}|WebCluster_AT2_WeatherData_RESTAPI\\WebCluster_AT2_WeatherData_RESTAPI.csproj|d:\\tafeprogramming\\gitrepo\\tafe_programming\\02_semester2\\01_webdatacluster\\at2\\webcluster_at2_weatherdata_restapi\\webcluster_at2_weatherdata_restapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6ABD5216-BF07-4B4C-9106-DC9E55056AB4}|WebCluster_AT2_WeatherData_RESTAPI\\WebCluster_AT2_WeatherData_RESTAPI.csproj|solutionrelative:webcluster_at2_weatherdata_restapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6ABD5216-BF07-4B4C-9106-DC9E55056AB4}|WebCluster_AT2_WeatherData_RESTAPI\\WebCluster_AT2_WeatherData_RESTAPI.csproj|d:\\tafeprogramming\\gitrepo\\tafe_programming\\02_semester2\\01_webdatacluster\\at2\\webcluster_at2_weatherdata_restapi\\webcluster_at2_weatherdata_restapi\\data\\repositories\\readingsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6ABD5216-BF07-4B4C-9106-DC9E55056AB4}|WebCluster_AT2_WeatherData_RESTAPI\\WebCluster_AT2_WeatherData_RESTAPI.csproj|solutionrelative:webcluster_at2_weatherdata_restapi\\data\\repositories\\readingsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6ABD5216-BF07-4B4C-9106-DC9E55056AB4}|WebCluster_AT2_WeatherData_RESTAPI\\WebCluster_AT2_WeatherData_RESTAPI.csproj|d:\\tafeprogramming\\gitrepo\\tafe_programming\\02_semester2\\01_webdatacluster\\at2\\webcluster_at2_weatherdata_restapi\\webcluster_at2_weatherdata_restapi\\properties\\readingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ABD5216-BF07-4B4C-9106-DC9E55056AB4}|WebCluster_AT2_WeatherData_RESTAPI\\WebCluster_AT2_WeatherData_RESTAPI.csproj|solutionrelative:webcluster_at2_weatherdata_restapi\\properties\\readingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6ABD5216-BF07-4B4C-9106-DC9E55056AB4}|WebCluster_AT2_WeatherData_RESTAPI\\WebCluster_AT2_WeatherData_RESTAPI.csproj|d:\\tafeprogramming\\gitrepo\\tafe_programming\\02_semester2\\01_webdatacluster\\at2\\webcluster_at2_weatherdata_restapi\\webcluster_at2_weatherdata_restapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6ABD5216-BF07-4B4C-9106-DC9E55056AB4}|WebCluster_AT2_WeatherData_RESTAPI\\WebCluster_AT2_WeatherData_RESTAPI.csproj|solutionrelative:webcluster_at2_weatherdata_restapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6ABD5216-BF07-4B4C-9106-DC9E55056AB4}|WebCluster_AT2_WeatherData_RESTAPI\\WebCluster_AT2_WeatherData_RESTAPI.csproj|d:\\tafeprogramming\\gitrepo\\tafe_programming\\02_semester2\\01_webdatacluster\\at2\\webcluster_at2_weatherdata_restapi\\webcluster_at2_weatherdata_restapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6ABD5216-BF07-4B4C-9106-DC9E55056AB4}|WebCluster_AT2_WeatherData_RESTAPI\\WebCluster_AT2_WeatherData_RESTAPI.csproj|solutionrelative:webcluster_at2_weatherdata_restapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABD5216-BF07-4B4C-9106-DC9E55056AB4}|WebCluster_AT2_WeatherData_RESTAPI\\WebCluster_AT2_WeatherData_RESTAPI.csproj|d:\\tafeprogramming\\gitrepo\\tafe_programming\\02_semester2\\01_webdatacluster\\at2\\webcluster_at2_weatherdata_restapi\\webcluster_at2_weatherdata_restapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6ABD5216-BF07-4B4C-9106-DC9E55056AB4}|WebCluster_AT2_WeatherData_RESTAPI\\WebCluster_AT2_WeatherData_RESTAPI.csproj|solutionrelative:webcluster_at2_weatherdata_restapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABD5216-BF07-4B4C-9106-DC9E55056AB4}|WebCluster_AT2_WeatherData_RESTAPI\\WebCluster_AT2_WeatherData_RESTAPI.csproj|d:\\tafeprogramming\\gitrepo\\tafe_programming\\02_semester2\\01_webdatacluster\\at2\\webcluster_at2_weatherdata_restapi\\webcluster_at2_weatherdata_restapi\\data\\repositories\\readingsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ABD5216-BF07-4B4C-9106-DC9E55056AB4}|WebCluster_AT2_WeatherData_RESTAPI\\WebCluster_AT2_WeatherData_RESTAPI.csproj|solutionrelative:webcluster_at2_weatherdata_restapi\\data\\repositories\\readingsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6ABD5216-BF07-4B4C-9106-DC9E55056AB4}|WebCluster_AT2_WeatherData_RESTAPI\\WebCluster_AT2_WeatherData_RESTAPI.csproj|d:\\tafeprogramming\\gitrepo\\tafe_programming\\02_semester2\\01_webdatacluster\\at2\\webcluster_at2_weatherdata_restapi\\webcluster_at2_weatherdata_restapi\\data\\repositories\\ireadingsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,16 +35,28 @@
       "RelativeMoniker": "D:0:0:{6ABD5216-BF07-4B4C-9106-DC9E55056AB4}|WebCluster_AT2_WeatherData_RESTAPI\\WebCluster_AT2_WeatherData_RESTAPI.csproj|solutionrelative:webcluster_at2_weatherdata_restapi\\data\\mongoconnectionbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6ABD5216-BF07-4B4C-9106-DC9E55056AB4}|WebCluster_AT2_WeatherData_RESTAPI\\WebCluster_AT2_WeatherData_RESTAPI.csproj|d:\\tafeprogramming\\gitrepo\\tafe_programming\\02_semester2\\01_webdatacluster\\at2\\webcluster_at2_weatherdata_restapi\\webcluster_at2_weatherdata_restapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6ABD5216-BF07-4B4C-9106-DC9E55056AB4}|WebCluster_AT2_WeatherData_RESTAPI\\WebCluster_AT2_WeatherData_RESTAPI.csproj|solutionrelative:webcluster_at2_weatherdata_restapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{6ABD5216-BF07-4B4C-9106-DC9E55056AB4}|WebCluster_AT2_WeatherData_RESTAPI\\WebCluster_AT2_WeatherData_RESTAPI.csproj|d:\\tafeprogramming\\gitrepo\\tafe_programming\\02_semester2\\01_webdatacluster\\at2\\webcluster_at2_weatherdata_restapi\\webcluster_at2_weatherdata_restapi\\data\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ABD5216-BF07-4B4C-9106-DC9E55056AB4}|WebCluster_AT2_WeatherData_RESTAPI\\WebCluster_AT2_WeatherData_RESTAPI.csproj|solutionrelative:webcluster_at2_weatherdata_restapi\\data\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6ABD5216-BF07-4B4C-9106-DC9E55056AB4}|WebCluster_AT2_WeatherData_RESTAPI\\WebCluster_AT2_WeatherData_RESTAPI.csproj|d:\\tafeprogramming\\gitrepo\\tafe_programming\\02_semester2\\01_webdatacluster\\at2\\webcluster_at2_weatherdata_restapi\\webcluster_at2_weatherdata_restapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6ABD5216-BF07-4B4C-9106-DC9E55056AB4}|WebCluster_AT2_WeatherData_RESTAPI\\WebCluster_AT2_WeatherData_RESTAPI.csproj|solutionrelative:webcluster_at2_weatherdata_restapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{6ABD5216-BF07-4B4C-9106-DC9E55056AB4}|WebCluster_AT2_WeatherData_RESTAPI\\WebCluster_AT2_WeatherData_RESTAPI.csproj|d:\\tafeprogramming\\gitrepo\\tafe_programming\\02_semester2\\01_webdatacluster\\at2\\webcluster_at2_weatherdata_restapi\\webcluster_at2_weatherdata_restapi\\models\\dtos\\maxpercipitationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ABD5216-BF07-4B4C-9106-DC9E55056AB4}|WebCluster_AT2_WeatherData_RESTAPI\\WebCluster_AT2_WeatherData_RESTAPI.csproj|solutionrelative:webcluster_at2_weatherdata_restapi\\models\\dtos\\maxpercipitationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABD5216-BF07-4B4C-9106-DC9E55056AB4}|WebCluster_AT2_WeatherData_RESTAPI\\WebCluster_AT2_WeatherData_RESTAPI.csproj|d:\\tafeprogramming\\gitrepo\\tafe_programming\\02_semester2\\01_webdatacluster\\at2\\webcluster_at2_weatherdata_restapi\\webcluster_at2_weatherdata_restapi\\models\\dtos\\maxtemperaturedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ABD5216-BF07-4B4C-9106-DC9E55056AB4}|WebCluster_AT2_WeatherData_RESTAPI\\WebCluster_AT2_WeatherData_RESTAPI.csproj|solutionrelative:webcluster_at2_weatherdata_restapi\\models\\dtos\\maxtemperaturedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABD5216-BF07-4B4C-9106-DC9E55056AB4}|WebCluster_AT2_WeatherData_RESTAPI\\WebCluster_AT2_WeatherData_RESTAPI.csproj|d:\\tafeprogramming\\gitrepo\\tafe_programming\\02_semester2\\01_webdatacluster\\at2\\webcluster_at2_weatherdata_restapi\\webcluster_at2_weatherdata_restapi\\models\\dtos\\readingbydatetimedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ABD5216-BF07-4B4C-9106-DC9E55056AB4}|WebCluster_AT2_WeatherData_RESTAPI\\WebCluster_AT2_WeatherData_RESTAPI.csproj|solutionrelative:webcluster_at2_weatherdata_restapi\\models\\dtos\\readingbydatetimedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6ABD5216-BF07-4B4C-9106-DC9E55056AB4}|WebCluster_AT2_WeatherData_RESTAPI\\WebCluster_AT2_WeatherData_RESTAPI.csproj|d:\\tafeprogramming\\gitrepo\\tafe_programming\\02_semester2\\01_webdatacluster\\at2\\webcluster_at2_weatherdata_restapi\\webcluster_at2_weatherdata_restapi\\settings\\mongoconnectionsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6ABD5216-BF07-4B4C-9106-DC9E55056AB4}|WebCluster_AT2_WeatherData_RESTAPI\\WebCluster_AT2_WeatherData_RESTAPI.csproj|solutionrelative:webcluster_at2_weatherdata_restapi\\settings\\mongoconnectionsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABD5216-BF07-4B4C-9106-DC9E55056AB4}|WebCluster_AT2_WeatherData_RESTAPI\\WebCluster_AT2_WeatherData_RESTAPI.csproj|d:\\tafeprogramming\\gitrepo\\tafe_programming\\02_semester2\\01_webdatacluster\\at2\\webcluster_at2_weatherdata_restapi\\webcluster_at2_weatherdata_restapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ABD5216-BF07-4B4C-9106-DC9E55056AB4}|WebCluster_AT2_WeatherData_RESTAPI\\WebCluster_AT2_WeatherData_RESTAPI.csproj|solutionrelative:webcluster_at2_weatherdata_restapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,24 +66,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "ReadingsController.cs",
+              "DocumentMoniker": "D:\\TAFEProgramming\\GitRepo\\TAFE_Programming\\02_Semester2\\01_WebDataCluster\\AT2\\WebCluster_AT2_WeatherData_RESTAPI\\WebCluster_AT2_WeatherData_RESTAPI\\Properties\\ReadingsController.cs",
+              "RelativeDocumentMoniker": "WebCluster_AT2_WeatherData_RESTAPI\\Properties\\ReadingsController.cs",
+              "ToolTip": "D:\\TAFEProgramming\\GitRepo\\TAFE_Programming\\02_Semester2\\01_WebDataCluster\\AT2\\WebCluster_AT2_WeatherData_RESTAPI\\WebCluster_AT2_WeatherData_RESTAPI\\Properties\\ReadingsController.cs",
+              "RelativeToolTip": "WebCluster_AT2_WeatherData_RESTAPI\\Properties\\ReadingsController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T15:41:47.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MaxTemperatureDTO.cs",
+              "DocumentMoniker": "D:\\TAFEProgramming\\GitRepo\\TAFE_Programming\\02_Semester2\\01_WebDataCluster\\AT2\\WebCluster_AT2_WeatherData_RESTAPI\\WebCluster_AT2_WeatherData_RESTAPI\\Models\\DTOs\\MaxTemperatureDTO.cs",
+              "RelativeDocumentMoniker": "WebCluster_AT2_WeatherData_RESTAPI\\Models\\DTOs\\MaxTemperatureDTO.cs",
+              "ToolTip": "D:\\TAFEProgramming\\GitRepo\\TAFE_Programming\\02_Semester2\\01_WebDataCluster\\AT2\\WebCluster_AT2_WeatherData_RESTAPI\\WebCluster_AT2_WeatherData_RESTAPI\\Models\\DTOs\\MaxTemperatureDTO.cs",
+              "RelativeToolTip": "WebCluster_AT2_WeatherData_RESTAPI\\Models\\DTOs\\MaxTemperatureDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T14:52:11.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ReadingByDateTimeDTO.cs",
+              "DocumentMoniker": "D:\\TAFEProgramming\\GitRepo\\TAFE_Programming\\02_Semester2\\01_WebDataCluster\\AT2\\WebCluster_AT2_WeatherData_RESTAPI\\WebCluster_AT2_WeatherData_RESTAPI\\Models\\DTOs\\ReadingByDateTimeDTO.cs",
+              "RelativeDocumentMoniker": "WebCluster_AT2_WeatherData_RESTAPI\\Models\\DTOs\\ReadingByDateTimeDTO.cs",
+              "ToolTip": "D:\\TAFEProgramming\\GitRepo\\TAFE_Programming\\02_Semester2\\01_WebDataCluster\\AT2\\WebCluster_AT2_WeatherData_RESTAPI\\WebCluster_AT2_WeatherData_RESTAPI\\Models\\DTOs\\ReadingByDateTimeDTO.cs",
+              "RelativeToolTip": "WebCluster_AT2_WeatherData_RESTAPI\\Models\\DTOs\\ReadingByDateTimeDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T14:52:10.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MaxPercipitationDTO.cs",
+              "DocumentMoniker": "D:\\TAFEProgramming\\GitRepo\\TAFE_Programming\\02_Semester2\\01_WebDataCluster\\AT2\\WebCluster_AT2_WeatherData_RESTAPI\\WebCluster_AT2_WeatherData_RESTAPI\\Models\\DTOs\\MaxPercipitationDTO.cs",
+              "RelativeDocumentMoniker": "WebCluster_AT2_WeatherData_RESTAPI\\Models\\DTOs\\MaxPercipitationDTO.cs",
+              "ToolTip": "D:\\TAFEProgramming\\GitRepo\\TAFE_Programming\\02_Semester2\\01_WebDataCluster\\AT2\\WebCluster_AT2_WeatherData_RESTAPI\\WebCluster_AT2_WeatherData_RESTAPI\\Models\\DTOs\\MaxPercipitationDTO.cs",
+              "RelativeToolTip": "WebCluster_AT2_WeatherData_RESTAPI\\Models\\DTOs\\MaxPercipitationDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T14:40:28.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Roles.cs",
               "DocumentMoniker": "D:\\TAFEProgramming\\GitRepo\\TAFE_Programming\\02_Semester2\\01_WebDataCluster\\AT2\\WebCluster_AT2_WeatherData_RESTAPI\\WebCluster_AT2_WeatherData_RESTAPI\\Data\\Roles.cs",
               "RelativeDocumentMoniker": "WebCluster_AT2_WeatherData_RESTAPI\\Data\\Roles.cs",
               "ToolTip": "D:\\TAFEProgramming\\GitRepo\\TAFE_Programming\\02_Semester2\\01_WebDataCluster\\AT2\\WebCluster_AT2_WeatherData_RESTAPI\\WebCluster_AT2_WeatherData_RESTAPI\\Data\\Roles.cs",
               "RelativeToolTip": "WebCluster_AT2_WeatherData_RESTAPI\\Data\\Roles.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAxwA0AAAA5AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T14:07:54.669Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-27T14:07:54.669Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 13,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\TAFEProgramming\\GitRepo\\TAFE_Programming\\02_Semester2\\01_WebDataCluster\\AT2\\WebCluster_AT2_WeatherData_RESTAPI\\WebCluster_AT2_WeatherData_RESTAPI\\Models\\User.cs",
               "RelativeDocumentMoniker": "WebCluster_AT2_WeatherData_RESTAPI\\Models\\User.cs",
@@ -79,69 +143,68 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Reading.cs",
               "DocumentMoniker": "D:\\TAFEProgramming\\GitRepo\\TAFE_Programming\\02_Semester2\\01_WebDataCluster\\AT2\\WebCluster_AT2_WeatherData_RESTAPI\\WebCluster_AT2_WeatherData_RESTAPI\\Models\\Reading.cs",
               "RelativeDocumentMoniker": "WebCluster_AT2_WeatherData_RESTAPI\\Models\\Reading.cs",
               "ToolTip": "D:\\TAFEProgramming\\GitRepo\\TAFE_Programming\\02_Semester2\\01_WebDataCluster\\AT2\\WebCluster_AT2_WeatherData_RESTAPI\\WebCluster_AT2_WeatherData_RESTAPI\\Models\\Reading.cs",
               "RelativeToolTip": "WebCluster_AT2_WeatherData_RESTAPI\\Models\\Reading.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAowBYAAAAIAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAkwBYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-27T13:20:24.17Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "IReadingsRepository.cs",
               "DocumentMoniker": "D:\\TAFEProgramming\\GitRepo\\TAFE_Programming\\02_Semester2\\01_WebDataCluster\\AT2\\WebCluster_AT2_WeatherData_RESTAPI\\WebCluster_AT2_WeatherData_RESTAPI\\Data\\Repositories\\IReadingsRepository.cs",
               "RelativeDocumentMoniker": "WebCluster_AT2_WeatherData_RESTAPI\\Data\\Repositories\\IReadingsRepository.cs",
               "ToolTip": "D:\\TAFEProgramming\\GitRepo\\TAFE_Programming\\02_Semester2\\01_WebDataCluster\\AT2\\WebCluster_AT2_WeatherData_RESTAPI\\WebCluster_AT2_WeatherData_RESTAPI\\Data\\Repositories\\IReadingsRepository.cs",
               "RelativeToolTip": "WebCluster_AT2_WeatherData_RESTAPI\\Data\\Repositories\\IReadingsRepository.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBQAAAAjAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBQAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-27T13:07:28.772Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ReadingsRepository.cs",
               "DocumentMoniker": "D:\\TAFEProgramming\\GitRepo\\TAFE_Programming\\02_Semester2\\01_WebDataCluster\\AT2\\WebCluster_AT2_WeatherData_RESTAPI\\WebCluster_AT2_WeatherData_RESTAPI\\Data\\Repositories\\ReadingsRepository.cs",
               "RelativeDocumentMoniker": "WebCluster_AT2_WeatherData_RESTAPI\\Data\\Repositories\\ReadingsRepository.cs",
               "ToolTip": "D:\\TAFEProgramming\\GitRepo\\TAFE_Programming\\02_Semester2\\01_WebDataCluster\\AT2\\WebCluster_AT2_WeatherData_RESTAPI\\WebCluster_AT2_WeatherData_RESTAPI\\Data\\Repositories\\ReadingsRepository.cs",
               "RelativeToolTip": "WebCluster_AT2_WeatherData_RESTAPI\\Data\\Repositories\\ReadingsRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAwAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T13:07:14.037Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-27T13:07:14.037Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "MongoConnectionBuilder.cs",
               "DocumentMoniker": "D:\\TAFEProgramming\\GitRepo\\TAFE_Programming\\02_Semester2\\01_WebDataCluster\\AT2\\WebCluster_AT2_WeatherData_RESTAPI\\WebCluster_AT2_WeatherData_RESTAPI\\Data\\MongoConnectionBuilder.cs",
               "RelativeDocumentMoniker": "WebCluster_AT2_WeatherData_RESTAPI\\Data\\MongoConnectionBuilder.cs",
               "ToolTip": "D:\\TAFEProgramming\\GitRepo\\TAFE_Programming\\02_Semester2\\01_WebDataCluster\\AT2\\WebCluster_AT2_WeatherData_RESTAPI\\WebCluster_AT2_WeatherData_RESTAPI\\Data\\MongoConnectionBuilder.cs",
               "RelativeToolTip": "WebCluster_AT2_WeatherData_RESTAPI\\Data\\MongoConnectionBuilder.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-27T13:04:47.693Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\TAFEProgramming\\GitRepo\\TAFE_Programming\\02_Semester2\\01_WebDataCluster\\AT2\\WebCluster_AT2_WeatherData_RESTAPI\\WebCluster_AT2_WeatherData_RESTAPI\\Program.cs",
               "RelativeDocumentMoniker": "WebCluster_AT2_WeatherData_RESTAPI\\Program.cs",
               "ToolTip": "D:\\TAFEProgramming\\GitRepo\\TAFE_Programming\\02_Semester2\\01_WebDataCluster\\AT2\\WebCluster_AT2_WeatherData_RESTAPI\\WebCluster_AT2_WeatherData_RESTAPI\\Program.cs",
               "RelativeToolTip": "WebCluster_AT2_WeatherData_RESTAPI\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAKAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-27T13:03:00.166Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\TAFEProgramming\\GitRepo\\TAFE_Programming\\02_Semester2\\01_WebDataCluster\\AT2\\WebCluster_AT2_WeatherData_RESTAPI\\WebCluster_AT2_WeatherData_RESTAPI\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "WebCluster_AT2_WeatherData_RESTAPI\\Properties\\launchSettings.json",
@@ -153,7 +216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\TAFEProgramming\\GitRepo\\TAFE_Programming\\02_Semester2\\01_WebDataCluster\\AT2\\WebCluster_AT2_WeatherData_RESTAPI\\WebCluster_AT2_WeatherData_RESTAPI\\appsettings.json",
               "RelativeDocumentMoniker": "WebCluster_AT2_WeatherData_RESTAPI\\appsettings.json",
@@ -165,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "MongoConnectionSettings.cs",
               "DocumentMoniker": "D:\\TAFEProgramming\\GitRepo\\TAFE_Programming\\02_Semester2\\01_WebDataCluster\\AT2\\WebCluster_AT2_WeatherData_RESTAPI\\WebCluster_AT2_WeatherData_RESTAPI\\Settings\\MongoConnectionSettings.cs",
               "RelativeDocumentMoniker": "WebCluster_AT2_WeatherData_RESTAPI\\Settings\\MongoConnectionSettings.cs",

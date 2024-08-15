@@ -1,8 +1,11 @@
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
+import java.util.ArrayList;
+import java.util.Date;
+
 import Archive.Repository;
 import Archive.CD;
-import Archive.Sort;
+import LogLinkedList.DList;
 
 import javax.swing.*;
 import javax.swing.event.ListSelectionEvent;
@@ -11,7 +14,7 @@ import javax.swing.table.TableModel;
 
 public class MainWindow extends JFrame implements ActionListener
 {
-	private SpringLayout layout;
+	private final SpringLayout layout;
 	
 	private JPanel pnlContent;
 	
@@ -78,9 +81,13 @@ public class MainWindow extends JFrame implements ActionListener
 	private JCheckBox chkBoxShowMessageLabels;
 	
 	private JButton btnExit;
-	private ListSelectionModel selectionModel;
-	private TableModelArchive archiveModel;
+	private final ListSelectionModel selectionModel;
+	private final TableModelArchive archiveModel;
 	private int selectedCD_Id;
+	private DList logList = new DList();
+	private Date date = new Date();
+	public ArrayList<String> string = new ArrayList<String>();
+	
 
 	public MainWindow(){
 		layout = new SpringLayout();
@@ -132,6 +139,7 @@ public class MainWindow extends JFrame implements ActionListener
 			}
 		});
 		
+		//Update changes to CD details
 		btnSaveUpdate.addActionListener(new ActionListener()
 		{
 			@Override
@@ -156,6 +164,7 @@ public class MainWindow extends JFrame implements ActionListener
 			}
 		});
 		
+		//Sort archive table by Author
 		btnByAuthor.addActionListener(new ActionListener()
 		{
 			@Override
@@ -163,6 +172,100 @@ public class MainWindow extends JFrame implements ActionListener
 			{
 				Repository.SortByAuthor();
 				archiveModel.updateModel();
+			}
+		});
+		// Sort archive table by Title
+		btnByTitle.addActionListener(new ActionListener()
+		{
+			@Override
+			public void actionPerformed(ActionEvent actionEvent)
+			{
+				Repository.SortByTitle();
+				archiveModel.updateModel();
+			}
+		});
+		// Sort archive table by Barcode
+		btnByBarcode.addActionListener(new ActionListener()
+		{
+			@Override
+			public void actionPerformed(ActionEvent actionEvent)
+			{
+				Repository.SortByBarcode();
+				archiveModel.updateModel();
+			}
+		});
+		
+		btnByBarcode.addActionListener(new ActionListener()
+		{
+			@Override
+			public void actionPerformed(ActionEvent actionEvent)
+			{
+				Repository.SortByBarcode();
+				archiveModel.updateModel();
+			}
+		});
+		
+		btnRetrieve.addActionListener(new ActionListener()
+		{
+			@Override
+			public void actionPerformed(ActionEvent actionEvent)
+			{
+				String dateTime = new Date().toString();
+				String action = "SEND";
+				String status = "Retrieve Item";
+				String item = txtFieldBarCode.getText();
+				logList.Add(dateTime + " - " + action + " - " + status + " - " + item);
+				logList.Debug();
+				txtAreaProcessLog.append(dateTime + " - " + action + " - " + status + " - " + item +
+						"\n");
+			}
+		});
+		
+		btnRemove.addActionListener(new ActionListener()
+		{
+			@Override
+			public void actionPerformed(ActionEvent actionEvent)
+			{
+				String dateTime = new Date().toString();
+				String action = "SEND";
+				String status = "Remove Item";
+				String item = txtFieldBarCode.getText();
+				logList.Add(dateTime + " - " + action + " - " + status + " - " + item);
+				logList.Debug();
+				txtAreaProcessLog.append(dateTime + " - " + action + " - " + status + " - " + item +
+						"\n");
+			}
+		});
+		
+		btnReturn.addActionListener(new ActionListener()
+		{
+			@Override
+			public void actionPerformed(ActionEvent actionEvent)
+			{
+				String dateTime = new Date().toString();
+				String action = "SEND";
+				String status = "Return Item";
+				String item = txtFieldBarCode.getText();
+				logList.Add(dateTime + " - " + action + " - " + status + " - " + item);
+				logList.Debug();
+				txtAreaProcessLog.append(dateTime + " - " + action + " - " + status + " - " + item +
+						"\n");
+			}
+		});
+		
+		btnAddToCollection.addActionListener(new ActionListener()
+		{
+			@Override
+			public void actionPerformed(ActionEvent actionEvent)
+			{
+				String dateTime = new Date().toString();
+				String action = "SEND";
+				String status = "Return Item";
+				String item = txtFieldBarCode.getText();
+				logList.Add(dateTime + " - " + action + " - " + status + " - " + item);
+				logList.Debug();
+				txtAreaProcessLog.append(dateTime + " - " + action + " - " + status + " - " + item +
+						"\n");
 			}
 		});
 	}
@@ -179,15 +282,7 @@ public class MainWindow extends JFrame implements ActionListener
 				if (Character.isAlphabetic(txtFieldSection.getText().charAt(0)) && !txtFieldTitle.getText().isEmpty() && !txtFieldAuthor.getText().isEmpty() && !txtAreaDescription.getText().isEmpty())
 				{
 					isValid = true;
-					if (JOptionPane.showConfirmDialog(this,"Confirm the changes to the archive",
-							"Warning", JOptionPane.YES_NO_OPTION, JOptionPane.WARNING_MESSAGE) == 0)
-					{
-						isValid = true;
-					}
-					else
-					{
-						isValid = false;
-					}
+					isValid = JOptionPane.showConfirmDialog(this, "Confirm the changes to the archive", "Warning", JOptionPane.YES_NO_OPTION, JOptionPane.WARNING_MESSAGE) == 0;
 				} else
 				{
 					isValid = false;

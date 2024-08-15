@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0CtXNkOI3LVSXNBgEnQeVZyzVjEY+OQ6Wm7YhR/oaFA=",
+  "Source": "WebCluster_AT2_WeatherData_RESTAPI",
+  "BasePath": "_content/WebCluster_AT2_WeatherData_RESTAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -5,6 +5,7 @@ unit: ManageClientProblems
 semester: 2
 task: 1
 duedate: 2024-07-26
+isFinished: true
 ---
 # Assessment Files
 - [Client Introduction](1_BobBrownsBusiness.mp3)

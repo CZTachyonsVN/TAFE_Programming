@@ -26,6 +26,7 @@
     "semester": "number",
     "week": "number",
     "duedate": "date",
-    "task": "number"
+    "task": "number",
+    "Finished": "checkbox"
   }
 }
