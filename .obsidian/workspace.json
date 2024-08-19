@@ -4,37 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "aec91b63d58d1df4",
+        "id": "649ba09488743748",
         "type": "tabs",
-        "dimension": 55.38764783180026,
         "children": [
           {
-            "id": "93050530c250173b",
+            "id": "44fa60baccabd1a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "TableOfConents.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "47456c600c276d15",
-        "type": "tabs",
-        "dimension": 44.612352168199735,
-        "children": [
-          {
-            "id": "94f688e7c722a02d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Semester2/01_WebDataCluster/AT2/WebData_AT2.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -204,44 +183,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "93050530c250173b",
+  "active": "44fa60baccabd1a2",
   "lastOpenFiles": [
-    "02_Semester2/02_LeadTeam/AT1/LeadTeam_AT1.md",
+    "02_Semester2/01_IntegrateDatabases/AT2/_IntegrateDatabases_AT2.md",
     "TableOfConents.md",
-    "02_Semester2/02_LeadTeam/AT1/BSBXTW401_AT1_HaiHorky.docx",
+    "02_Semester2/01_IntegrateDatabases/TeachingContent/DataFormatting_EFRawSQL.pdf",
+    "04_Media/Pasted image 20240820053810.png",
+    "02_Semester2/01_IntegrateDatabases/01_Notes/DataType_Formatting.md",
+    "02_Semester2/01_IntegrateDatabases/01_Notes/BuildingDatabaseWithEF.md",
+    "02_Semester2/01_WebDataCluster/01_Notes/NuGetPackagesForDatabaseRESTAPI.md",
+    "02_Semester2/01_IntegrateDatabases/TeachingContent/DataValidationAnnotation_CheatSheet.pdf",
+    "Untitled Kanban.md",
+    "02_Semester2/01_IntegrateDatabases/01_Notes/Injection_Vulnerability.md",
+    "02_Semester2/01_IntegrateDatabases/Exercises/DataFormattingExamples/DataFormattingExamples/obj/Debug/net8.0/DataFormattingExamples.csproj.FileListAbsolute.txt",
+    "02_Semester2/01_IntegrateDatabases/Exercises/DataFormattingExamples/DataFormattingExamples/bin/Debug/net8.0/DataFormattingExamples.pdb",
+    "02_Semester2/01_IntegrateDatabases/Exercises/DataFormattingExamples/DataFormattingExamples/obj/Debug/net8.0/ref/DataFormattingExamples.dll",
+    "02_Semester2/01_IntegrateDatabases/Exercises/DataFormattingExamples/DataFormattingExamples/bin/Debug/net8.0/DataFormattingExamples.dll",
+    "02_Semester2/01_IntegrateDatabases/Exercises/DataFormattingExamples/DataFormattingExamples/bin/Debug/net8.0/DataFormattingExamples.runtimeconfig.json",
+    "02_Semester2/01_IntegrateDatabases/Exercises/DataFormattingExamples/DataFormattingExamples/obj/Debug/net8.0/DataFormattingExamples.genruntimeconfig.cache",
+    "02_Semester2/01_IntegrateDatabases/Exercises/DataFormattingExamples/DataFormattingExamples/bin/Debug/net8.0/DataFormattingExamples.deps.json",
+    "02_Semester2/01_IntegrateDatabases/Exercises/DataFormattingExamples/DataFormattingExamples/bin/Debug/net8.0/DataFormattingExamples.exe",
+    "02_Semester2/01_WebDataCluster/01_Notes/OSI_Idempotency_CrossOriginResourceSharing.md",
+    "02_Semester2/01_IntegrateDatabases/AT2/Database_Model.md",
+    "03_Misc/VimMotions.md",
+    "02_Semester2/Kanban.md",
+    "README.md",
+    "02_Semester2/02_LeadTeam/AT1/LeadTeam_AT1.md",
     "02_Semester2/01_ManageClientProblems/AT3/_ManageClientProblems_AT3.md",
     "02_Semester2/01_ManageClientProblems/AT3/Summary_Transcript.md",
-    "02_Semester2/01_ManageClientProblems/AT3/ICTSAS527_AT3_HaiHorky.zip",
-    "02_Semester2/01_ManageClientProblems/AT3/ICTSAS527_AT3_HaiHorky_.zip",
-    "02_Semester2/01_ManageClientProblems/AT3/ICTSAS527_AT3_HaiHorky_RecordingSummaryAndTranscript.zip",
-    "02_Semester2/01_ManageClientProblems/AT3/ICTSAS527_AT3_HaiHorky_RecordingSummaryAndTranscript.pdf",
-    "02_Semester2/01_ManageClientProblems/AT3/Recording_SummaryAndTranscript.pdf",
-    "02_Semester2/01_ManageClientProblems/AT3/TeamMeeting_RecordingSummaryAndTranscript.pdf",
-    "02_Semester2/01_ManageClientProblems/AT3/ICTSAS527_AT3_HaiHorky_Recording.mp3",
-    "02_Semester2/01_ManageClientProblems/AT3/ICTSAS527_AT3_Transcript.zip",
-    "02_Semester2/01_ManageClientProblems/AT3/TeamMeeting_SummaryAndTranscript.pdf",
-    "02_Semester2/01_WebDataCluster/01_Notes/OSI_Idempotency_CrossOriginResourceSharing.md",
-    "02_Semester2/01_WebDataCluster/01_Notes/NuGetPackagesForDatabaseRESTAPI.md",
     "02_Semester2/01_WebDataCluster/01_Notes/JSON.md",
     "02_Semester2/01_WebDataCluster/01_Notes/IndexesStorageAndThroughput.md",
     "02_Semester2/01_WebDataCluster/01_Notes/DTO.md",
     "02_Semester2/01_WebDataCluster/AT2/WebData_AT2.md",
-    "02_Semester2/01_IntegrateDatabases/AT2/IntegrateDatabases_AT2.md",
     "02_Semester2/01_Java/01_Notes/BinaryTree.md",
     "02_Semester2/01_IntegrateDatabases/01_Notes/SessionManagement.md",
     "04_Media/Pasted image 20240813032044.png",
-    "02_Semester2/01_IntegrateDatabases/AT2/Database_Model.md",
     "02_Semester2/03_IPEthicsPrivacy/_Notes/Introduction.md",
     "02_Semester2/01_Java/01_Notes/DoubleLinkedList.md",
-    "README.md",
     "Excalidraw/Drawing 2024-07-09 12.49.11.excalidraw.md",
-    "02_Semester2/Kanban.md",
-    "03_Misc/VimMotions.md",
     "02_Semester2/01_WebDataCluster/02_NoSQL/Notes/DatabaseIndexing.md",
-    "02_Semester2/01_WebDataCluster/AT2/WebData_AT2_1.md",
-    "02_Semester2/01_ManageClientProblems/AT2_2/ManageClients_AT2_2.md",
-    "02_Semester2/02_LeadTeam/AT3/LeadTeam_AT3.md",
-    "02_Semester2/02_LeadTeam/AT2/LeadTeam_AT2.md",
     "04_Media/Pasted image 20240716041351.png",
     "04_Media/Pasted image 20240716040132.png",
     "04_Media/FlowchartArithmetic.png",
@@ -250,7 +230,6 @@
     "04_Media/Pasted image 20240125093843.png",
     "04_Media/operatorCheckSketch.png",
     "04_Media/Flowcharts.png",
-    "04_Media/Pasted image 20240502002501.png",
     "01_Semester1/_SA5/MMMR_ERD.canvas",
     "01_Semester1/_SA5/Notes/DatabaseExample.canvas",
     "Semester1/_SA5/MMMR_ERD.canvas",

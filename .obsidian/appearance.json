@@ -4,6 +4,8 @@
   "translucency": true,
   "theme": "obsidian",
   "cssTheme": "AnuPpuccin",
-  "textFontFamily": "Linux Biolinum G",
-  "nativeMenus": false
+  "textFontFamily": "JetBrains Mono,Linux Biolinum G",
+  "nativeMenus": false,
+  "interfaceFontFamily": "JetBrains Mono",
+  "monospaceFontFamily": "JetBrains Mono"
 }

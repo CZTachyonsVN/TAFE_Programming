@@ -26,6 +26,8 @@ week: 6
 - Browser enforces the rules.
 # Attack vectors
 ## Cross Site Request Forgery
+
+- Notes: [Cross-site Scripting](Injection_Vulnerability#Cross-site%20Scripting) in [Injection_Vulnerability](../../01_IntegrateDatabases/01_Notes/Injection_Vulnerability.md)
 - A fake site that has the real website embedded inside it.
 ## DDOS
 - Overwhelming a server with high amount of traffic

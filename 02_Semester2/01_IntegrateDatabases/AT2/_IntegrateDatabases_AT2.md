@@ -4,7 +4,7 @@ tags:
 unit: IntegrateDatabases
 semester: 2
 task: 2
-duedate: 2024-09-06
+duedate: 2024-09-13
 ---
 # Assessment Files
 [Scenario](ICTDBS507_Scenario_TypicalTechTools_SH_TQM_v1.pdf)
@@ -21,3 +21,5 @@ duedate: 2024-09-06
 - Update price
 - Update date
 - Add created date to new comments
+### Date Formatting
+![](../../../04_Media/Pasted%20image%2020240820053810.png)

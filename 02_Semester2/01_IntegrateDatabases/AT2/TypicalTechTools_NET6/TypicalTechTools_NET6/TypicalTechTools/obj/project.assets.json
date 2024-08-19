@@ -7847,24 +7847,27 @@
     ]
   },
   "packageFolders": {
-    "/home/hai/.nuget/packages/": {}
+    "C:\\Users\\hai\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/hai/Documents/School/AdvancedProgramming/02_Semester2/01_IntegrateDatabases/AT2/TypicalTechTools_NET6/TypicalTechTools_NET6/TypicalTechTools/TypicalTechTools.csproj",
+      "projectUniqueName": "D:\\TAFEProgramming\\GitRepo\\TAFE_Programming\\02_Semester2\\01_IntegrateDatabases\\AT2\\TypicalTechTools_NET6\\TypicalTechTools_NET6\\TypicalTechTools\\TypicalTechTools.csproj",
       "projectName": "TypicalTechTools",
-      "projectPath": "/home/hai/Documents/School/AdvancedProgramming/02_Semester2/01_IntegrateDatabases/AT2/TypicalTechTools_NET6/TypicalTechTools_NET6/TypicalTechTools/TypicalTechTools.csproj",
-      "packagesPath": "/home/hai/.nuget/packages/",
-      "outputPath": "/home/hai/Documents/School/AdvancedProgramming/02_Semester2/01_IntegrateDatabases/AT2/TypicalTechTools_NET6/TypicalTechTools_NET6/TypicalTechTools/obj/",
+      "projectPath": "D:\\TAFEProgramming\\GitRepo\\TAFE_Programming\\02_Semester2\\01_IntegrateDatabases\\AT2\\TypicalTechTools_NET6\\TypicalTechTools_NET6\\TypicalTechTools\\TypicalTechTools.csproj",
+      "packagesPath": "C:\\Users\\hai\\.nuget\\packages\\",
+      "outputPath": "D:\\TAFEProgramming\\GitRepo\\TAFE_Programming\\02_Semester2\\01_IntegrateDatabases\\AT2\\TypicalTechTools_NET6\\TypicalTechTools_NET6\\TypicalTechTools\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/hai/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\hai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -7877,6 +7880,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -7921,7 +7929,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/home/hai/.dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

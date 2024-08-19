@@ -17,67 +17,67 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TypicalTechTools
 build_property.RootNamespace = TypicalTechTools
-build_property.ProjectDir = /home/hai/Documents/School/AdvancedProgramming/02_Semester2/01_IntegrateDatabases/AT2/TypicalTechTools_NET6/TypicalTechTools_NET6/TypicalTechTools/
+build_property.ProjectDir = D:\TAFEProgramming\GitRepo\TAFE_Programming\02_Semester2\01_IntegrateDatabases\AT2\TypicalTechTools_NET6\TypicalTechTools_NET6\TypicalTechTools\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /home/hai/Documents/School/AdvancedProgramming/02_Semester2/01_IntegrateDatabases/AT2/TypicalTechTools_NET6/TypicalTechTools_NET6/TypicalTechTools
+build_property.MSBuildProjectDirectory = D:\TAFEProgramming\GitRepo\TAFE_Programming\02_Semester2\01_IntegrateDatabases\AT2\TypicalTechTools_NET6\TypicalTechTools_NET6\TypicalTechTools
 build_property._RazorSourceGeneratorDebug = 
 
-[/home/hai/Documents/School/AdvancedProgramming/02_Semester2/01_IntegrateDatabases/AT2/TypicalTechTools_NET6/TypicalTechTools_NET6/TypicalTechTools/Views/Admin/AdminLogin.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vQWRtaW5Mb2dpbi5jc2h0bWw=
+[D:/TAFEProgramming/GitRepo/TAFE_Programming/02_Semester2/01_IntegrateDatabases/AT2/TypicalTechTools_NET6/TypicalTechTools_NET6/TypicalTechTools/Views/Admin/AdminLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW5Mb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/hai/Documents/School/AdvancedProgramming/02_Semester2/01_IntegrateDatabases/AT2/TypicalTechTools_NET6/TypicalTechTools_NET6/TypicalTechTools/Views/Comment/AddComment.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29tbWVudC9BZGRDb21tZW50LmNzaHRtbA==
+[D:/TAFEProgramming/GitRepo/TAFE_Programming/02_Semester2/01_IntegrateDatabases/AT2/TypicalTechTools_NET6/TypicalTechTools_NET6/TypicalTechTools/Views/Comment/AddComment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudFxBZGRDb21tZW50LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/hai/Documents/School/AdvancedProgramming/02_Semester2/01_IntegrateDatabases/AT2/TypicalTechTools_NET6/TypicalTechTools_NET6/TypicalTechTools/Views/Comment/CommentList.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29tbWVudC9Db21tZW50TGlzdC5jc2h0bWw=
+[D:/TAFEProgramming/GitRepo/TAFE_Programming/02_Semester2/01_IntegrateDatabases/AT2/TypicalTechTools_NET6/TypicalTechTools_NET6/TypicalTechTools/Views/Comment/CommentList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudFxDb21tZW50TGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/hai/Documents/School/AdvancedProgramming/02_Semester2/01_IntegrateDatabases/AT2/TypicalTechTools_NET6/TypicalTechTools_NET6/TypicalTechTools/Views/Comment/EditComment.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29tbWVudC9FZGl0Q29tbWVudC5jc2h0bWw=
+[D:/TAFEProgramming/GitRepo/TAFE_Programming/02_Semester2/01_IntegrateDatabases/AT2/TypicalTechTools_NET6/TypicalTechTools_NET6/TypicalTechTools/Views/Comment/EditComment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudFxFZGl0Q29tbWVudC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/hai/Documents/School/AdvancedProgramming/02_Semester2/01_IntegrateDatabases/AT2/TypicalTechTools_NET6/TypicalTechTools_NET6/TypicalTechTools/Views/Product/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdC9JbmRleC5jc2h0bWw=
+[D:/TAFEProgramming/GitRepo/TAFE_Programming/02_Semester2/01_IntegrateDatabases/AT2/TypicalTechTools_NET6/TypicalTechTools_NET6/TypicalTechTools/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/hai/Documents/School/AdvancedProgramming/02_Semester2/01_IntegrateDatabases/AT2/TypicalTechTools_NET6/TypicalTechTools_NET6/TypicalTechTools/Views/Product/IndexSQL.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdC9JbmRleFNRTC5jc2h0bWw=
+[D:/TAFEProgramming/GitRepo/TAFE_Programming/02_Semester2/01_IntegrateDatabases/AT2/TypicalTechTools_NET6/TypicalTechTools_NET6/TypicalTechTools/Views/Product/IndexSQL.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleFNRTC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/hai/Documents/School/AdvancedProgramming/02_Semester2/01_IntegrateDatabases/AT2/TypicalTechTools_NET6/TypicalTechTools_NET6/TypicalTechTools/Views/Product/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdC9Qcml2YWN5LmNzaHRtbA==
+[D:/TAFEProgramming/GitRepo/TAFE_Programming/02_Semester2/01_IntegrateDatabases/AT2/TypicalTechTools_NET6/TypicalTechTools_NET6/TypicalTechTools/Views/Product/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/hai/Documents/School/AdvancedProgramming/02_Semester2/01_IntegrateDatabases/AT2/TypicalTechTools_NET6/TypicalTechTools_NET6/TypicalTechTools/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+[D:/TAFEProgramming/GitRepo/TAFE_Programming/02_Semester2/01_IntegrateDatabases/AT2/TypicalTechTools_NET6/TypicalTechTools_NET6/TypicalTechTools/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/hai/Documents/School/AdvancedProgramming/02_Semester2/01_IntegrateDatabases/AT2/TypicalTechTools_NET6/TypicalTechTools_NET6/TypicalTechTools/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[D:/TAFEProgramming/GitRepo/TAFE_Programming/02_Semester2/01_IntegrateDatabases/AT2/TypicalTechTools_NET6/TypicalTechTools_NET6/TypicalTechTools/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/hai/Documents/School/AdvancedProgramming/02_Semester2/01_IntegrateDatabases/AT2/TypicalTechTools_NET6/TypicalTechTools_NET6/TypicalTechTools/Views/Warranty/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvV2FycmFudHkvRGVsZXRlLmNzaHRtbA==
+[D:/TAFEProgramming/GitRepo/TAFE_Programming/02_Semester2/01_IntegrateDatabases/AT2/TypicalTechTools_NET6/TypicalTechTools_NET6/TypicalTechTools/Views/Warranty/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2FycmFudHlcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/hai/Documents/School/AdvancedProgramming/02_Semester2/01_IntegrateDatabases/AT2/TypicalTechTools_NET6/TypicalTechTools_NET6/TypicalTechTools/Views/Warranty/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvV2FycmFudHkvSW5kZXguY3NodG1s
+[D:/TAFEProgramming/GitRepo/TAFE_Programming/02_Semester2/01_IntegrateDatabases/AT2/TypicalTechTools_NET6/TypicalTechTools_NET6/TypicalTechTools/Views/Warranty/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2FycmFudHlcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/hai/Documents/School/AdvancedProgramming/02_Semester2/01_IntegrateDatabases/AT2/TypicalTechTools_NET6/TypicalTechTools_NET6/TypicalTechTools/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[D:/TAFEProgramming/GitRepo/TAFE_Programming/02_Semester2/01_IntegrateDatabases/AT2/TypicalTechTools_NET6/TypicalTechTools_NET6/TypicalTechTools/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/hai/Documents/School/AdvancedProgramming/02_Semester2/01_IntegrateDatabases/AT2/TypicalTechTools_NET6/TypicalTechTools_NET6/TypicalTechTools/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+[D:/TAFEProgramming/GitRepo/TAFE_Programming/02_Semester2/01_IntegrateDatabases/AT2/TypicalTechTools_NET6/TypicalTechTools_NET6/TypicalTechTools/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/hai/Documents/School/AdvancedProgramming/02_Semester2/01_IntegrateDatabases/AT2/TypicalTechTools_NET6/TypicalTechTools_NET6/TypicalTechTools/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-x1k4vcb71i
+[D:/TAFEProgramming/GitRepo/TAFE_Programming/02_Semester2/01_IntegrateDatabases/AT2/TypicalTechTools_NET6/TypicalTechTools_NET6/TypicalTechTools/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-s35ksq7y8l
